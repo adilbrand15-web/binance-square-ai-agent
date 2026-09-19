@@ -1,0 +1,20 @@
+name: Test Binance Agent
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-agent:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run Binance Market Scanner
+        run: python main.py
