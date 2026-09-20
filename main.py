@@ -1,7 +1,7 @@
 import json
 from urllib.request import urlopen, Request
 
-BINANCE_API = "https://api.binance.com/api/v3/ticker/price"
+BINANCE_API = "https://data-api.binance.vision/api/v3/ticker/price"
 
 
 def get_price(symbol):
