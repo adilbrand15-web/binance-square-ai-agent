@@ -1,38 +1,92 @@
 import json
 from urllib.request import urlopen, Request
 
-BINANCE_API = "https://data-api.binance.vision/api/v3/ticker/price"
+BINANCE_API = "https://data-api.binance.vision/api/v3/ticker/24hr"
 
 
-def get_price(symbol):
-    url = f"{BINANCE_API}?symbol={symbol}"
-
+def get_market_data():
     request = Request(
-        url,
+        BINANCE_API,
         headers={"User-Agent": "Binance-Square-AI-Agent/1.0"}
     )
 
-    with urlopen(request, timeout=10) as response:
-        data = json.loads(response.read().decode())
-
-    return float(data["price"])
+    with urlopen(request, timeout=20) as response:
+        return json.loads(response.read().decode())
 
 
 def main():
-    print("=" * 45)
+    print("=" * 55)
     print("BINANCE SQUARE AI AGENT")
-    print("MARKET SCANNER")
-    print("=" * 45)
+    print("DYNAMIC TOP GAINERS SCANNER")
+    print("=" * 55)
 
-    btc = get_price("BTCUSDT")
-    eth = get_price("ETHUSDT")
+    data = get_market_data()
 
-    print(f"BTC/USDT: ${btc:,.2f}")
-    print(f"ETH/USDT: ${eth:,.2f}")
+    # Only USDT trading pairs
+    usdt_pairs = [
+        coin for coin in data
+        if coin["symbol"].endswith("USDT")
+    ]
 
-    print("=" * 45)
-    print("Market data connection: ONLINE")
-    print("=" * 45)
+    # Coins/pairs we don't want in the altcoin scanner
+    excluded_words = [
+        "UPUSDT",
+        "DOWNUSDT",
+        "BULLUSDT",
+        "BEARUSDT"
+    ]
+
+    filtered = []
+
+    for coin in usdt_pairs:
+        symbol = coin["symbol"]
+
+        if symbol in ["BTCUSDT", "ETHUSDT"]:
+            continue
+
+        if any(word in symbol for word in excluded_words):
+            continue
+
+        try:
+            price_change = float(coin["priceChangePercent"])
+            volume = float(coin["quoteVolume"])
+        except (ValueError, KeyError):
+            continue
+
+        # Minimum 24h volume: $5 million
+        if volume < 5_000_000:
+            continue
+
+        filtered.append({
+            "symbol": symbol,
+            "change": price_change,
+            "volume": volume,
+            "price": float(coin["lastPrice"])
+        })
+
+    # Sort by 24h percentage gain
+    filtered.sort(
+        key=lambda x: x["change"],
+        reverse=True
+    )
+
+    top_10 = filtered[:10]
+
+    print("\nTOP 10 DYNAMIC GAINERS")
+    print("-" * 55)
+
+    for index, coin in enumerate(top_10, start=1):
+        print(
+            f"{index}. {coin['symbol']}"
+            f" | +{coin['change']:.2f}%"
+            f" | Volume: ${coin['volume']:,.0f}"
+            f" | Price: ${coin['price']}"
+        )
+
+    print("-" * 55)
+    print(f"Coins scanned: {len(filtered)}")
+    print("Scanner status: ONLINE")
+    print("=" * 55)
 
 
 if __name__ == "__main__":
