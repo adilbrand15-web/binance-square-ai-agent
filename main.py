@@ -421,7 +421,82 @@ def get_entry_confirmation(data, direction):
 
     return False
 
+# =========================================================
+# SIGNAL QUALITY FILTER
+# =========================================================
 
+def check_entry_quality(
+    entry,
+    stop_loss,
+    direction,
+    tf15m
+):
+
+    if tf15m is None:
+        return False, "15M data unavailable"
+
+    support = tf15m["support"]
+    resistance = tf15m["resistance"]
+
+    # -----------------------------------------------------
+    # LONG
+    # -----------------------------------------------------
+
+    if direction == "LONG":
+
+        if resistance <= entry:
+            return False, "Entry already above resistance"
+
+        distance_to_resistance = (
+            resistance - entry
+        )
+
+        risk = abs(
+            entry - stop_loss
+        )
+
+        if risk <= 0:
+            return False, "Invalid risk"
+
+        # Resistance should be at least 1R away
+        if distance_to_resistance < risk:
+            return (
+                False,
+                "Resistance too close to entry"
+            )
+
+    # -----------------------------------------------------
+    # SHORT
+    # -----------------------------------------------------
+
+    elif direction == "SHORT":
+
+        if support >= entry:
+            return False, "Entry already below support"
+
+        distance_to_support = (
+            entry - support
+        )
+
+        risk = abs(
+            stop_loss - entry
+        )
+
+        if risk <= 0:
+            return False, "Invalid risk"
+
+        # Support should be at least 1R away
+        if distance_to_support < risk:
+            return (
+                False,
+                "Support too close to entry"
+            )
+
+    else:
+
+        return False, "Invalid direction"
+
+    return True, "Entry quality passed"
 # =========================================================
 # MULTI-TIMEFRAME SIGNAL
 # =========================================================
