@@ -5,11 +5,18 @@ from urllib.parse import urlencode
 BASE_URL = "https://data-api.binance.vision/api/v3"
 
 MIN_VOLUME = 5_000_000
+
 CANDLE_LIMIT = 100
+
 SIGNAL_THRESHOLD = 85
 
 
+# =========================================================
+# BINANCE PUBLIC API
+# =========================================================
+
 def api_request(endpoint, params=None):
+
     url = f"{BASE_URL}/{endpoint}"
 
     if params:
@@ -17,42 +24,62 @@ def api_request(endpoint, params=None):
 
     request = Request(
         url,
-        headers={"User-Agent": "Binance-Square-AI-Agent/1.0"}
+        headers={
+            "User-Agent": "Binance-Square-AI-Agent/1.0"
+        }
     )
 
     with urlopen(request, timeout=20) as response:
-        return json.loads(response.read().decode())
+        return json.loads(
+            response.read().decode()
+        )
 
+
+# =========================================================
+# MARKET DATA
+# =========================================================
 
 def get_market_data():
+
     return api_request("ticker/24hr")
 
 
-def get_klines(symbol):
+def get_klines(symbol, interval):
+
     return api_request(
         "klines",
         {
             "symbol": symbol,
-            "interval": "1h",
+            "interval": interval,
             "limit": CANDLE_LIMIT
         }
     )
 
 
+# =========================================================
+# INDICATORS
+# =========================================================
+
 def calculate_ema(values, period):
+
     if len(values) < period:
         return None
 
     ema = sum(values[:period]) / period
+
     multiplier = 2 / (period + 1)
 
     for price in values[period:]:
-        ema = (price - ema) * multiplier + ema
+
+        ema = (
+            (price - ema) * multiplier
+        ) + ema
 
     return ema
 
 
 def calculate_rsi(values, period=14):
+
     if len(values) <= period:
         return None
 
@@ -60,25 +87,44 @@ def calculate_rsi(values, period=14):
     losses = []
 
     for i in range(1, len(values)):
+
         change = values[i] - values[i - 1]
 
         if change > 0:
+
             gains.append(change)
             losses.append(0)
+
         else:
+
             gains.append(0)
             losses.append(abs(change))
 
-    avg_gain = sum(gains[:period]) / period
-    avg_loss = sum(losses[:period]) / period
+    avg_gain = sum(
+        gains[:period]
+    ) / period
 
-    for i in range(period, len(gains)):
+    avg_loss = sum(
+        losses[:period]
+    ) / period
+
+    for i in range(
+        period,
+        len(gains)
+    ):
+
         avg_gain = (
-            (avg_gain * (period - 1)) + gains[i]
+            (
+                avg_gain * (period - 1)
+            )
+            + gains[i]
         ) / period
 
         avg_loss = (
-            (avg_loss * (period - 1)) + losses[i]
+            (
+                avg_loss * (period - 1)
+            )
+            + losses[i]
         ) / period
 
     if avg_loss == 0:
@@ -86,12 +132,22 @@ def calculate_rsi(values, period=14):
 
     rs = avg_gain / avg_loss
 
-    return 100 - (100 / (1 + rs))
+    return 100 - (
+        100 / (1 + rs)
+    )
 
 
 def calculate_macd(values):
-    ema12 = calculate_ema(values, 12)
-    ema26 = calculate_ema(values, 26)
+
+    ema12 = calculate_ema(
+        values,
+        12
+    )
+
+    ema26 = calculate_ema(
+        values,
+        26
+    )
 
     if ema12 is None or ema26 is None:
         return None
@@ -100,72 +156,126 @@ def calculate_macd(values):
 
 
 def calculate_atr(candles, period=14):
+
     if len(candles) < period + 1:
         return None
 
     true_ranges = []
 
     for i in range(1, len(candles)):
-        high = float(candles[i][2])
-        low = float(candles[i][3])
-        previous_close = float(candles[i - 1][4])
 
-        tr = max(
+        high = float(
+            candles[i][2]
+        )
+
+        low = float(
+            candles[i][3]
+        )
+
+        previous_close = float(
+            candles[i - 1][4]
+        )
+
+        true_range = max(
             high - low,
             abs(high - previous_close),
             abs(low - previous_close)
         )
 
-        true_ranges.append(tr)
+        true_ranges.append(
+            true_range
+        )
 
-    return sum(true_ranges[-period:]) / period
-
-
-def get_market_structure(candles):
-    recent = candles[-20:]
-
-    highs = [float(candle[2]) for candle in recent]
-    lows = [float(candle[3]) for candle in recent]
-
-    resistance = max(highs)
-    support = min(lows)
-
-    return support, resistance
+    return sum(
+        true_ranges[-period:]
+    ) / period
 
 
-def analyze_coin(symbol):
-    candles = get_klines(symbol)
+# =========================================================
+# TIMEFRAME ANALYSIS
+# =========================================================
+
+def analyze_timeframe(symbol, interval):
+
+    candles = get_klines(
+        symbol,
+        interval
+    )
 
     if len(candles) < 50:
         return None
 
-    closes = [float(candle[4]) for candle in candles]
-    volumes = [float(candle[5]) for candle in candles]
+    closes = [
+        float(candle[4])
+        for candle in candles
+    ]
+
+    volumes = [
+        float(candle[5])
+        for candle in candles
+    ]
 
     current_price = closes[-1]
 
-    ema20 = calculate_ema(closes, 20)
-    ema50 = calculate_ema(closes, 50)
+    ema20 = calculate_ema(
+        closes,
+        20
+    )
 
-    rsi = calculate_rsi(closes, 14)
+    ema50 = calculate_ema(
+        closes,
+        50
+    )
 
-    macd = calculate_macd(closes)
+    rsi = calculate_rsi(
+        closes,
+        14
+    )
 
-    atr = calculate_atr(candles, 14)
+    macd = calculate_macd(
+        closes
+    )
 
-    average_volume = sum(volumes[-20:]) / 20
+    atr = calculate_atr(
+        candles,
+        14
+    )
+
+    average_volume = (
+        sum(volumes[-20:]) / 20
+    )
 
     current_volume = volumes[-1]
 
     if average_volume > 0:
-        volume_ratio = current_volume / average_volume
+
+        volume_ratio = (
+            current_volume /
+            average_volume
+        )
+
     else:
+
         volume_ratio = 0
 
-    support, resistance = get_market_structure(candles)
+    recent = candles[-20:]
+
+    highs = [
+        float(candle[2])
+        for candle in recent
+    ]
+
+    lows = [
+        float(candle[3])
+        for candle in recent
+    ]
+
+    support = min(lows)
+
+    resistance = max(highs)
 
     return {
-        "symbol": symbol,
+        "interval": interval,
         "price": current_price,
         "ema20": ema20,
         "ema50": ema50,
@@ -178,156 +288,389 @@ def analyze_coin(symbol):
     }
 
 
-def calculate_signal(result):
+# =========================================================
+# TIMEFRAME DIRECTION
+# =========================================================
 
-    price = result["price"]
-    ema20 = result["ema20"]
-    ema50 = result["ema50"]
-    rsi = result["rsi"]
-    macd = result["macd"]
-    atr = result["atr"]
-    volume_ratio = result["volume_ratio"]
-    support = result["support"]
-    resistance = result["resistance"]
+def get_direction(data):
 
-    long_score = 0
-    short_score = 0
+    if data is None:
+        return "NEUTRAL"
 
-    # -------------------------
-    # TREND
-    # -------------------------
+    price = data["price"]
 
-    if price > ema20 > ema50:
-        long_score += 25
+    ema20 = data["ema20"]
 
-    if price < ema20 < ema50:
-        short_score += 25
+    ema50 = data["ema50"]
 
-    # -------------------------
+    rsi = data["rsi"]
+
+    macd = data["macd"]
+
+    bullish_points = 0
+
+    bearish_points = 0
+
+    # Trend
+
+    if price > ema20:
+        bullish_points += 1
+
+    if price > ema50:
+        bullish_points += 1
+
+    if ema20 > ema50:
+        bullish_points += 1
+
+    if price < ema20:
+        bearish_points += 1
+
+    if price < ema50:
+        bearish_points += 1
+
+    if ema20 < ema50:
+        bearish_points += 1
+
     # RSI
-    # -------------------------
 
-    if 50 <= rsi <= 68:
-        long_score += 15
+    if rsi >= 50:
+        bullish_points += 1
 
-    if 32 <= rsi <= 50:
-        short_score += 15
+    if rsi <= 50:
+        bearish_points += 1
 
-    # Avoid extreme overbought/oversold entries
-    if rsi > 75:
-        long_score -= 10
-
-    if rsi < 25:
-        short_score -= 10
-
-    # -------------------------
     # MACD
-    # -------------------------
 
     if macd > 0:
-        long_score += 15
+        bullish_points += 1
 
     if macd < 0:
-        short_score += 15
+        bearish_points += 1
 
-    # -------------------------
-    # VOLUME
-    # -------------------------
+    if bullish_points >= 4:
+        return "BULLISH"
 
-    if volume_ratio >= 1.5:
-        long_score += 15
-        short_score += 15
+    if bearish_points >= 4:
+        return "BEARISH"
 
-    elif volume_ratio >= 1.2:
+    return "NEUTRAL"
+
+
+# =========================================================
+# ENTRY CONFIRMATION
+# =========================================================
+
+def get_entry_confirmation(data, direction):
+
+    if data is None:
+        return False
+
+    price = data["price"]
+
+    ema20 = data["ema20"]
+
+    ema50 = data["ema50"]
+
+    rsi = data["rsi"]
+
+    macd = data["macd"]
+
+    volume_ratio = data["volume_ratio"]
+
+    if direction == "LONG":
+
+        confirmations = 0
+
+        if price > ema20:
+            confirmations += 1
+
+        if ema20 > ema50:
+            confirmations += 1
+
+        if 45 <= rsi <= 70:
+            confirmations += 1
+
+        if macd > 0:
+            confirmations += 1
+
+        if volume_ratio >= 1.2:
+            confirmations += 1
+
+        return confirmations >= 4
+
+    if direction == "SHORT":
+
+        confirmations = 0
+
+        if price < ema20:
+            confirmations += 1
+
+        if ema20 < ema50:
+            confirmations += 1
+
+        if 30 <= rsi <= 55:
+            confirmations += 1
+
+        if macd < 0:
+            confirmations += 1
+
+        if volume_ratio >= 1.2:
+            confirmations += 1
+
+        return confirmations >= 4
+
+    return False
+
+
+# =========================================================
+# MULTI-TIMEFRAME SIGNAL
+# =========================================================
+
+def generate_signal(symbol):
+
+    print(
+        f"\nAnalyzing {symbol}"
+    )
+
+    tf4h = analyze_timeframe(
+        symbol,
+        "4h"
+    )
+
+    tf1h = analyze_timeframe(
+        symbol,
+        "1h"
+    )
+
+    tf15m = analyze_timeframe(
+        symbol,
+        "15m"
+    )
+
+    tf1m = analyze_timeframe(
+        symbol,
+        "1m"
+    )
+
+    if not all([
+        tf4h,
+        tf1h,
+        tf15m,
+        tf1m
+    ]):
+
+        print(
+            f"{symbol}: "
+            "Incomplete timeframe data"
+        )
+
+        return None
+
+    direction4h = get_direction(
+        tf4h
+    )
+
+    direction1h = get_direction(
+        tf1h
+    )
+
+    direction15m = get_direction(
+        tf15m
+    )
+
+    direction1m = get_direction(
+        tf1m
+    )
+
+    print(
+        f"4H  : {direction4h}"
+    )
+
+    print(
+        f"1H  : {direction1h}"
+    )
+
+    print(
+        f"15M : {direction15m}"
+    )
+
+    print(
+        f"1M  : {direction1m}"
+    )
+
+    # -----------------------------------------------------
+    # LONG CONFIRMATION
+    # -----------------------------------------------------
+
+    long_score = 0
+
+    if direction4h == "BULLISH":
+        long_score += 30
+
+    if direction1h == "BULLISH":
+        long_score += 25
+
+    if direction15m == "BULLISH":
+        long_score += 20
+
+    if direction1m == "BULLISH":
         long_score += 10
+
+    if get_entry_confirmation(
+        tf15m,
+        "LONG"
+    ):
+
+        long_score += 10
+
+    if get_entry_confirmation(
+        tf1m,
+        "LONG"
+    ):
+
+        long_score += 5
+
+    # -----------------------------------------------------
+    # SHORT CONFIRMATION
+    # -----------------------------------------------------
+
+    short_score = 0
+
+    if direction4h == "BEARISH":
+        short_score += 30
+
+    if direction1h == "BEARISH":
+        short_score += 25
+
+    if direction15m == "BEARISH":
+        short_score += 20
+
+    if direction1m == "BEARISH":
         short_score += 10
 
-    # -------------------------
-    # MARKET STRUCTURE
-    # -------------------------
+    if get_entry_confirmation(
+        tf15m,
+        "SHORT"
+    ):
 
-    structure_range = resistance - support
+        short_score += 10
 
-    if structure_range > 0:
+    if get_entry_confirmation(
+        tf1m,
+        "SHORT"
+    ):
 
-        position = (price - support) / structure_range
+        short_score += 5
 
-        # Price in lower/middle area
-        if position < 0.60:
-            long_score += 15
+    # -----------------------------------------------------
+    # FINAL DIRECTION
+    # -----------------------------------------------------
 
-        # Price in upper/middle area
-        if position > 0.40:
-            short_score += 15
+    direction = None
+    score = 0
 
-    # -------------------------
-    # BREAKOUT / BREAKDOWN
-    # -------------------------
+    if (
+        long_score >= SIGNAL_THRESHOLD
+        and long_score > short_score
+    ):
 
-    if price > resistance:
-        long_score += 15
+        direction = "LONG"
+        score = long_score
 
-    if price < support:
-        short_score += 15
+    elif (
+        short_score >= SIGNAL_THRESHOLD
+        and short_score > long_score
+    ):
 
-    # Limit score
-    long_score = max(0, min(100, long_score))
-    short_score = max(0, min(100, short_score))
+        direction = "SHORT"
+        score = short_score
 
-    # -------------------------
-    # SELECT DIRECTION
-    # -------------------------
+    else:
 
-    if long_score >= SIGNAL_THRESHOLD and long_score > short_score:
+        print(
+            f"{symbol}: "
+            "NO MULTI-TIMEFRAME SIGNAL"
+        )
 
-        entry = price
+        return None
 
-        stop_loss = entry - (atr * 1.5)
+    # -----------------------------------------------------
+    # ENTRY
+    # -----------------------------------------------------
 
-        risk = entry - stop_loss
+    entry = tf1m["price"]
 
-        tp1 = entry + (risk * 1.0)
-        tp2 = entry + (risk * 2.0)
-        tp3 = entry + (risk * 3.0)
+    atr = tf15m["atr"]
 
-        return {
-            "symbol": result["symbol"],
-            "direction": "LONG",
-            "score": long_score,
-            "entry": entry,
-            "stop_loss": stop_loss,
-            "tp1": tp1,
-            "tp2": tp2,
-            "tp3": tp3,
-            "risk_reward": "1:3"
-        }
+    if atr is None or atr <= 0:
 
-    if short_score >= SIGNAL_THRESHOLD and short_score > long_score:
+        print(
+            f"{symbol}: "
+            "ATR unavailable"
+        )
 
-        entry = price
+        return None
 
-        stop_loss = entry + (atr * 1.5)
+    # -----------------------------------------------------
+    # LONG
+    # -----------------------------------------------------
 
-        risk = stop_loss - entry
+    if direction == "LONG":
 
-        tp1 = entry - (risk * 1.0)
-        tp2 = entry - (risk * 2.0)
-        tp3 = entry - (risk * 3.0)
+        stop_loss = (
+            entry -
+            (atr * 1.5)
+        )
 
-        return {
-            "symbol": result["symbol"],
-            "direction": "SHORT",
-            "score": short_score,
-            "entry": entry,
-            "stop_loss": stop_loss,
-            "tp1": tp1,
-            "tp2": tp2,
-            "tp3": tp3,
-            "risk_reward": "1:3"
-        }
+        risk = (
+            entry -
+            stop_loss
+        )
 
-    return None
+        tp1 = entry + risk
+        tp2 = entry + (risk * 2)
+        tp3 = entry + (risk * 3)
 
+    # -----------------------------------------------------
+    # SHORT
+    # -----------------------------------------------------
+
+    else:
+
+        stop_loss = (
+            entry +
+            (atr * 1.5)
+        )
+
+        risk = (
+            stop_loss -
+            entry
+        )
+
+        tp1 = entry - risk
+        tp2 = entry - (risk * 2)
+        tp3 = entry - (risk * 3)
+
+    return {
+        "symbol": symbol,
+        "direction": direction,
+        "score": score,
+        "entry": entry,
+        "stop_loss": stop_loss,
+        "tp1": tp1,
+        "tp2": tp2,
+        "tp3": tp3,
+        "risk_reward": "1:3",
+        "4h": direction4h,
+        "1h": direction1h,
+        "15m": direction15m,
+        "1m": direction1m
+    }
+
+
+# =========================================================
+# DYNAMIC TOP 10
+# =========================================================
 
 def get_top_coins():
 
@@ -349,13 +692,20 @@ def get_top_coins():
         if not symbol.endswith("USDT"):
             continue
 
-        if symbol in ["BTCUSDT", "ETHUSDT"]:
+        if symbol in [
+            "BTCUSDT",
+            "ETHUSDT"
+        ]:
             continue
 
-        if any(word in symbol for word in excluded_words):
+        if any(
+            word in symbol
+            for word in excluded_words
+        ):
             continue
 
         try:
+
             price_change = float(
                 coin["priceChangePercent"]
             )
@@ -364,7 +714,11 @@ def get_top_coins():
                 coin["quoteVolume"]
             )
 
-        except (ValueError, KeyError):
+        except (
+            ValueError,
+            KeyError
+        ):
+
             continue
 
         if volume < MIN_VOLUME:
@@ -384,6 +738,10 @@ def get_top_coins():
     return filtered[:10]
 
 
+# =========================================================
+# PRICE FORMAT
+# =========================================================
+
 def format_price(price):
 
     if price >= 1000:
@@ -398,12 +756,43 @@ def format_price(price):
     return f"{price:,.8f}"
 
 
+# =========================================================
+# MAIN
+# =========================================================
+
 def main():
 
-    print("=" * 65)
-    print("BINANCE SQUARE AI AGENT")
-    print("SIGNAL ENGINE")
-    print("=" * 65)
+    print("=" * 70)
+
+    print(
+        "BINANCE SQUARE AI AGENT"
+    )
+
+    print(
+        "MULTI-TIMEFRAME SIGNAL ENGINE"
+    )
+
+    print("=" * 70)
+
+    print(
+        "\nTIMEFRAMES:"
+    )
+
+    print(
+        "4H  = Higher-Timeframe Trend"
+    )
+
+    print(
+        "1H  = Main Market Setup"
+    )
+
+    print(
+        "15M = Entry Confirmation"
+    )
+
+    print(
+        "1M  = Precise Entry Trigger"
+    )
 
     top_coins = get_top_coins()
 
@@ -413,49 +802,83 @@ def main():
     ]
 
     for coin in top_coins:
-        symbols.append(coin["symbol"])
+        symbols.append(
+            coin["symbol"]
+        )
 
-    print("\nCOINS SELECTED:")
-    print("-" * 65)
+    print(
+        "\nCOINS SELECTED:"
+    )
+
+    print("-" * 70)
 
     for symbol in symbols:
         print(symbol)
 
-    print("\nSIGNAL ANALYSIS")
-    print("-" * 65)
+    print(
+        "\nMULTI-TIMEFRAME ANALYSIS"
+    )
 
-    signals_found = 0
+    print("-" * 70)
+
     analyzed = 0
+    signals_found = 0
 
     for symbol in symbols:
 
         try:
 
-            result = analyze_coin(symbol)
-
-            if result is None:
-                print(f"{symbol}: Not enough data")
-                continue
+            signal = generate_signal(
+                symbol
+            )
 
             analyzed += 1
-
-            signal = calculate_signal(result)
 
             if signal:
 
                 signals_found += 1
 
-                print("\n" + "🚨" * 8)
-                print(f"SIGNAL FOUND: {signal['symbol']}")
-                print("🚨" * 8)
-
                 print(
-                    f"Direction: {signal['direction']}"
+                    "\n" + "🚨" * 10
                 )
 
                 print(
-                    f"Signal Score: "
+                    f"SIGNAL FOUND: "
+                    f"{signal['symbol']}"
+                )
+
+                print(
+                    "🚨" * 10
+                )
+
+                print(
+                    f"Direction: "
+                    f"{signal['direction']}"
+                )
+
+                print(
+                    f"Final Score: "
                     f"{signal['score']}/100"
+                )
+
+                print(
+                    f"4H: "
+                    f"{signal['4h']}"
+                )
+
+                print(
+                    f"1H: "
+                    f"{signal['1h']}"
+                )
+
+                print(
+                    f"15M: "
+                    f"{signal['15m']}"
+                )
+
+                print(
+                    f"1M: "
+                    f"{signal['1m']}"
                 )
 
                 print(
@@ -492,7 +915,7 @@ def main():
 
                 print(
                     f"{symbol}: "
-                    f"NO VALID SIGNAL"
+                    "NO VALID MULTI-TIMEFRAME SIGNAL"
                 )
 
         except Exception as error:
@@ -502,7 +925,9 @@ def main():
                 f"Analysis failed - {error}"
             )
 
-    print("\n" + "=" * 65)
+    print(
+        "\n" + "=" * 70
+    )
 
     print(
         f"Coins analyzed: "
@@ -515,14 +940,30 @@ def main():
     )
 
     if signals_found == 0:
-        print("STATUS: NO TRADE SETUP")
-        print("No post should be created.")
+
+        print(
+            "STATUS: "
+            "NO TRADE SETUP"
+        )
+
+        print(
+            "No post should be created."
+        )
 
     else:
-        print("STATUS: SIGNAL(S) FOUND")
 
-    print("SIGNAL ENGINE: ONLINE")
-    print("=" * 65)
+        print(
+            "STATUS: "
+            "MULTI-TIMEFRAME SIGNAL(S) FOUND"
+        )
+
+    print(
+        "MULTI-TIMEFRAME ENGINE: ONLINE"
+    )
+
+    print(
+        "=" * 70
+    )
 
 
 if __name__ == "__main__":
