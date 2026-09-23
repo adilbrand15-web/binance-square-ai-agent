@@ -1,6 +1,7 @@
 import json
 from urllib.request import urlopen, Request
 from urllib.parse import urlencode
+from database import initialize_database
 
 BASE_URL = "https://data-api.binance.vision/api/v3"
 
@@ -1069,6 +1070,7 @@ def format_price(price):
 # =========================================================
 
 def main():
+    initialize_database()
 
     print("=" * 70)
 
