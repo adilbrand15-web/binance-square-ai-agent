@@ -854,6 +854,24 @@ def generate_signal(symbol):
         )
 
         return None
+    # -----------------------------------------------------
+    # OVEREXTENSION & VOLATILITY FILTER
+    # -----------------------------------------------------
+
+    extension_passed, extension_reason = check_overextension(
+        entry,
+        direction,
+        tf15m
+    )
+
+    if not extension_passed:
+
+        print(
+            f"{symbol}: "
+            f"REJECTED - {extension_reason}"
+        )
+
+        return None
     return {
         "symbol": symbol,
         "direction": direction,
