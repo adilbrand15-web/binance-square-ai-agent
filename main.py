@@ -725,7 +725,25 @@ def generate_signal(symbol):
         tp1 = entry - risk
         tp2 = entry - (risk * 2)
         tp3 = entry - (risk * 3)
+    # -----------------------------------------------------
+    # ENTRY QUALITY FILTER
+    # -----------------------------------------------------
 
+    quality_passed, quality_reason = check_entry_quality(
+        entry,
+        stop_loss,
+        direction,
+        tf15m
+    )
+
+    if not quality_passed:
+
+        print(
+            f"{symbol}: "
+            f"REJECTED - {quality_reason}"
+        )
+
+        return None
     return {
         "symbol": symbol,
         "direction": direction,
