@@ -421,6 +421,7 @@ def get_entry_confirmation(data, direction):
 
     return False
 
+
 # =========================================================
 # SIGNAL QUALITY FILTER
 # =========================================================
@@ -436,6 +437,7 @@ def check_entry_quality(
         return False, "15M data unavailable"
 
     support = tf15m["support"]
+
     resistance = tf15m["resistance"]
 
     # -----------------------------------------------------
@@ -458,7 +460,6 @@ def check_entry_quality(
         if risk <= 0:
             return False, "Invalid risk"
 
-        # Resistance should be at least 1R away
         if distance_to_resistance < risk:
             return (
                 False,
@@ -485,7 +486,6 @@ def check_entry_quality(
         if risk <= 0:
             return False, "Invalid risk"
 
-        # Support should be at least 1R away
         if distance_to_support < risk:
             return (
                 False,
@@ -497,6 +497,8 @@ def check_entry_quality(
         return False, "Invalid direction"
 
     return True, "Entry quality passed"
+
+
 # =========================================================
 # OVEREXTENSION & VOLATILITY FILTER
 # =========================================================
@@ -511,8 +513,11 @@ def check_overextension(
         return False, "15M data unavailable"
 
     ema20 = tf15m["ema20"]
+
     atr = tf15m["atr"]
+
     rsi = tf15m["rsi"]
+
     volume_ratio = tf15m["volume_ratio"]
 
     if ema20 is None or atr is None or atr <= 0:
@@ -542,7 +547,6 @@ def check_overextension(
             entry - ema20
         )
 
-        # Price too far above EMA20
         if extension > (atr * 1.5):
 
             return (
@@ -550,7 +554,6 @@ def check_overextension(
                 "LONG entry overextended"
             )
 
-        # Extremely high RSI
         if rsi >= 75:
 
             return (
@@ -558,7 +561,6 @@ def check_overextension(
                 "LONG RSI too high"
             )
 
-        # Possible pump/exhaustion
         if (
             volume_ratio >= 5
             and rsi >= 70
@@ -579,7 +581,6 @@ def check_overextension(
             ema20 - entry
         )
 
-        # Price too far below EMA20
         if extension > (atr * 1.5):
 
             return (
@@ -587,7 +588,6 @@ def check_overextension(
                 "SHORT entry overextended"
             )
 
-        # Extremely low RSI
         if rsi <= 25:
 
             return (
@@ -595,7 +595,6 @@ def check_overextension(
                 "SHORT RSI too low"
             )
 
-        # Possible dump/exhaustion
         if (
             volume_ratio >= 5
             and rsi <= 30
@@ -607,6 +606,8 @@ def check_overextension(
             )
 
     return True, "Overextension filter passed"
+
+
 # =========================================================
 # BTC MARKET CONTEXT FILTER
 # =========================================================
@@ -619,7 +620,9 @@ def check_btc_context(
 ):
 
     # BTC and ETH are not filtered by BTC context
+
     if symbol in ["BTCUSDT", "ETHUSDT"]:
+
         return True, "BTC context filter skipped"
 
     # -----------------------------------------------------
@@ -655,6 +658,8 @@ def check_btc_context(
             )
 
     return True, "BTC market context passed"
+
+
 # =========================================================
 # MULTI-TIMEFRAME SIGNAL
 # =========================================================
@@ -804,6 +809,7 @@ def generate_signal(
     # -----------------------------------------------------
 
     direction = None
+
     score = 0
 
     if (
@@ -812,6 +818,7 @@ def generate_signal(
     ):
 
         direction = "LONG"
+
         score = long_score
 
     elif (
@@ -820,6 +827,7 @@ def generate_signal(
     ):
 
         direction = "SHORT"
+
         score = short_score
 
     else:
@@ -865,7 +873,9 @@ def generate_signal(
         )
 
         tp1 = entry + risk
+
         tp2 = entry + (risk * 2)
+
         tp3 = entry + (risk * 3)
 
     # -----------------------------------------------------
@@ -885,8 +895,11 @@ def generate_signal(
         )
 
         tp1 = entry - risk
+
         tp2 = entry - (risk * 2)
+
         tp3 = entry - (risk * 3)
+
     # -----------------------------------------------------
     # ENTRY QUALITY FILTER
     # -----------------------------------------------------
@@ -906,6 +919,7 @@ def generate_signal(
         )
 
         return None
+
     # -----------------------------------------------------
     # OVEREXTENSION & VOLATILITY FILTER
     # -----------------------------------------------------
@@ -924,6 +938,7 @@ def generate_signal(
         )
 
         return None
+
     # -----------------------------------------------------
     # BTC MARKET CONTEXT FILTER
     # -----------------------------------------------------
@@ -943,6 +958,7 @@ def generate_signal(
         )
 
         return None
+
     return {
         "symbol": symbol,
         "direction": direction,
@@ -1092,6 +1108,7 @@ def main():
         "BTCUSDT",
         "ETHUSDT"
     ]
+
     # -----------------------------------------------------
     # BTC MARKET CONTEXT
     # -----------------------------------------------------
@@ -1127,6 +1144,7 @@ def main():
     )
 
     for coin in top_coins:
+
         symbols.append(
             coin["symbol"]
         )
@@ -1138,6 +1156,7 @@ def main():
     print("-" * 70)
 
     for symbol in symbols:
+
         print(symbol)
 
     print(
@@ -1147,9 +1166,10 @@ def main():
     print("-" * 70)
 
     analyzed = 0
+
     signals_found = 0
 
-        for symbol in symbols:
+    for symbol in symbols:
 
         try:
 
