@@ -1149,11 +1149,11 @@ def main():
     analyzed = 0
     signals_found = 0
 
-    for symbol in symbols:
+        for symbol in symbols:
 
         try:
 
-                        signal = generate_signal(
+            signal = generate_signal(
                 symbol,
                 btc_4h_direction,
                 btc_1h_direction
