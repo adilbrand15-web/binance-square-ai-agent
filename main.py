@@ -498,6 +498,116 @@ def check_entry_quality(
 
     return True, "Entry quality passed"
 # =========================================================
+# OVEREXTENSION & VOLATILITY FILTER
+# =========================================================
+
+def check_overextension(
+    entry,
+    direction,
+    tf15m
+):
+
+    if tf15m is None:
+        return False, "15M data unavailable"
+
+    ema20 = tf15m["ema20"]
+    atr = tf15m["atr"]
+    rsi = tf15m["rsi"]
+    volume_ratio = tf15m["volume_ratio"]
+
+    if ema20 is None or atr is None or atr <= 0:
+        return False, "Indicator data unavailable"
+
+    # -----------------------------------------------------
+    # EXTREME VOLATILITY
+    # -----------------------------------------------------
+
+    atr_percent = (
+        atr / entry
+    ) * 100
+
+    if atr_percent > 4:
+        return (
+            False,
+            "Extreme 15M volatility"
+        )
+
+    # -----------------------------------------------------
+    # LONG OVEREXTENSION
+    # -----------------------------------------------------
+
+    if direction == "LONG":
+
+        extension = (
+            entry - ema20
+        )
+
+        # Price too far above EMA20
+        if extension > (atr * 1.5):
+
+            return (
+                False,
+                "LONG entry overextended"
+            )
+
+        # Extremely high RSI
+        if rsi >= 75:
+
+            return (
+                False,
+                "LONG RSI too high"
+            )
+
+        # Possible pump/exhaustion
+        if (
+            volume_ratio >= 5
+            and rsi >= 70
+        ):
+
+            return (
+                False,
+                "Possible LONG pump/exhaustion"
+            )
+
+    # -----------------------------------------------------
+    # SHORT OVEREXTENSION
+    # -----------------------------------------------------
+
+    if direction == "SHORT":
+
+        extension = (
+            ema20 - entry
+        )
+
+        # Price too far below EMA20
+        if extension > (atr * 1.5):
+
+            return (
+                False,
+                "SHORT entry overextended"
+            )
+
+        # Extremely low RSI
+        if rsi <= 25:
+
+            return (
+                False,
+                "SHORT RSI too low"
+            )
+
+        # Possible dump/exhaustion
+        if (
+            volume_ratio >= 5
+            and rsi <= 30
+        ):
+
+            return (
+                False,
+                "Possible SHORT dump/exhaustion"
+            )
+
+    return True, "Overextension filter passed"
+# =========================================================
 # MULTI-TIMEFRAME SIGNAL
 # =========================================================
 
