@@ -608,10 +608,62 @@ def check_overextension(
 
     return True, "Overextension filter passed"
 # =========================================================
+# BTC MARKET CONTEXT FILTER
+# =========================================================
+
+def check_btc_context(
+    symbol,
+    direction,
+    btc_4h_direction,
+    btc_1h_direction
+):
+
+    # BTC and ETH are not filtered by BTC context
+    if symbol in ["BTCUSDT", "ETHUSDT"]:
+        return True, "BTC context filter skipped"
+
+    # -----------------------------------------------------
+    # LONG ALTCOIN
+    # -----------------------------------------------------
+
+    if direction == "LONG":
+
+        if (
+            btc_4h_direction == "BEARISH"
+            and btc_1h_direction == "BEARISH"
+        ):
+
+            return (
+                False,
+                "BTC market context strongly bearish"
+            )
+
+    # -----------------------------------------------------
+    # SHORT ALTCOIN
+    # -----------------------------------------------------
+
+    if direction == "SHORT":
+
+        if (
+            btc_4h_direction == "BULLISH"
+            and btc_1h_direction == "BULLISH"
+        ):
+
+            return (
+                False,
+                "BTC market context strongly bullish"
+            )
+
+    return True, "BTC market context passed"
+# =========================================================
 # MULTI-TIMEFRAME SIGNAL
 # =========================================================
 
-def generate_signal(symbol):
+def generate_signal(
+    symbol,
+    btc_4h_direction=None,
+    btc_1h_direction=None
+):
 
     print(
         f"\nAnalyzing {symbol}"
@@ -872,6 +924,25 @@ def generate_signal(symbol):
         )
 
         return None
+    # -----------------------------------------------------
+    # BTC MARKET CONTEXT FILTER
+    # -----------------------------------------------------
+
+    btc_context_passed, btc_context_reason = check_btc_context(
+        symbol,
+        direction,
+        btc_4h_direction,
+        btc_1h_direction
+    )
+
+    if not btc_context_passed:
+
+        print(
+            f"{symbol}: "
+            f"REJECTED - {btc_context_reason}"
+        )
+
+        return None
     return {
         "symbol": symbol,
         "direction": direction,
@@ -1021,6 +1092,39 @@ def main():
         "BTCUSDT",
         "ETHUSDT"
     ]
+    # -----------------------------------------------------
+    # BTC MARKET CONTEXT
+    # -----------------------------------------------------
+
+    btc_4h_data = analyze_timeframe(
+        "BTCUSDT",
+        "4h"
+    )
+
+    btc_1h_data = analyze_timeframe(
+        "BTCUSDT",
+        "1h"
+    )
+
+    btc_4h_direction = get_direction(
+        btc_4h_data
+    )
+
+    btc_1h_direction = get_direction(
+        btc_1h_data
+    )
+
+    print(
+        "\nBTC MARKET CONTEXT:"
+    )
+
+    print(
+        f"BTC 4H: {btc_4h_direction}"
+    )
+
+    print(
+        f"BTC 1H: {btc_1h_direction}"
+    )
 
     for coin in top_coins:
         symbols.append(
@@ -1049,8 +1153,10 @@ def main():
 
         try:
 
-            signal = generate_signal(
-                symbol
+                        signal = generate_signal(
+                symbol,
+                btc_4h_direction,
+                btc_1h_direction
             )
 
             analyzed += 1
