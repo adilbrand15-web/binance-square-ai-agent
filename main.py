@@ -2,6 +2,7 @@ import json
 from urllib.request import urlopen, Request
 from urllib.parse import urlencode
 from database import initialize_database
+from database import save_signal
 
 BASE_URL = "https://data-api.binance.vision/api/v3"
 
@@ -1185,11 +1186,17 @@ def main():
 
             if signal:
 
-                signals_found += 1
+    signals_found += 1
 
-                print(
-                    "\n" + "🚨" * 10
-                )
+    signal_id = save_signal(signal)
+
+    print(
+        f"Signal saved to database: ID {signal_id}"
+    )
+
+    print(
+        "\n" + "🚨" * 10
+    )
 
                 print(
                     f"SIGNAL FOUND: "
