@@ -1195,6 +1195,8 @@ def main():
 
                 signal_id = save_signal(signal)
 
+                signal["database_id"] = signal_id
+
                 print(
                     f"Signal saved to database: ID {signal_id}"
                 )
