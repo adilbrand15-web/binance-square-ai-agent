@@ -1186,17 +1186,17 @@ def main():
 
             if signal:
 
-    signals_found += 1
+                signals_found += 1
 
-    signal_id = save_signal(signal)
+                signal_id = save_signal(signal)
 
-    print(
-        f"Signal saved to database: ID {signal_id}"
-    )
+                print(
+                    f"Signal saved to database: ID {signal_id}"
+                )
 
-    print(
-        "\n" + "🚨" * 10
-    )
+                print(
+                    "\n" + "🚨" * 10
+                )
 
                 print(
                     f"SIGNAL FOUND: "
