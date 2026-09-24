@@ -54,6 +54,26 @@ def initialize_database():
         )
     """)
 
+    # Check whether the existing database already has
+    # the selected column.
+    cursor.execute("""
+        PRAGMA table_info(signals)
+    """)
+
+    columns = [
+        row[1]
+        for row in cursor.fetchall()
+    ]
+
+    # Add selected column to older databases
+    # that were created before this column existed.
+    if "selected" not in columns:
+
+        cursor.execute("""
+            ALTER TABLE signals
+            ADD COLUMN selected INTEGER DEFAULT 0
+        """)
+
     conn.commit()
     conn.close()
 
@@ -127,6 +147,7 @@ def save_signal(signal):
     conn.close()
 
     return signal_id
+
 
 def mark_signal_selected(signal_id):
 
