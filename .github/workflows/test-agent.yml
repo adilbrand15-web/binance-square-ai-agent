@@ -16,5 +16,19 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Restore signal database
+        uses: actions/cache/restore@v4
+        with:
+          path: signals.db
+          key: signal-database-latest
+          restore-keys: |
+            signal-database-
+
       - name: Run Binance Market Scanner
         run: python main.py
+
+      - name: Save signal database
+        uses: actions/cache/save@v4
+        with:
+          path: signals.db
+          key: signal-database-${{ github.run_id }}
