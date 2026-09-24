@@ -1285,6 +1285,47 @@ def main():
                 f"Analysis failed - {error}"
             )
 
+    if valid_signals:
+
+        selected_signal = max(
+            valid_signals,
+            key=lambda x: x["score"]
+        )
+
+        print(
+            "\n" + "=" * 70
+        )
+
+        print(
+            "SELECTED SIGNAL"
+        )
+
+        print(
+            "=" * 70
+        )
+
+        print(
+            f"Selected Coin: "
+            f"{selected_signal['symbol']}"
+        )
+
+        print(
+            f"Direction: "
+            f"{selected_signal['direction']}"
+        )
+
+        print(
+            f"Score: "
+            f"{selected_signal['score']}/100"
+        )
+
+        print(
+            "Selection Status: SELECTED"
+        )
+
+        print(
+            "=" * 70
+        )
     print(
         "\n" + "=" * 70
     )
