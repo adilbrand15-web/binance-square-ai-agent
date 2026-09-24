@@ -1172,6 +1172,8 @@ def main():
 
     signals_found = 0
 
+    valid_signals = []
+
     for symbol in symbols:
 
         try:
