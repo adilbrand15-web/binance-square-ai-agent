@@ -1295,6 +1295,10 @@ def main():
             key=lambda x: x["score"]
         )
 
+                mark_signal_selected(
+            selected_signal["database_id"]
+        )
+
         print(
             "\n" + "=" * 70
         )
