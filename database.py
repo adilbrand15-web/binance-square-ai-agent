@@ -42,6 +42,8 @@ def initialize_database():
 
             published INTEGER DEFAULT 0,
 
+            selected INTEGER DEFAULT 0,
+
             chart_saved INTEGER DEFAULT 0,
 
             post_id TEXT,
