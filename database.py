@@ -128,6 +128,20 @@ def save_signal(signal):
 
     return signal_id
 
+def mark_signal_selected(signal_id):
+
+    conn = get_connection()
+    cursor = conn.cursor()
+
+    cursor.execute("""
+        UPDATE signals
+        SET selected = 1
+        WHERE id = ?
+    """, (signal_id,))
+
+    conn.commit()
+    conn.close()
+
 
 if __name__ == "__main__":
 
