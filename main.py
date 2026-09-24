@@ -1190,6 +1190,8 @@ def main():
 
                 signals_found += 1
 
+                valid_signals.append(signal)
+
                 signal_id = save_signal(signal)
 
                 print(
