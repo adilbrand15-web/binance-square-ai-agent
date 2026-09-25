@@ -1303,6 +1303,35 @@ def main():
         print(
             "\n" + "=" * 70
         )
+        print(
+            "\n" + "=" * 70
+        )
+
+        print(
+            "GENERATING SELECTED SIGNAL CHART"
+        )
+
+        print(
+            "=" * 70
+        )
+
+        chart_path = generate_chart(
+            selected_signal
+        )
+
+        if chart_path:
+            print(
+                f"CHART GENERATED: "
+                f"{chart_path}"
+            )
+        else:
+            print(
+                "CHART GENERATION FAILED"
+            )
+
+        print(
+            "=" * 70
+        )
 
         print(
             "SELECTED SIGNAL"
