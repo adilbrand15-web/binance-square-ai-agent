@@ -4,6 +4,7 @@ from urllib.parse import urlencode
 from database import initialize_database
 from database import save_signal
 from database import mark_signal_selected
+from chart_generator import generate_chart
 
 BASE_URL = "https://data-api.binance.vision/api/v3"
 
