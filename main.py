@@ -1303,9 +1303,6 @@ def main():
         print(
             "\n" + "=" * 70
         )
-        print(
-            "\n" + "=" * 70
-        )
 
         print(
             "GENERATING SELECTED SIGNAL CHART"
