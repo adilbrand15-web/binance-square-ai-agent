@@ -37,3 +37,8 @@ jobs:
         with:
           path: signals.db
           key: signal-database-${{ github.run_id }}
+        - name: Upload Generated Chart
+        uses: actions/upload-artifact@v4
+        with:
+          name: selected-signal-chart
+          path: charts/*.png
