@@ -1361,6 +1361,22 @@ def main():
         print(
             "=" * 70
         )
+                print("\n" + "=" * 70)
+        print("GENERATING AI SIGNAL POST")
+        print("=" * 70)
+
+        ai_post = generate_ai_post(selected_signal)
+
+        if ai_post:
+            print("AI POST GENERATED")
+            print("-" * 70)
+            print(ai_post)
+            print("-" * 70)
+            selected_signal["ai_post"] = ai_post
+        else:
+            print("AI POST GENERATION FAILED")
+
+        print("=" * 70)
     print(
         "\n" + "=" * 70
     )
