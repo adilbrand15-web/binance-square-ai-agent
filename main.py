@@ -1361,7 +1361,7 @@ def main():
         print(
             "=" * 70
         )
-                print("\n" + "=" * 70)
+        print("\n" + "=" * 70)
         print("GENERATING AI SIGNAL POST")
         print("=" * 70)
 
