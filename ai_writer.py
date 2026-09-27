@@ -13,25 +13,71 @@ GEMINI_API_URL = (
 )
 
 
+def format_price(value):
+
+    try:
+        return f"{float(value):.6f}"
+
+    except (TypeError, ValueError):
+
+        return str(value)
+
+
 def build_prompt(signal):
 
     symbol = signal.get("symbol", "")
     direction = signal.get("direction", "")
     score = signal.get("score", "")
 
-    entry = signal.get("entry", "")
-    stop_loss = signal.get("stop_loss", "")
-    tp1 = signal.get("tp1", "")
-    tp2 = signal.get("tp2", "")
-    tp3 = signal.get("tp3", "")
+    entry = format_price(
+        signal.get("entry", "")
+    )
 
-    risk_reward = signal.get("risk_reward", "")
+    stop_loss = format_price(
+        signal.get("stop_loss", "")
+    )
 
-    trend_4h = signal.get("trend_4h", "")
-    trend_1h = signal.get("trend_1h", "")
-    trend_15m = signal.get("trend_15m", "")
-    trend_1m = signal.get("trend_1m", "")
-    rsi = signal.get("rsi", "")
+    tp1 = format_price(
+        signal.get("tp1", "")
+    )
+
+    tp2 = format_price(
+        signal.get("tp2", "")
+    )
+
+    tp3 = format_price(
+        signal.get("tp3", "")
+    )
+
+    risk_reward = signal.get(
+        "risk_reward",
+        ""
+    )
+
+    trend_4h = signal.get(
+        "trend_4h",
+        ""
+    )
+
+    trend_1h = signal.get(
+        "trend_1h",
+        ""
+    )
+
+    trend_15m = signal.get(
+        "trend_15m",
+        ""
+    )
+
+    trend_1m = signal.get(
+        "trend_1m",
+        ""
+    )
+
+    rsi = signal.get(
+        "rsi",
+        ""
+    )
 
     return f"""
 You are a professional crypto trading content writer
@@ -44,23 +90,32 @@ Use ONLY the supplied signal data.
 STRICT RULES:
 
 1. Never invent numbers.
-2. Never change Entry, SL, TP or Score.
-3. Maximum 120 words.
-4. Use English.
-5. Make it mobile-friendly.
-6. Keep the technical explanation very short.
-7. Include Entry.
-8. Include Stop Loss.
-9. Include TP1, TP2 and TP3.
-10. Include Score.
-11. Include Risk/Reward.
-12. Mention 4H, 1H, 15M and 1M trend.
-13. Mention RSI if available.
-14. Include a short risk warning.
-15. Use exactly 5 relevant hashtags.
-16. No long article.
-17. No introduction or explanation outside the post.
-18. Return ONLY the final post.
+2. Never calculate any price.
+3. Never change any supplied price.
+4. Never add extra decimal digits.
+5. Copy Entry, Stop Loss, TP1, TP2 and TP3 EXACTLY as supplied.
+6. Maximum 120 words.
+7. Use English.
+8. Make it mobile-friendly.
+9. Keep the technical explanation very short.
+10. Include Entry.
+11. Include Stop Loss.
+12. Include TP1, TP2 and TP3.
+13. Include Score.
+14. Include Risk/Reward.
+15. Mention 4H, 1H, 15M and 1M trend.
+16. Mention RSI if available.
+17. Include a short risk warning.
+18. Use exactly 5 relevant hashtags.
+19. No long article.
+20. No introduction or explanation outside the post.
+21. Return ONLY the final post.
+
+IMPORTANT PRICE RULE:
+
+The following prices are FINAL.
+Do NOT recalculate, round differently,
+add decimals, remove decimals, or modify them.
 
 SIGNAL:
 
@@ -88,42 +143,75 @@ RSI: {rsi}
 
 def generate_ai_post(signal):
 
-    api_key = os.getenv("GEMINI_API_KEY")
+    api_key = os.getenv(
+        "GEMINI_API_KEY"
+    )
 
     if not api_key:
-        print("AI WRITER ERROR: GEMINI_API_KEY is missing.")
+
+        print(
+            "AI WRITER ERROR: "
+            "GEMINI_API_KEY is missing."
+        )
+
         return None
 
-    prompt = build_prompt(signal)
+    prompt = build_prompt(
+        signal
+    )
 
     payload = {
+
         "contents": [
+
             {
+
                 "role": "user",
+
                 "parts": [
+
                     {
                         "text": prompt
                     }
+
                 ]
+
             }
+
         ]
+
     }
 
-    data = json.dumps(payload).encode("utf-8")
+    data = json.dumps(
+        payload
+    ).encode("utf-8")
 
     request = Request(
+
         GEMINI_API_URL,
+
         data=data,
+
         headers={
-            "Content-Type": "application/json",
-            "x-goog-api-key": api_key
+
+            "Content-Type":
+            "application/json",
+
+            "x-goog-api-key":
+            api_key
+
         },
+
         method="POST"
+
     )
 
     max_attempts = 3
 
-    for attempt in range(1, max_attempts + 1):
+    for attempt in range(
+        1,
+        max_attempts + 1
+    ):
 
         print(
             f"AI WRITER REQUEST "
@@ -138,7 +226,9 @@ def generate_ai_post(signal):
             ) as response:
 
                 result = json.loads(
-                    response.read().decode("utf-8")
+                    response.read().decode(
+                        "utf-8"
+                    )
                 )
 
             candidates = result.get(
@@ -147,6 +237,7 @@ def generate_ai_post(signal):
             )
 
             if not candidates:
+
                 print(
                     "AI WRITER ERROR: "
                     "No candidates returned."
@@ -167,6 +258,7 @@ def generate_ai_post(signal):
             for part in parts:
 
                 if "text" in part:
+
                     text_parts.append(
                         part["text"]
                     )
@@ -197,11 +289,13 @@ def generate_ai_post(signal):
 
                 if attempt < max_attempts:
 
-                    wait_time = attempt * 10
+                    wait_time = (
+                        attempt * 10
+                    )
 
                     print(
-                        f"Model temporarily "
-                        f"unavailable."
+                        "Model temporarily "
+                        "unavailable."
                     )
 
                     print(
@@ -229,9 +323,12 @@ def generate_ai_post(signal):
                     .decode("utf-8")
                 )
 
-                print(error_body)
+                print(
+                    error_body
+                )
 
             except Exception:
+
                 pass
 
             return None
@@ -245,7 +342,9 @@ def generate_ai_post(signal):
 
             if attempt < max_attempts:
 
-                wait_time = attempt * 10
+                wait_time = (
+                    attempt * 10
+                )
 
                 print(
                     f"Retrying in "
@@ -276,42 +375,61 @@ if __name__ == "__main__":
 
     test_signal = {
 
-        "symbol": "MUBARAKUSDT",
+        "symbol":
+        "MUBARAKUSDT",
 
-        "direction": "LONG",
+        "direction":
+        "LONG",
 
-        "score": 100,
+        "score":
+        100,
 
-        "entry": 0.055840,
+        "entry":
+        0.055840,
 
-        "stop_loss": 0.054067,
+        "stop_loss":
+        0.054067,
 
-        "tp1": 0.057613,
+        "tp1":
+        0.057613,
 
-        "tp2": 0.059386,
+        "tp2":
+        0.059386,
 
-        "tp3": 0.061160,
+        "tp3":
+        0.061160,
 
-        "risk_reward": "1:3",
+        "risk_reward":
+        "1:3",
 
-        "trend_4h": "BULLISH",
+        "trend_4h":
+        "BULLISH",
 
-        "trend_1h": "BULLISH",
+        "trend_1h":
+        "BULLISH",
 
-        "trend_15m": "BULLISH",
+        "trend_15m":
+        "BULLISH",
 
-        "trend_1m": "BULLISH",
+        "trend_1m":
+        "BULLISH",
 
-        "rsi": 60.0
+        "rsi":
+        60.0
+
     }
 
-    print("=" * 70)
+    print(
+        "=" * 70
+    )
 
     print(
         "BINANCE SQUARE AI WRITER"
     )
 
-    print("=" * 70)
+    print(
+        "=" * 70
+    )
 
     post = generate_ai_post(
         test_signal
@@ -323,11 +441,17 @@ if __name__ == "__main__":
             "\nGENERATED POST"
         )
 
-        print("-" * 70)
+        print(
+            "-" * 70
+        )
 
-        print(post)
+        print(
+            post
+        )
 
-        print("-" * 70)
+        print(
+            "-" * 70
+        )
 
         print(
             "AI WRITER: ONLINE"
@@ -339,4 +463,6 @@ if __name__ == "__main__":
             "AI WRITER: FAILED"
         )
 
-    print("=" * 70)
+    print(
+        "=" * 70
+    )
