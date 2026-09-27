@@ -5,6 +5,7 @@ from database import initialize_database
 from database import save_signal
 from database import mark_signal_selected
 from chart_generator import generate_chart
+from ai_writer import generate_ai_post
 
 BASE_URL = "https://data-api.binance.vision/api/v3"
 
