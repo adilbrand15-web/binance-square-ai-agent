@@ -16,6 +16,62 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Gemini Secret Diagnostic
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          if [ -n "$GEMINI_API_KEY" ]; then
+            echo "GEMINI_API_KEY: SET"
+          else
+            echo "GEMINI_API_KEY: NOT SET"
+          fi
+
+          if [ -z "$GEMINI_API_KEY" ]; then
+            echo "HTTP STATUS: 0"
+            echo "GEMINI TEST: FAILED"
+            echo "safe error message: Secret not configured"
+            exit 0
+          fi
+
+          response_file="$(mktemp)"
+          http_code="$(curl -sS -o "$response_file" -w '%{http_code}' -X POST "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent" \
+            -H "Content-Type: application/json" \
+            -H "x-goog-api-key: $GEMINI_API_KEY" \
+            -d '{"contents":[{"parts":[{"text":"Reply with exactly: GEMINI_TEST_OK"}]}]}')"
+
+          echo "HTTP STATUS: $http_code"
+
+          python - "$response_file" "$http_code" <<'PY'
+          import json
+          import sys
+
+          response_path, http_code = sys.argv[1], sys.argv[2]
+
+          try:
+              data = json.load(open(response_path, "r", encoding="utf-8"))
+          except Exception as exc:
+              print("GEMINI TEST: FAILED")
+              print(f"safe error message: {type(exc).__name__}: {str(exc)[:200]}")
+              raise SystemExit(0)
+
+          if not str(http_code).startswith("2"):
+              print("GEMINI TEST: FAILED")
+              error = data.get("error", {}) if isinstance(data, dict) else {}
+              message = error.get("message") if isinstance(error, dict) else "Unknown Gemini API error"
+              print(f"safe error message: {message[:200]}")
+              raise SystemExit(0)
+
+          try:
+              text = data["candidates"][0]["content"]["parts"][0]["text"]
+          except Exception:
+              print("GEMINI TEST: FAILED")
+              print("safe error message: Empty or invalid response from Gemini")
+              raise SystemExit(0)
+
+          print("GEMINI TEST: SUCCESS")
+          print(text.strip())
+          PY
+
       - name: Install Chart Dependencies
         run: |
           python -m pip install --upgrade pip
