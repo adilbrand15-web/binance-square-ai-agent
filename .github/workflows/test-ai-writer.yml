@@ -20,3 +20,63 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python ai_writer.py
+
+      - name: Temporary Python urllib Gemini diagnostic
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from urllib.error import HTTPError
+          from urllib.request import Request, urlopen
+
+          model = "gemini-3.8-flash"
+          url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+          payload = {
+            "contents": [
+              {
+                "role": "user",
+                "parts": [{"text": "Reply with exactly: GEMINI_TEST_OK"}],
+              }
+            ]
+          }
+          request = Request(
+            url,
+            data=json.dumps(payload).encode("utf-8"),
+            headers={
+              "Content-Type": "application/json",
+              "x-goog-api-key": os.environ["GEMINI_API_KEY"],
+            },
+            method="POST",
+          )
+
+          status = 0
+          returned_text = ""
+          error_message = "Request failed."
+          try:
+            with urlopen(request, timeout=60) as response:
+              status = response.status
+              result = json.loads(response.read().decode("utf-8"))
+            parts = result.get("candidates", [{}])[0].get("content", {}).get("parts", [])
+            returned_text = "\n".join(
+              part["text"] for part in parts if "text" in part
+            ).strip()
+            if returned_text:
+              error_message = ""
+            else:
+              error_message = "No text returned."
+          except HTTPError as error:
+            status = error.code
+            error_message = "HTTP request failed."
+          except Exception:
+            error_message = "Request failed."
+
+          print("PYTHON URLLIB GEMINI TEST")
+          print(f"HTTP STATUS: {status}")
+          print(f"TEST: {'SUCCESS' if returned_text else 'FAILED'}")
+          if returned_text:
+            print(returned_text)
+          else:
+            print(f"ERROR: {error_message}")
+          PY
