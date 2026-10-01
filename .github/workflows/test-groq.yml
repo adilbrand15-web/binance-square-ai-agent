@@ -1,0 +1,86 @@
+name: Test Groq AI
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-groq:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Test Groq API
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from urllib.request import Request, urlopen
+          from urllib.error import HTTPError
+
+          url = "https://api.groq.com/openai/v1/chat/completions"
+
+          payload = {
+              "model": "openai/gpt-oss-20b",
+              "messages": [
+                  {
+                      "role": "user",
+                      "content": "Reply with exactly: GROQ_TEST_OK"
+                  }
+              ],
+              "temperature": 0
+          }
+
+          request = Request(
+              url,
+              data=json.dumps(payload).encode("utf-8"),
+              headers={
+                  "Content-Type": "application/json",
+                  "Authorization": f"Bearer {os.environ['GROQ_API_KEY']}",
+              },
+              method="POST",
+          )
+
+          try:
+              with urlopen(request, timeout=60) as response:
+                  status = response.status
+                  body = response.read().decode("utf-8")
+
+              result = json.loads(body)
+
+              text = (
+                  result.get("choices", [{}])[0]
+                  .get("message", {})
+                  .get("content", "")
+                  .strip()
+              )
+
+              print("GROQ API TEST")
+              print(f"HTTP STATUS: {status}")
+
+              if text:
+                  print("TEST: SUCCESS")
+                  print(text)
+              else:
+                  print("TEST: FAILED")
+                  print("No text returned.")
+
+          except HTTPError as error:
+              print("GROQ API TEST")
+              print(f"HTTP STATUS: {error.code}")
+
+              try:
+                  error_body = error.read().decode(
+                      "utf-8",
+                      errors="replace"
+                  )
+                  print("ERROR RESPONSE:")
+                  print(error_body)
+              except Exception:
+                  print("Could not read error response.")
+
+          except Exception as error:
+              print("GROQ API TEST")
+              print("TEST: FAILED")
+              print(f"ERROR: {type(error).__name__}: {error}")
+          PY
