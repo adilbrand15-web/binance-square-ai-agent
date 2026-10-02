@@ -16,9 +16,36 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install AI Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install groq
+
+      - name: Check AI Secrets
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          echo "======================================"
+          echo "AI SECRET CHECK"
+          echo "======================================"
+
+          if [ -n "$GEMINI_API_KEY" ]; then
+            echo "GEMINI_API_KEY: SET"
+          else
+            echo "GEMINI_API_KEY: NOT SET"
+          fi
+
+          if [ -n "$GROQ_API_KEY" ]; then
+            echo "GROQ_API_KEY: SET"
+          else
+            echo "GROQ_API_KEY: NOT SET"
+          fi
+
       - name: Run AI Writer
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: python ai_writer.py
 
       - name: Temporary Python urllib Gemini diagnostic V2
@@ -33,6 +60,7 @@ jobs:
           from urllib.request import Request, urlopen
 
           model = "gemini-3.8-flash"
+
           url = (
               "https://generativelanguage.googleapis.com/v1beta/"
               f"models/{model}:generateContent"
@@ -51,12 +79,25 @@ jobs:
               ]
           }
 
+          api_key = os.environ.get(
+              "GEMINI_API_KEY",
+              ""
+          )
+
+          if not api_key:
+              print("PYTHON URLLIB GEMINI TEST V2")
+              print("HTTP STATUS: 0")
+              print("TEST: FAILED")
+              print("ERROR: GEMINI_API_KEY is not configured.")
+              raise SystemExit(0)
+
           request = Request(
               url,
               data=json.dumps(payload).encode("utf-8"),
               headers={
                   "Content-Type": "application/json",
-                  "x-goog-api-key": os.environ["GEMINI_API_KEY"],
+                  "x-goog-api-key": api_key,
+                  "User-Agent": "BinanceSquareAIAgent/1.0",
               },
               method="POST",
           )
@@ -66,14 +107,26 @@ jobs:
           error_body = ""
 
           try:
-              with urlopen(request, timeout=60) as response:
-                  status = response.status
-                  response_body = response.read().decode("utf-8")
+              with urlopen(
+                  request,
+                  timeout=60
+              ) as response:
 
-              result = json.loads(response_body)
+                  status = response.status
+
+                  response_body = (
+                      response
+                      .read()
+                      .decode("utf-8")
+                  )
+
+              result = json.loads(
+                  response_body
+              )
 
               parts = (
-                  result.get("candidates", [{}])[0]
+                  result
+                  .get("candidates", [{}])[0]
                   .get("content", {})
                   .get("parts", [])
               )
@@ -85,32 +138,61 @@ jobs:
               ).strip()
 
           except HTTPError as error:
+
               status = error.code
 
               try:
-                  error_body = error.read().decode("utf-8", errors="replace")
+                  error_body = (
+                      error
+                      .read()
+                      .decode(
+                          "utf-8",
+                          errors="replace"
+                      )
+                  )
+
               except Exception:
-                  error_body = "Unable to read HTTP error response body."
+                  error_body = (
+                      "Unable to read HTTP "
+                      "error response body."
+                  )
 
           except Exception as error:
-              error_body = f"{type(error).__name__}: {error}"
 
-          # Safety: redact anything that looks like an API key.
+              error_body = (
+                  f"{type(error).__name__}: "
+                  f"{error}"
+              )
+
+          # Safety: redact anything that looks
+          # like an API key.
           if error_body:
+
               error_body = re.sub(
                   r'(?i)(api[_-]?key["\']?\s*[:=]\s*["\']?)[^"\',\s}]+',
                   r'\1[REDACTED]',
                   error_body,
               )
 
-          print("PYTHON URLLIB GEMINI TEST V2")
-          print(f"HTTP STATUS: {status}")
+          print(
+              "PYTHON URLLIB GEMINI TEST V2"
+          )
+
+          print(
+              f"HTTP STATUS: {status}"
+          )
 
           if returned_text:
+
               print("TEST: SUCCESS")
               print(returned_text)
+
           else:
+
               print("TEST: FAILED")
               print("ERROR RESPONSE BODY:")
-              print(error_body or "No error response body returned.")
+              print(
+                  error_body
+                  or "No error response body returned."
+              )
           PY
