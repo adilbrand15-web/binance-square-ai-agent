@@ -88,6 +88,17 @@ jobs:
           print(text.strip())
           PY
 
+      - name: Binance Square Secret Check
+        env:
+          BINANCE_SQUARE_OPENAPI_KEY: ${{ secrets.BINANCE_SQUARE_OPENAPI_KEY }}
+        run: |
+          if [ -n "$BINANCE_SQUARE_OPENAPI_KEY" ]; then
+            echo "BINANCE SQUARE KEY: SET"
+          else
+            echo "BINANCE SQUARE KEY: NOT SET"
+            exit 1
+          fi
+
       - name: Install Chart and AI Dependencies
         run: |
           python -m pip install --upgrade pip
