@@ -16,6 +16,15 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Binance Square Skill
+        run: |
+          npx skills add https://github.com/binance/binance-skills-hub/tree/main/skills/binance/square-post
+
       - name: Gemini Secret Diagnostic
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
