@@ -19,11 +19,38 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
 
-      - name: Install Binance Square Skill
+      - name: Install Binance Square Skill Files
         run: |
-          npx skills add https://github.com/binance/binance-skills-hub/tree/main/skills/binance/square-post
+          git clone --depth 1 https://github.com/binance/binance-skills-hub.git binance-skills-hub
+
+          SQUARE_SKILL_DIR="binance-skills-hub/skills/binance/square-post"
+
+          if [ ! -f "$SQUARE_SKILL_DIR/SKILL.md" ]; then
+            echo "BINANCE SQUARE SKILL: FAILED"
+            echo "SKILL.md not found"
+            exit 1
+          fi
+
+          if [ ! -f "$SQUARE_SKILL_DIR/scripts/post-text.mjs" ]; then
+            echo "BINANCE SQUARE TEXT PUBLISHER: FAILED"
+            echo "post-text.mjs not found"
+            exit 1
+          fi
+
+          if [ ! -f "$SQUARE_SKILL_DIR/scripts/post-image.mjs" ]; then
+            echo "BINANCE SQUARE IMAGE PUBLISHER: FAILED"
+            echo "post-image.mjs not found"
+            exit 1
+          fi
+
+          echo "BINANCE SQUARE SKILL: INSTALLED"
+          echo "BINANCE SQUARE TEXT PUBLISHER: READY"
+          echo "BINANCE SQUARE IMAGE PUBLISHER: READY"
+
+          echo "Node version:"
+          node --version
 
       - name: Gemini Secret Diagnostic
         env:
