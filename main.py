@@ -1,11 +1,16 @@
 import json
+import os
+import subprocess
 from urllib.request import urlopen, Request
 from urllib.parse import urlencode
+
 from database import initialize_database
 from database import save_signal
 from database import mark_signal_selected
+
 from chart_generator import generate_chart
 from ai_writer import generate_ai_post
+
 
 BASE_URL = "https://data-api.binance.vision/api/v3"
 
@@ -316,8 +321,6 @@ def get_direction(data):
 
     bearish_points = 0
 
-    # Trend
-
     if price > ema20:
         bullish_points += 1
 
@@ -336,15 +339,11 @@ def get_direction(data):
     if ema20 < ema50:
         bearish_points += 1
 
-    # RSI
-
     if rsi >= 50:
         bullish_points += 1
 
     if rsi <= 50:
         bearish_points += 1
-
-    # MACD
 
     if macd > 0:
         bullish_points += 1
@@ -445,10 +444,6 @@ def check_entry_quality(
 
     resistance = tf15m["resistance"]
 
-    # -----------------------------------------------------
-    # LONG
-    # -----------------------------------------------------
-
     if direction == "LONG":
 
         if resistance <= entry:
@@ -470,10 +465,6 @@ def check_entry_quality(
                 False,
                 "Resistance too close to entry"
             )
-
-    # -----------------------------------------------------
-    # SHORT
-    # -----------------------------------------------------
 
     elif direction == "SHORT":
 
@@ -528,10 +519,6 @@ def check_overextension(
     if ema20 is None or atr is None or atr <= 0:
         return False, "Indicator data unavailable"
 
-    # -----------------------------------------------------
-    # EXTREME VOLATILITY
-    # -----------------------------------------------------
-
     atr_percent = (
         atr / entry
     ) * 100
@@ -541,10 +528,6 @@ def check_overextension(
             False,
             "Extreme 15M volatility"
         )
-
-    # -----------------------------------------------------
-    # LONG OVEREXTENSION
-    # -----------------------------------------------------
 
     if direction == "LONG":
 
@@ -575,10 +558,6 @@ def check_overextension(
                 False,
                 "Possible LONG pump/exhaustion"
             )
-
-    # -----------------------------------------------------
-    # SHORT OVEREXTENSION
-    # -----------------------------------------------------
 
     if direction == "SHORT":
 
@@ -624,15 +603,9 @@ def check_btc_context(
     btc_1h_direction
 ):
 
-    # BTC and ETH are not filtered by BTC context
-
     if symbol in ["BTCUSDT", "ETHUSDT"]:
 
         return True, "BTC context filter skipped"
-
-    # -----------------------------------------------------
-    # LONG ALTCOIN
-    # -----------------------------------------------------
 
     if direction == "LONG":
 
@@ -645,10 +618,6 @@ def check_btc_context(
                 False,
                 "BTC market context strongly bearish"
             )
-
-    # -----------------------------------------------------
-    # SHORT ALTCOIN
-    # -----------------------------------------------------
 
     if direction == "SHORT":
 
@@ -745,10 +714,6 @@ def generate_signal(
         f"1M  : {direction1m}"
     )
 
-    # -----------------------------------------------------
-    # LONG CONFIRMATION
-    # -----------------------------------------------------
-
     long_score = 0
 
     if direction4h == "BULLISH":
@@ -777,10 +742,6 @@ def generate_signal(
 
         long_score += 5
 
-    # -----------------------------------------------------
-    # SHORT CONFIRMATION
-    # -----------------------------------------------------
-
     short_score = 0
 
     if direction4h == "BEARISH":
@@ -808,10 +769,6 @@ def generate_signal(
     ):
 
         short_score += 5
-
-    # -----------------------------------------------------
-    # FINAL DIRECTION
-    # -----------------------------------------------------
 
     direction = None
 
@@ -844,10 +801,6 @@ def generate_signal(
 
         return None
 
-    # -----------------------------------------------------
-    # ENTRY
-    # -----------------------------------------------------
-
     entry = tf1m["price"]
 
     atr = tf15m["atr"]
@@ -860,10 +813,6 @@ def generate_signal(
         )
 
         return None
-
-    # -----------------------------------------------------
-    # LONG
-    # -----------------------------------------------------
 
     if direction == "LONG":
 
@@ -883,10 +832,6 @@ def generate_signal(
 
         tp3 = entry + (risk * 3)
 
-    # -----------------------------------------------------
-    # SHORT
-    # -----------------------------------------------------
-
     else:
 
         stop_loss = (
@@ -905,10 +850,6 @@ def generate_signal(
 
         tp3 = entry - (risk * 3)
 
-    # -----------------------------------------------------
-    # ENTRY QUALITY FILTER
-    # -----------------------------------------------------
-
     quality_passed, quality_reason = check_entry_quality(
         entry,
         stop_loss,
@@ -925,10 +866,6 @@ def generate_signal(
 
         return None
 
-    # -----------------------------------------------------
-    # OVEREXTENSION & VOLATILITY FILTER
-    # -----------------------------------------------------
-
     extension_passed, extension_reason = check_overextension(
         entry,
         direction,
@@ -943,10 +880,6 @@ def generate_signal(
         )
 
         return None
-
-    # -----------------------------------------------------
-    # BTC MARKET CONTEXT FILTER
-    # -----------------------------------------------------
 
     btc_context_passed, btc_context_reason = check_btc_context(
         symbol,
@@ -1070,10 +1003,223 @@ def format_price(price):
 
 
 # =========================================================
+# BINANCE SQUARE PUBLISHER
+# =========================================================
+
+def publish_to_square(
+    ai_post,
+    chart_path
+):
+
+    print(
+        "\n" + "=" * 70
+    )
+
+    print(
+        "BINANCE SQUARE PUBLISHER"
+    )
+
+    print(
+        "=" * 70
+    )
+
+    if not ai_post:
+
+        print(
+            "PUBLISH FAILED: AI post is empty"
+        )
+
+        return None
+
+    if not chart_path:
+
+        print(
+            "PUBLISH FAILED: Chart path is empty"
+        )
+
+        return None
+
+    if not os.path.isfile(chart_path):
+
+        print(
+            f"PUBLISH FAILED: Chart not found: {chart_path}"
+        )
+
+        return None
+
+    api_key = os.environ.get(
+        "BINANCE_SQUARE_OPENAPI_KEY"
+    )
+
+    if not api_key:
+
+        print(
+            "PUBLISH FAILED: "
+            "BINANCE_SQUARE_OPENAPI_KEY not set"
+        )
+
+        return None
+
+    skill_dir = os.path.join(
+        "binance-skills-hub",
+        "skills",
+        "binance",
+        "square-post"
+    )
+
+    publisher = os.path.join(
+        skill_dir,
+        "scripts",
+        "post-image.mjs"
+    )
+
+    if not os.path.isfile(publisher):
+
+        print(
+            f"PUBLISH FAILED: "
+            f"Publisher not found: {publisher}"
+        )
+
+        return None
+
+    print(
+        "Publisher:"
+    )
+
+    print(
+        publisher
+    )
+
+    print(
+        "Chart:"
+    )
+
+    print(
+        chart_path
+    )
+
+    print(
+        "Sending selected signal to Binance Square..."
+    )
+
+    environment = os.environ.copy()
+
+    environment[
+        "BINANCE_SQUARE_OPENAPI_KEY"
+    ] = api_key
+
+    try:
+
+        result = subprocess.run(
+            [
+                "node",
+                publisher,
+                "--text",
+                ai_post,
+                "--images",
+                chart_path
+            ],
+            cwd=skill_dir,
+            env=environment,
+            capture_output=True,
+            text=True,
+            timeout=120
+        )
+
+    except subprocess.TimeoutExpired:
+
+        print(
+            "PUBLISH FAILED: "
+            "Publisher timed out after 120 seconds"
+        )
+
+        return None
+
+    except Exception as error:
+
+        print(
+            "PUBLISH FAILED:"
+        )
+
+        print(
+            str(error)
+        )
+
+        return None
+
+    output = (
+        result.stdout
+        + "\n"
+        + result.stderr
+    ).strip()
+
+    print(
+        "\nPUBLISHER OUTPUT:"
+    )
+
+    print(
+        output
+    )
+
+    if result.returncode != 0:
+
+        print(
+            "\nBINANCE SQUARE PUBLISH: FAILED"
+        )
+
+        return None
+
+    post_id = None
+
+    post_link = None
+
+    for line in output.splitlines():
+
+        clean_line = line.strip()
+
+        if clean_line.startswith("ID:"):
+
+            post_id = clean_line.split(
+                "ID:",
+                1
+            )[1].strip()
+
+        if clean_line.startswith("Link:"):
+
+            post_link = clean_line.split(
+                "Link:",
+                1
+            )[1].strip()
+
+    print(
+        "\nBINANCE SQUARE PUBLISH: SUCCESS"
+    )
+
+    if post_id:
+
+        print(
+            f"POST ID: {post_id}"
+        )
+
+    if post_link:
+
+        print(
+            f"POST LINK: {post_link}"
+        )
+
+    return {
+        "id": post_id,
+        "link": post_link,
+        "output": output
+    }
+
+
+# =========================================================
 # MAIN
 # =========================================================
 
 def main():
+
     initialize_database()
 
     print("=" * 70)
@@ -1114,10 +1260,6 @@ def main():
         "BTCUSDT",
         "ETHUSDT"
     ]
-
-    # -----------------------------------------------------
-    # BTC MARKET CONTEXT
-    # -----------------------------------------------------
 
     btc_4h_data = analyze_timeframe(
         "BTCUSDT",
@@ -1290,6 +1432,10 @@ def main():
                 f"Analysis failed - {error}"
             )
 
+    # =====================================================
+    # SELECT BEST SIGNAL
+    # =====================================================
+
     if valid_signals:
 
         selected_signal = max(
@@ -1318,11 +1464,14 @@ def main():
         )
 
         if chart_path:
+
             print(
                 f"CHART GENERATED: "
                 f"{chart_path}"
             )
+
         else:
+
             print(
                 "CHART GENERATION FAILED"
             )
@@ -1361,22 +1510,90 @@ def main():
         print(
             "=" * 70
         )
-        print("\n" + "=" * 70)
-        print("GENERATING AI SIGNAL POST")
-        print("=" * 70)
 
-        ai_post = generate_ai_post(selected_signal)
+        # =================================================
+        # AI POST
+        # =================================================
+
+        print(
+            "\n" + "=" * 70
+        )
+
+        print(
+            "GENERATING AI SIGNAL POST"
+        )
+
+        print(
+            "=" * 70
+        )
+
+        ai_post = generate_ai_post(
+            selected_signal
+        )
 
         if ai_post:
-            print("AI POST GENERATED")
-            print("-" * 70)
-            print(ai_post)
-            print("-" * 70)
-            selected_signal["ai_post"] = ai_post
-        else:
-            print("AI POST GENERATION FAILED")
 
-        print("=" * 70)
+            print(
+                "AI POST GENERATED"
+            )
+
+            print(
+                "-" * 70
+            )
+
+            print(
+                ai_post
+            )
+
+            print(
+                "-" * 70
+            )
+
+            selected_signal[
+                "ai_post"
+            ] = ai_post
+
+        else:
+
+            print(
+                "AI POST GENERATION FAILED"
+            )
+
+        print(
+            "=" * 70
+        )
+
+        # =================================================
+        # BINANCE SQUARE PUBLISH
+        # =================================================
+
+        if ai_post and chart_path:
+
+            publish_result = publish_to_square(
+                ai_post,
+                chart_path
+            )
+
+            if publish_result:
+
+                selected_signal[
+                    "square_post_id"
+                ] = publish_result["id"]
+
+                selected_signal[
+                    "square_post_link"
+                ] = publish_result["link"]
+
+        else:
+
+            print(
+                "\nBINANCE SQUARE PUBLISH SKIPPED"
+            )
+
+            print(
+                "Reason: AI post or chart unavailable"
+            )
+
     print(
         "\n" + "=" * 70
     )
