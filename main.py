@@ -1067,10 +1067,10 @@ def publish_to_square(
         "square-post"
     )
 
-publisher = os.path.join(
-    "scripts",
-    "post-image.mjs"
-)
+    publisher = os.path.join(
+       "scripts",
+       "post-image.mjs"
+   )
     if not os.path.isfile(publisher):
 
         print(
