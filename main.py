@@ -1068,9 +1068,11 @@ def publish_to_square(
     )
 
     publisher = os.path.join(
-       "scripts",
-       "post-image.mjs"
-   )
+        skill_dir,
+        "scripts",
+        "post-image.mjs"
+    )
+
     if not os.path.isfile(publisher):
 
         print(
@@ -1080,12 +1082,16 @@ def publish_to_square(
 
         return None
 
+    absolute_publisher = os.path.abspath(
+        publisher
+    )
+
     print(
         "Publisher:"
     )
 
     print(
-        publisher
+        absolute_publisher
     )
 
     print(
@@ -1111,11 +1117,11 @@ def publish_to_square(
         result = subprocess.run(
             [
                 "node",
-                publisher,
+                absolute_publisher,
                 "--text",
                 ai_post,
                 "--images",
-                chart_path
+                os.path.abspath(chart_path)
             ],
             cwd=skill_dir,
             env=environment,
@@ -1210,7 +1216,6 @@ def publish_to_square(
         "link": post_link,
         "output": output
     }
-
 
 # =========================================================
 # MAIN
