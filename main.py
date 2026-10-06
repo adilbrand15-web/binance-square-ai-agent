@@ -897,6 +897,13 @@ def generate_signal(
 
         return None
 
+    # =====================================================
+    # RSI
+    # Use 15M RSI as the main entry/confirmation RSI
+    # =====================================================
+
+    rsi = tf15m.get("rsi")
+
     return {
         "symbol": symbol,
         "direction": direction,
@@ -910,9 +917,9 @@ def generate_signal(
         "4h": direction4h,
         "1h": direction1h,
         "15m": direction15m,
-        "1m": direction1m
+        "1m": direction1m,
+        "rsi": rsi
     }
-
 
 # =========================================================
 # DYNAMIC TOP 10
