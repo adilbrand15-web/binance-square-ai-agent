@@ -10,6 +10,7 @@ from database import mark_signal_selected
 from database import mark_signal_published
 from database import mark_chart_saved
 from database import get_signal
+from database import get_all_signals
 
 from chart_generator import generate_chart
 from ai_writer import generate_ai_post
