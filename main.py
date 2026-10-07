@@ -1591,13 +1591,39 @@ def main():
 
             if publish_result:
 
+                # Save Square post information
+                # to the selected signal in memory
                 selected_signal[
                     "square_post_id"
-                ] = publish_result["id"]
+                ] = publish_result.get("id")
 
                 selected_signal[
                     "square_post_link"
-                ] = publish_result["link"]
+                ] = publish_result.get("link")
+
+                # Save publication status,
+                # Post ID and Post Link permanently
+                # into SQLite database
+                mark_signal_published(
+                    selected_signal["database_id"],
+                    publish_result.get("id"),
+                    publish_result.get("link")
+                )
+
+                print(
+                    "\nDATABASE: "
+                    "SIGNAL MARKED AS PUBLISHED"
+                )
+
+                print(
+                    f"POST ID: "
+                    f"{publish_result.get('id')}"
+                )
+
+                print(
+                    f"POST LINK: "
+                    f"{publish_result.get('link')}"
+                )
 
         else:
 
