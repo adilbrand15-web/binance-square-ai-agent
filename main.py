@@ -1474,7 +1474,10 @@ def main():
         chart_path = generate_chart(
             selected_signal
         )
-
+        if chart_path:
+            mark_chart_saved(
+                selected_signal["database_id"]
+            )
         if chart_path:
 
             print(
