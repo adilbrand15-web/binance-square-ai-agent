@@ -1611,6 +1611,54 @@ def main():
                     publish_result.get("link")
                 )
 
+                # =================================================
+                # DATABASE VERIFICATION
+                # =================================================
+
+                saved_signal = get_signal(
+                    selected_signal["database_id"]
+                )
+
+                if saved_signal:
+
+                    print(
+                        "\nDATABASE VERIFICATION"
+                    )
+
+                    print(
+                        f"Signal ID: {saved_signal['id']}"
+                    )
+
+                    print(
+                        f"Selected: {saved_signal['selected']}"
+                    )
+
+                    print(
+                        f"Chart Saved: {saved_signal['chart_saved']}"
+                    )
+
+                    print(
+                        f"Published: {saved_signal['published']}"
+                    )
+
+                    print(
+                        f"Post ID: {saved_signal['post_id']}"
+                    )
+
+                    print(
+                        f"Post Link: {saved_signal['post_link']}"
+                    )
+
+                else:
+
+                    print(
+                        "\nDATABASE VERIFICATION FAILED"
+                    )
+
+                    print(
+                        "Signal record could not be found."
+                    )
+
                 print(
                     "\nDATABASE: "
                     "SIGNAL MARKED AS PUBLISHED"
