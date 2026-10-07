@@ -339,6 +339,27 @@ def get_signal(signal_id):
 # DATABASE TEST
 # =========================================================
 
+def get_all_signals():
+    """
+    Return all saved signals
+    from newest to oldest.
+    """
+
+    conn = get_connection()
+    cursor = conn.cursor()
+
+    cursor.execute("""
+        SELECT *
+        FROM signals
+        ORDER BY id DESC
+    """)
+
+    rows = cursor.fetchall()
+
+    conn.close()
+
+    return rows
+
 if __name__ == "__main__":
 
     initialize_database()
