@@ -349,7 +349,30 @@ def get_all_signals():
     cursor = conn.cursor()
 
     cursor.execute("""
-        SELECT *
+        SELECT
+            id,
+            symbol,
+            direction,
+            score,
+            timeframe_4h,
+            timeframe_1h,
+            timeframe_15m,
+            timeframe_1m,
+            entry,
+            stop_loss,
+            tp1,
+            tp2,
+            tp3,
+            risk_reward,
+            signal_time,
+            published,
+            selected,
+            chart_saved,
+            post_id,
+            post_link,
+            outcome,
+            created_at,
+            rsi
         FROM signals
         ORDER BY id DESC
     """)
