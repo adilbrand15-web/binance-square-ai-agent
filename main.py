@@ -1753,31 +1753,31 @@ print(
     "========================================"
 )
 
-    if signals_found == 0:
-
-        print(
-            "STATUS: "
-            "NO TRADE SETUP"
-        )
-
-        print(
-            "No post should be created."
-        )
-
-    else:
-
-        print(
-            "STATUS: "
-            "MULTI-TIMEFRAME SIGNAL(S) FOUND"
-        )
+if signals_found == 0:
 
     print(
-        "MULTI-TIMEFRAME ENGINE: ONLINE"
+        "STATUS: "
+        "NO TRADE SETUP"
     )
 
     print(
-        "=" * 70
+        "No post should be created."
     )
+
+else:
+
+    print(
+        "STATUS: "
+        "MULTI-TIMEFRAME SIGNAL(S) FOUND"
+    )
+
+print(
+    "MULTI-TIMEFRAME ENGINE: ONLINE"
+)
+
+print(
+    "=" * 70
+)
 
 
 if __name__ == "__main__":
