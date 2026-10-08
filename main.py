@@ -1699,6 +1699,60 @@ def main():
         f"{signals_found}"
     )
 
+# =================================================
+# SIGNAL HISTORY
+# =================================================
+
+all_signals = get_all_signals()
+
+print(
+    "\n========================================"
+)
+
+print(
+    "SIGNAL HISTORY"
+)
+
+print(
+    "========================================"
+)
+
+if not all_signals:
+
+    print(
+        "No saved signals found."
+    )
+
+else:
+
+    print(
+        f"Total saved signals: {len(all_signals)}"
+    )
+
+    print(
+        "----------------------------------------"
+    )
+
+    for signal in all_signals:
+
+        print(
+            f"ID: {signal[0]} | "
+            f"{signal[1]} | "
+            f"{signal[2]} | "
+            f"Score: {signal[3]} | "
+            f"Entry: {signal[8]} | "
+            f"SL: {signal[9]} | "
+            f"TP1: {signal[10]} | "
+            f"TP2: {signal[11]} | "
+            f"TP3: {signal[12]} | "
+            f"Selected: {signal[16]} | "
+            f"Published: {signal[15]}"
+        )
+
+print(
+    "========================================"
+)
+
     if signals_found == 0:
 
         print(
