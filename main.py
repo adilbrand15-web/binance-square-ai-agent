@@ -1703,57 +1703,115 @@ def main():
 # SIGNAL HISTORY
 # =================================================
 
-all_signals = get_all_signals()
+def print_signal_history():
 
-print(
-    "\n========================================"
-)
-
-print(
-    "SIGNAL HISTORY"
-)
-
-print(
-    "========================================"
-)
-
-if not all_signals:
+    all_signals = get_all_signals()
 
     print(
-        "No saved signals found."
+        "\n"
+        + "=" * 70
     )
 
-else:
+    print(
+        "SIGNAL HISTORY"
+    )
+
+    print(
+        "=" * 70
+    )
+
+    if not all_signals:
+
+        print(
+            "No saved signals found."
+        )
+
+        print(
+            "=" * 70
+        )
+
+        return
 
     print(
         f"Total saved signals: {len(all_signals)}"
     )
 
     print(
-        "----------------------------------------"
+        "-" * 70
     )
 
     for signal in all_signals:
 
         print(
-            f"ID: {signal[0]} | "
-            f"{signal[1]} | "
-            f"{signal[2]} | "
-            f"Score: {signal[3]} | "
-            f"Entry: {signal[8]} | "
-            f"SL: {signal[9]} | "
-            f"TP1: {signal[10]} | "
-            f"TP2: {signal[11]} | "
-            f"TP3: {signal[12]} | "
-            f"Selected: {signal[16]} | "
+            f"ID: {signal[0]}"
+        )
+
+        print(
+            f"Symbol: {signal[1]}"
+        )
+
+        print(
+            f"Direction: {signal[2]}"
+        )
+
+        print(
+            f"Score: {signal[3]}/100"
+        )
+
+        print(
+            f"Entry: {signal[8]}"
+        )
+
+        print(
+            f"Stop Loss: {signal[9]}"
+        )
+
+        print(
+            f"TP1: {signal[10]}"
+        )
+
+        print(
+            f"TP2: {signal[11]}"
+        )
+
+        print(
+            f"TP3: {signal[12]}"
+        )
+
+        print(
+            f"Risk/Reward: {signal[13]}"
+        )
+
+        print(
+            f"Selected: {signal[16]}"
+        )
+
+        print(
             f"Published: {signal[15]}"
         )
 
-print(
-    "========================================"
-)
+        print(
+            f"Chart Saved: {signal[17]}"
+        )
 
+        print(
+            f"Post ID: {signal[18]}"
+        )
+
+        print(
+            f"RSI: {signal[22]}"
+        )
+
+        print(
+            "-" * 70
+        )
+
+    print(
+        "=" * 70
+    )
 
 
 if __name__ == "__main__":
+    print_signal_history()
+
     main()
