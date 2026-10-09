@@ -155,6 +155,14 @@ jobs:
           BINANCE_SQUARE_OPENAPI_KEY: ${{ secrets.BINANCE_SQUARE_OPENAPI_KEY }}
         run: python main.py
 
+      - name: Upload Dashboard JSON
+        uses: actions/upload-artifact@v4
+        with:
+          name: dashboard-data
+          path: dashboard_data.json
+          if-no-files-found: error
+          retention-days: 30
+
       - name: Save signal database
         uses: actions/cache/save@v4
         with:
