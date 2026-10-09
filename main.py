@@ -1815,3 +1815,7 @@ if __name__ == "__main__":
     print_signal_history()
 
     main()
+
+    from dashboard_export import export_dashboard_data
+
+    export_dashboard_data()
