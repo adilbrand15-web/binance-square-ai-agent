@@ -1,0 +1,233 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Binance AI Signal Dashboard</title>
+<style>
+:root {
+  color-scheme: dark;
+  --bg:#0b1020; --panel:#131b2e; --line:#28344c;
+  --text:#edf2ff; --muted:#9aa9c4;
+  --green:#32d296; --red:#ff6978; --blue:#79a9ff;
+}
+* { box-sizing:border-box; }
+body {
+  margin:0; background:var(--bg); color:var(--text);
+  font:15px/1.5 system-ui,-apple-system,sans-serif;
+}
+main { max-width:1250px; margin:auto; padding:22px 14px 45px; }
+header { margin-bottom:22px; }
+h1 { font-size:clamp(24px,5vw,34px); margin:0 0 5px; }
+h2 { font-size:18px; margin:0 0 14px; }
+p,.muted { color:var(--muted); }
+.small { font-size:12px; color:var(--muted); }
+.cards {
+  display:grid; grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:10px; margin:18px 0;
+}
+.card,.panel {
+  background:var(--panel); border:1px solid var(--line);
+  border-radius:14px; padding:16px;
+}
+.metric { font-size:28px; font-weight:750; margin-top:5px; }
+.green { color:var(--green); }
+.red { color:var(--red); }
+.controls {
+  display:grid; grid-template-columns:1fr; gap:10px; margin:18px 0;
+}
+input,select,button {
+  width:100%; padding:12px; border-radius:9px;
+  border:1px solid var(--line); background:#0e1628;
+  color:var(--text); font:inherit; min-height:44px;
+}
+button { cursor:pointer; }
+.table-wrap { overflow-x:auto; }
+table { width:100%; border-collapse:collapse; min-width:950px; }
+th,td {
+  text-align:left; padding:12px 10px;
+  border-bottom:1px solid var(--line); white-space:nowrap;
+}
+th { color:var(--muted); font-size:12px; }
+.badge {
+  display:inline-block; padding:3px 8px; border-radius:20px;
+  background:#20304a; font-size:12px;
+}
+a { color:var(--blue); }
+.status { margin:10px 0 16px; color:var(--muted); }
+.empty { padding:24px; text-align:center; color:var(--muted); }
+footer { margin-top:20px; color:var(--muted); font-size:12px; }
+@media(min-width:700px) {
+  .cards { grid-template-columns:repeat(4,minmax(0,1fr)); }
+  .controls { grid-template-columns:2fr 1fr auto; }
+}
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Binance AI Dashboard</h1>
+    <div class="muted">Signal history · Multi-timeframe analysis · Published posts</div>
+    <div id="updated" class="small">Loading dashboard data…</div>
+  </header>
+
+  <section class="cards">
+    <div class="card">
+      <div class="muted">Total Saved Signals</div>
+      <div id="total" class="metric">—</div>
+    </div>
+    <div class="card">
+      <div class="muted">Today's Saved Signals*</div>
+      <div id="today" class="metric">—</div>
+    </div>
+    <div class="card">
+      <div class="muted">Published Today*</div>
+      <div id="todayPublished" class="metric green">—</div>
+    </div>
+    <div class="card">
+      <div class="muted">Total Published</div>
+      <div id="published" class="metric">—</div>
+    </div>
+  </section>
+
+  <section class="panel">
+    <h2>Signal History</h2>
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search coin, e.g. BTCUSDT">
+      <select id="filter" aria-label="Filter signals">
+        <option value="all">All signals</option>
+        <option value="published">Published only</option>
+        <option value="unpublished">Not published</option>
+        <option value="long">LONG only</option>
+        <option value="short">SHORT only</option>
+      </select>
+      <button id="refresh" type="button">Refresh data</button>
+    </div>
+    <div id="status" class="status" role="status">Waiting for data…</div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>ID / Date</th><th>Coin</th><th>Direction</th>
+            <th>Score</th><th>4H / 1H / 15M / 1M</th>
+            <th>Entry</th><th>Stop Loss</th><th>TP1</th>
+            <th>TP2</th><th>TP3</th><th>RSI</th>
+            <th>Status / Post</th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+    <div id="empty" class="empty" hidden>No matching signals found.</div>
+    <footer>
+      *Today's figures use the summary exported by the agent.
+      Signals are analytical data, not guaranteed trading outcomes.
+    </footer>
+  </section>
+</main>
+<script>
+const $ = id => document.getElementById(id);
+let signals = [];
+let summary = {};
+
+function fmt(value) {
+  if (value === null || value === undefined || value === "") return "—";
+  const n = Number(value);
+  if (!Number.isFinite(n)) return String(value);
+  return n.toLocaleString("en-US", {maximumSignificantDigits: 9});
+}
+function dateFmt(value) {
+  if (!value) return "—";
+  const d = new Date(value);
+  return Number.isNaN(d.getTime()) ? String(value) :
+    d.toLocaleString();
+}
+function safeText(value) {
+  return String(value ?? "—");
+}
+function render() {
+  const q = $("search").value.trim().toUpperCase();
+  const filter = $("filter").value;
+  const shown = signals.filter(s => {
+    const symbol = safeText(s.symbol).toUpperCase();
+    if (q && !symbol.includes(q)) return false;
+    if (filter === "published" && Number(s.published) !== 1) return false;
+    if (filter === "unpublished" && Number(s.published) === 1) return false;
+    if (filter === "long" && s.direction !== "LONG") return false;
+    if (filter === "short" && s.direction !== "SHORT") return false;
+    return true;
+  });
+
+  $("rows").innerHTML = "";
+  for (const s of shown) {
+    const tr = document.createElement("tr");
+    const tf = s.timeframes || {};
+    const status = Number(s.published) === 1 ? "Published" : "Not published";
+    const post = Number(s.published) === 1 && s.post_link
+      ? `<a href="${encodeURI(s.post_link)}" target="_blank" rel="noopener noreferrer">Open post</a>`
+      : status;
+    const cells = [
+      `#${safeText(s.id)}<br><span class="small">${dateFmt(s.created_at)}</span>`,
+      safeText(s.symbol),
+      `<span class="badge ${s.direction === "LONG" ? "green" : "red"}">${safeText(s.direction)}</span>`,
+      `${fmt(s.score)}/100`,
+      `${safeText(tf["4h"])} / ${safeText(tf["1h"])} / ${safeText(tf["15m"])} / ${safeText(tf["1m"])}`,
+      fmt(s.entry), fmt(s.stop_loss), fmt(s.tp1), fmt(s.tp2), fmt(s.tp3),
+      fmt(s.rsi), post
+    ];
+    cells.forEach((value, index) => {
+      const td = document.createElement("td");
+      if (index === 11 && Number(s.published) === 1 && s.post_link) {
+        const a = document.createElement("a");
+        a.href = s.post_link;
+        a.target = "_blank";
+        a.rel = "noopener noreferrer";
+        a.textContent = "Open post";
+        td.appendChild(a);
+      } else if (index === 0 || index === 2) {
+        td.innerHTML = value;
+      } else {
+        td.textContent = value;
+      }
+      tr.appendChild(td);
+    });
+    $("rows").appendChild(tr);
+  }
+  $("status").textContent = `Showing ${shown.length} of ${signals.length} signals`;
+  $("empty").hidden = shown.length !== 0;
+}
+
+async function loadData() {
+  $("status").textContent = "Loading dashboard_data.json…";
+  try {
+    const response = await fetch("./dashboard_data.json?ts=" + Date.now(), {
+      cache: "no-store"
+    });
+    if (!response.ok) throw new Error("HTTP " + response.status);
+    const data = await response.json();
+    if (!Array.isArray(data.signals) || !data.summary) {
+      throw new Error("Unexpected JSON structure");
+    }
+    signals = data.signals;
+    summary = data.summary;
+
+    $("total").textContent = fmt(summary.total_saved_signals);
+    $("today").textContent = fmt(summary.today_saved_signals);
+    $("todayPublished").textContent = fmt(summary.today_published_signals);
+    $("published").textContent = fmt(summary.total_published_signals);
+    $("updated").textContent = "Data generated: " + dateFmt(data.generated_at);
+    render();
+  } catch (err) {
+    $("status").textContent =
+      "Could not load dashboard_data.json. " +
+      "The JSON file must be deployed beside index.html. Details: " + err.message;
+  }
+}
+$("search").addEventListener("input", render);
+$("filter").addEventListener("change", render);
+$("refresh").addEventListener("click", loadData);
+loadData();
+</script>
+</body>
+</html>
