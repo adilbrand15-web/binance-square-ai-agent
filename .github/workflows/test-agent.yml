@@ -3,6 +3,8 @@ name: Test Binance Agent
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
 
 permissions:
   contents: read
@@ -11,7 +13,7 @@ permissions:
 
 concurrency:
   group: github-pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   test-agent:
@@ -145,9 +147,7 @@ jobs:
           cp dashboard.html site/index.html
           cp dashboard_data.json site/dashboard_data.json
 
-          echo "Dashboard HTML prepared."
-          echo "Dashboard JSON prepared."
-          echo "Website files:"
+          echo "Dashboard files prepared:"
           ls -la site
 
       - name: Upload Dashboard JSON
@@ -183,7 +183,5 @@ jobs:
 
       - name: Show Dashboard URL
         run: |
-          echo "===================================="
           echo "DASHBOARD URL:"
           echo "${{ steps.deployment.outputs.page_url }}"
-          echo "===================================="
