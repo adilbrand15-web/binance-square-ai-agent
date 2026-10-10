@@ -17,6 +17,10 @@ jobs:
   test-agent:
     runs-on: ubuntu-latest
 
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -40,23 +44,9 @@ jobs:
 
           SQUARE_SKILL_DIR="binance-skills-hub/skills/binance/square-post"
 
-          if [ ! -f "$SQUARE_SKILL_DIR/SKILL.md" ]; then
-            echo "BINANCE SQUARE SKILL: FAILED"
-            echo "SKILL.md not found"
-            exit 1
-          fi
-
-          if [ ! -f "$SQUARE_SKILL_DIR/scripts/post-text.mjs" ]; then
-            echo "BINANCE SQUARE TEXT PUBLISHER: FAILED"
-            echo "post-text.mjs not found"
-            exit 1
-          fi
-
-          if [ ! -f "$SQUARE_SKILL_DIR/scripts/post-image.mjs" ]; then
-            echo "BINANCE SQUARE IMAGE PUBLISHER: FAILED"
-            echo "post-image.mjs not found"
-            exit 1
-          fi
+          test -f "$SQUARE_SKILL_DIR/SKILL.md"
+          test -f "$SQUARE_SKILL_DIR/scripts/post-text.mjs"
+          test -f "$SQUARE_SKILL_DIR/scripts/post-image.mjs"
 
           echo "BINANCE SQUARE SKILL: INSTALLED"
           echo "BINANCE SQUARE TEXT PUBLISHER: READY"
@@ -67,16 +57,9 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          if [ -n "$GEMINI_API_KEY" ]; then
-            echo "GEMINI_API_KEY: SET"
-          else
-            echo "GEMINI_API_KEY: NOT SET"
-          fi
-
           if [ -z "$GEMINI_API_KEY" ]; then
-            echo "HTTP STATUS: 0"
-            echo "GEMINI TEST: FAILED"
-            echo "safe error message: Secret not configured"
+            echo "GEMINI_API_KEY: NOT SET"
+            echo "GEMINI TEST: SKIPPED"
             exit 0
           fi
 
@@ -99,23 +82,21 @@ jobs:
           try:
               with open(response_path, "r", encoding="utf-8") as file:
                   data = json.load(file)
-          except Exception as exc:
-              print("GEMINI TEST: FAILED")
-              print(f"safe error message: {type(exc).__name__}: {str(exc)[:200]}")
+          except Exception:
+              print("GEMINI TEST: FAILED - Invalid response")
               raise SystemExit(0)
 
           if not str(http_code).startswith("2"):
-              print("GEMINI TEST: FAILED")
               error = data.get("error", {}) if isinstance(data, dict) else {}
-              message = error.get("message") if isinstance(error, dict) else "Unknown Gemini API error"
-              print(f"safe error message: {message[:200]}")
+              message = error.get("message", "Unknown API error") if isinstance(error, dict) else "Unknown API error"
+              print("GEMINI TEST: FAILED")
+              print(f"Safe error: {message[:200]}")
               raise SystemExit(0)
 
           try:
               text = data["candidates"][0]["content"]["parts"][0]["text"]
           except Exception:
-              print("GEMINI TEST: FAILED")
-              print("safe error message: Empty or invalid response from Gemini")
+              print("GEMINI TEST: FAILED - Empty response")
               raise SystemExit(0)
 
           print("GEMINI TEST: SUCCESS")
@@ -157,9 +138,17 @@ jobs:
         run: |
           test -f dashboard.html
           test -f dashboard_data.json
+
           mkdir -p site
-          cp dashboard.html dashboard_data.json site/
-          echo "Dashboard HTML and JSON prepared successfully."
+
+          cp dashboard.html site/dashboard.html
+          cp dashboard.html site/index.html
+          cp dashboard_data.json site/dashboard_data.json
+
+          echo "Dashboard HTML prepared."
+          echo "Dashboard JSON prepared."
+          echo "Website files:"
+          ls -la site
 
       - name: Upload Dashboard JSON
         uses: actions/upload-artifact@v4
@@ -191,3 +180,10 @@ jobs:
         uses: actions/deploy-pages@v4
         with:
           token: ${{ github.token }}
+
+      - name: Show Dashboard URL
+        run: |
+          echo "===================================="
+          echo "DASHBOARD URL:"
+          echo "${{ steps.deployment.outputs.page_url }}"
+          echo "===================================="
