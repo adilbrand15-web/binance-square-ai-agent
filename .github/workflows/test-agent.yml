@@ -1,7 +1,17 @@
+
 name: Test Binance Agent
 
 on:
   workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
 
 jobs:
   test-agent:
@@ -10,6 +20,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -48,8 +61,6 @@ jobs:
           echo "BINANCE SQUARE SKILL: INSTALLED"
           echo "BINANCE SQUARE TEXT PUBLISHER: READY"
           echo "BINANCE SQUARE IMAGE PUBLISHER: READY"
-
-          echo "Node version:"
           node --version
 
       - name: Gemini Secret Diagnostic
@@ -90,23 +101,13 @@ jobs:
                   data = json.load(file)
           except Exception as exc:
               print("GEMINI TEST: FAILED")
-              print(
-                  f"safe error message: "
-                  f"{type(exc).__name__}: {str(exc)[:200]}"
-              )
+              print(f"safe error message: {type(exc).__name__}: {str(exc)[:200]}")
               raise SystemExit(0)
 
           if not str(http_code).startswith("2"):
               print("GEMINI TEST: FAILED")
-
               error = data.get("error", {}) if isinstance(data, dict) else {}
-
-              message = (
-                  error.get("message")
-                  if isinstance(error, dict)
-                  else "Unknown Gemini API error"
-              )
-
+              message = error.get("message") if isinstance(error, dict) else "Unknown Gemini API error"
               print(f"safe error message: {message[:200]}")
               raise SystemExit(0)
 
@@ -114,10 +115,7 @@ jobs:
               text = data["candidates"][0]["content"]["parts"][0]["text"]
           except Exception:
               print("GEMINI TEST: FAILED")
-              print(
-                  "safe error message: "
-                  "Empty or invalid response from Gemini"
-              )
+              print("safe error message: Empty or invalid response from Gemini")
               raise SystemExit(0)
 
           print("GEMINI TEST: SUCCESS")
@@ -155,6 +153,14 @@ jobs:
           BINANCE_SQUARE_OPENAPI_KEY: ${{ secrets.BINANCE_SQUARE_OPENAPI_KEY }}
         run: python main.py
 
+      - name: Prepare Dashboard Website
+        run: |
+          test -f dashboard.html
+          test -f dashboard_data.json
+          mkdir -p site
+          cp dashboard.html dashboard_data.json site/
+          echo "Dashboard HTML and JSON prepared successfully."
+
       - name: Upload Dashboard JSON
         uses: actions/upload-artifact@v4
         with:
@@ -174,3 +180,14 @@ jobs:
         with:
           name: selected-signal-chart
           path: charts/*.png
+
+      - name: Upload Dashboard Website
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy Dashboard to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          token: ${{ github.token }}
