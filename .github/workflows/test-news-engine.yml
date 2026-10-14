@@ -29,5 +29,22 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Run news engine tests
-        run: python -m unittest -v test_news_engine
+      - name: Check files and run news engine tests
+        run: |
+          echo "Current directory:"
+          pwd
+
+          echo "Repository files:"
+          ls -la
+
+          echo "Checking news engine file:"
+          python -c "import os; print('news_engine.py exists:', os.path.isfile('news_engine.py'))"
+
+          echo "Checking test file:"
+          python -c "import os; print('test_news_engine.py exists:', os.path.isfile('test_news_engine.py'))"
+
+          echo "Testing news engine import:"
+          python -c "import news_engine; print('News engine import successful')"
+
+          echo "Running unit tests:"
+          python -m unittest -v test_news_engine
