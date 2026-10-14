@@ -1,0 +1,33 @@
+name: Test News Engine
+
+on:
+  push:
+    paths:
+      - "news_engine.py"
+      - "test_news_engine.py"
+      - ".github/workflows/test-news-engine.yml"
+  pull_request:
+    paths:
+      - "news_engine.py"
+      - "test_news_engine.py"
+      - ".github/workflows/test-news-engine.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run news engine tests
+        run: python -m unittest -v test_news_engine
