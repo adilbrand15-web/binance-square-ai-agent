@@ -34,14 +34,22 @@ jobs:
           echo "Current directory:"
           pwd
 
+- name: Check files and diagnose news engine
+        run: |
           echo "Repository files:"
           ls -la
 
+          echo "Exact filenames containing news:"
+          python -c "import os; print([repr(f) for f in os.listdir('.') if 'news' in f.lower()])"
+
           echo "Checking news engine file:"
-          python -c "import os; print('news_engine.py exists:', os.path.isfile('news_engine.py'))"
+          python -c "import os; print('news_engine.py exists:', os.path.isfile('./news_engine.py'))"
 
           echo "Checking test file:"
-          python -c "import os; print('test_news_engine.py exists:', os.path.isfile('test_news_engine.py'))"
+          python -c "import os; print('test_news_engine.py exists:', os.path.isfile('./test_news_engine.py'))"
+
+          echo "Finding news files:"
+          find . -maxdepth 2 -type f -iname '*news*' -print
 
           echo "Testing news engine import:"
           python -c "import news_engine; print('News engine import successful')"
