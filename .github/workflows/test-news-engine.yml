@@ -37,20 +37,23 @@ jobs:
           echo "Repository files:"
           ls -la
 
-          echo "Exact filenames containing news:"
+          echo "Exact news filenames:"
           python -c "import os; print([repr(f) for f in os.listdir('.') if 'news' in f.lower()])"
 
-          echo "Check news engine file:"
-          python -c "import os; print('news_engine.py exists:', os.path.isfile('./news_engine.py'))"
-
-          echo "Check test file:"
-          python -c "import os; print('test_news_engine.py exists:', os.path.isfile('./test_news_engine.py'))"
+          echo "Check exact file paths:"
+          python -c "import os; print('news_engine.py:', os.path.isfile('./news_engine.py'))"
+          python -c "import os; print('test_news_engine.py:', os.path.isfile('./test_news_engine.py'))"
 
           echo "Find news files:"
-          find . -maxdepth 2 -type f -iname '*news*' -print
+          find . -maxdepth 3 -type f -iname '*news*' -print
+
+          echo "Python search paths:"
+          python -c "import sys; print('\n'.join(sys.path))"
 
       - name: Test news engine import
-        run: python -c "import news_engine; print('News engine import successful')"
+        run: |
+          python -c "import os, sys; sys.path.insert(0, os.getcwd()); import news_engine; print('News engine import successful')"
 
       - name: Run news engine tests
-        run: python -m unittest -v test_news_engine
+        run: |
+          python -m unittest -v test_news_engine
