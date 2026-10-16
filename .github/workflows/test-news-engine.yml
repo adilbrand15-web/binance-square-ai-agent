@@ -29,31 +29,24 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Diagnose news files
-        run: |
-          echo "Current directory:"
-          pwd
-
-          echo "Repository files:"
-          ls -la
-
-          echo "Exact news filenames:"
-          python -c "import os; print([repr(f) for f in os.listdir('.') if 'news' in f.lower()])"
-
-          echo "Check exact file paths:"
-          python -c "import os; print('news_engine.py:', os.path.isfile('./news_engine.py'))"
-          python -c "import os; print('test_news_engine.py:', os.path.isfile('./test_news_engine.py'))"
-
-          echo "Find news files:"
-          find . -maxdepth 3 -type f -iname '*news*' -print
-
-          echo "Python search paths:"
-          python -c "import sys; print('\n'.join(sys.path))"
-
       - name: Test news engine import
         run: |
-          python -c "import os, sys; sys.path.insert(0, os.getcwd()); import news_engine; print('News engine import successful')"
+          python -c "import news_engine; print('News engine import successful')"
 
       - name: Run news engine tests
         run: |
           python -m unittest -v test_news_engine
+
+      - name: Run live news feed scan
+        run: |
+          python news_engine.py
+
+      - name: Save news scan results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: crypto-news-scan-results
+          path: |
+            news_scan.json
+            news_seen.json
+          if-no-files-found: warn
