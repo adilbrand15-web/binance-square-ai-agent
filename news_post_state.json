@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T10:45:46.956634+00:00",
+  "updated_at": "2026-10-16T15:12:22.944692+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -155,6 +155,41 @@
       "processed_at": "2026-10-16T10:45:46.956631+00:00",
       "status": "draft_created",
       "score": 7
+    },
+    "https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027": {
+      "processed_at": "2026-10-16T15:12:22.944499+00:00",
+      "status": "ignored_low_importance",
+      "score": 3
+    },
+    "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525": {
+      "processed_at": "2026-10-16T15:12:22.944540+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798": {
+      "processed_at": "2026-10-16T15:12:22.944576+00:00",
+      "status": "ignored_low_importance",
+      "score": 0
+    },
+    "https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap": {
+      "processed_at": "2026-10-16T15:12:22.944624+00:00",
+      "status": "ignored_low_importance",
+      "score": 0
+    },
+    "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets": {
+      "processed_at": "2026-10-16T15:12:22.944645+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally": {
+      "processed_at": "2026-10-16T15:12:22.944666+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next": {
+      "processed_at": "2026-10-16T15:12:22.944685+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
     }
   }
 }
