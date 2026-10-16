@@ -1,0 +1,160 @@
+{
+  "updated_at": "2026-10-16T10:45:46.956634+00:00",
+  "processed_urls": {
+    "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
+      "processed_at": "2026-10-16T10:45:46.956086+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says": {
+      "processed_at": "2026-10-16T10:45:46.956134+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue": {
+      "processed_at": "2026-10-16T10:45:46.956172+00:00",
+      "status": "ignored_low_importance",
+      "score": 5
+    },
+    "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781": {
+      "processed_at": "2026-10-16T10:45:46.956189+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant": {
+      "processed_at": "2026-10-16T10:45:46.956206+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment": {
+      "processed_at": "2026-10-16T10:45:46.956220+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://cointelegraph.com/news/what-happened-in-crypto-today": {
+      "processed_at": "2026-10-16T10:45:46.956236+00:00",
+      "status": "ignored_low_importance",
+      "score": 0
+    },
+    "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization": {
+      "processed_at": "2026-10-16T10:45:46.956251+00:00",
+      "status": "ignored_low_importance",
+      "score": 0
+    },
+    "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why": {
+      "processed_at": "2026-10-16T10:45:46.956268+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775": {
+      "processed_at": "2026-10-16T10:45:46.956283+00:00",
+      "status": "ignored_low_importance",
+      "score": 3
+    },
+    "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own": {
+      "processed_at": "2026-10-16T10:45:46.956299+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound": {
+      "processed_at": "2026-10-16T10:45:46.956312+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework": {
+      "processed_at": "2026-10-16T10:45:46.956326+00:00",
+      "status": "ignored_low_importance",
+      "score": 0
+    },
+    "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729": {
+      "processed_at": "2026-10-16T10:45:46.956338+00:00",
+      "status": "ignored_low_importance",
+      "score": 0
+    },
+    "https://cointelegraph.com/news/binance-us-funding-valuation-billion": {
+      "processed_at": "2026-10-16T10:45:46.956354+00:00",
+      "status": "ignored_low_importance",
+      "score": 3
+    },
+    "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large": {
+      "processed_at": "2026-10-16T10:45:46.956365+00:00",
+      "status": "ignored_low_importance",
+      "score": 0
+    },
+    "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict": {
+      "processed_at": "2026-10-16T10:45:46.956378+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686": {
+      "processed_at": "2026-10-16T10:45:46.956391+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694": {
+      "processed_at": "2026-10-16T10:45:46.956402+00:00",
+      "status": "ignored_low_importance",
+      "score": 0
+    },
+    "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins": {
+      "processed_at": "2026-10-16T10:45:46.956416+00:00",
+      "status": "ignored_low_importance",
+      "score": 5
+    },
+    "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years": {
+      "processed_at": "2026-10-16T10:45:46.956429+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules": {
+      "processed_at": "2026-10-16T10:45:46.956443+00:00",
+      "status": "ignored_low_importance",
+      "score": 0
+    },
+    "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027": {
+      "processed_at": "2026-10-16T10:45:46.956455+00:00",
+      "status": "ignored_low_importance",
+      "score": 3
+    },
+    "https://www.theblock.co/news/markets/2026-10-15-bitwise-cio-argues-bitcoin-will-benefit-whether-ai-booms-or-busts-418668": {
+      "processed_at": "2026-10-16T10:45:46.956469+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion": {
+      "processed_at": "2026-10-16T10:45:46.956485+00:00",
+      "status": "ignored_low_importance",
+      "score": 3
+    },
+    "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers": {
+      "processed_at": "2026-10-16T10:45:46.956498+00:00",
+      "status": "ignored_low_importance",
+      "score": 3
+    },
+    "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone": {
+      "processed_at": "2026-10-16T10:45:46.956512+00:00",
+      "status": "ignored_low_importance",
+      "score": 0
+    },
+    "https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644": {
+      "processed_at": "2026-10-16T10:45:46.956527+00:00",
+      "status": "ignored_low_importance",
+      "score": 0
+    },
+    "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises": {
+      "processed_at": "2026-10-16T10:45:46.956538+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower": {
+      "processed_at": "2026-10-16T10:45:46.956551+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin": {
+      "processed_at": "2026-10-16T10:45:46.956631+00:00",
+      "status": "draft_created",
+      "score": 7
+    }
+  }
+}
