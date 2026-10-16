@@ -1,0 +1,93 @@
+
+name: Crypto News Publisher
+
+on:
+  workflow_run:
+    workflows:
+      - "Crypto News Agent"
+    types:
+      - completed
+
+permissions:
+  actions: read
+  contents: write
+
+concurrency:
+  group: crypto-news-publisher
+  cancel-in-progress: false
+
+jobs:
+  publish-news:
+    if: github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Download news scan results
+        uses: actions/download-artifact@v4
+        with:
+          name: crypto-news-agent-results
+          path: news-artifact
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          run-id: ${{ github.event.workflow_run.id }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Get official Binance Square publisher
+        run: |
+          git clone --depth 1 \
+            https://github.com/binance/binance-skills-hub.git \
+            /tmp/binance-skills-hub
+
+          test -f \
+            /tmp/binance-skills-hub/skills/binance/square-post/scripts/post-text.mjs
+
+      - name: Publish important crypto news
+        env:
+          BINANCE_SQUARE_OPENAPI_KEY: ${{ secrets.BINANCE_SQUARE_OPENAPI_KEY }}
+          NEWS_DRAFTS_FILE: news-artifact/news_post_drafts.json
+          NEWS_MIN_IMPORTANCE_SCORE: "6"
+          NEWS_MAX_POSTS_PER_RUN: "1"
+          SQUARE_POST_SCRIPT: /tmp/binance-skills-hub/skills/binance/square-post/scripts/post-text.mjs
+        run: python news_publisher.py
+
+      - name: Upload publisher state
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: crypto-news-publisher-state
+          path: news_publisher_state.json
+          if-no-files-found: warn
+          retention-days: 30
+
+      - name: Save publisher state to repository
+        if: always()
+        run: |
+          if [ -f news_publisher_state.json ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+            git add news_publisher_state.json
+
+            if git diff --cached --quiet; then
+              echo "Publisher state unchanged."
+            else
+              git commit -m "chore: update crypto news publisher state [skip ci]"
+              git push origin HEAD:main
+            fi
+          else
+            echo "Publisher state file does not exist yet."
+          fi
