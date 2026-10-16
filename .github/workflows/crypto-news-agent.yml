@@ -1,0 +1,76 @@
+
+name: Crypto News Agent
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "news_engine.py"
+      - "news_post_builder.py"
+      - "test_news_engine.py"
+      - "test_news_post_builder.py"
+      - ".github/workflows/crypto-news-agent.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: crypto-news-agent
+  cancel-in-progress: false
+
+jobs:
+  scan-and-build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Test news modules
+        run: |
+          python -m unittest -v test_news_engine test_news_post_builder
+
+      - name: Scan live RSS feeds
+        run: python news_engine.py
+
+      - name: Build important news post drafts
+        env:
+          NEWS_MIN_IMPORTANCE_SCORE: "6"
+          NEWS_MAX_POSTS_PER_SCAN: "5"
+        run: python news_post_builder.py
+
+      - name: Upload scan and draft results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: crypto-news-agent-results
+          path: |
+            news_scan.json
+            news_seen.json
+            news_post_state.json
+            news_post_drafts.json
+          if-no-files-found: warn
+          retention-days: 14
+
+      - name: Persist deduplication state
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news_seen.json news_post_state.json
+          if git diff --cached --quiet; then
+            echo "No deduplication state changes to commit."
+          else
+            git commit -m "chore: update crypto news deduplication state [skip ci]"
+            git push
+          fi
