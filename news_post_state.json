@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T09:00:21.431096+00:00",
+  "updated_at": "2026-10-17T13:05:21.828364+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -223,6 +223,16 @@
     },
     "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough": {
       "processed_at": "2026-10-17T04:48:53.641882+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds": {
+      "processed_at": "2026-10-17T13:05:21.828323+00:00",
+      "status": "ignored_low_importance",
+      "score": 5
+    },
+    "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report": {
+      "processed_at": "2026-10-17T13:05:21.828361+00:00",
       "status": "ignored_low_importance",
       "score": 2
     }
