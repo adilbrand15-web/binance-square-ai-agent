@@ -1,0 +1,62 @@
+
+name: Inspect Crypto News Drafts
+
+on:
+  workflow_dispatch:
+    inputs:
+      run_id:
+        description: "Crypto News Agent run ID"
+        required: true
+        type: string
+
+permissions:
+  actions: read
+  contents: read
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download selected news artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: crypto-news-agent-results
+          path: news-artifact
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          run-id: ${{ inputs.run_id }}
+
+      - name: Print news draft details
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path("news-artifact/news_post_drafts.json")
+          if not path.exists():
+              print("ERROR: news_post_drafts.json was not found.")
+              print("Files downloaded:")
+              for p in Path("news-artifact").rglob("*"):
+                  if p.is_file():
+                      print(p)
+              raise SystemExit(1)
+
+          data = json.loads(path.read_text(encoding="utf-8"))
+          print("Draft count:", data.get("draft_count"))
+          print("Input news count:", data.get("input_news_count"))
+          print("Publishing enabled:", data.get("publishing_enabled"))
+          print("Minimum importance score:", data.get("minimum_importance_score"))
+          print("---- DRAFTS ----")
+
+          for i, draft in enumerate(data.get("drafts", []), 1):
+              print(f"\nDRAFT {i}")
+              print("Title:", draft.get("title"))
+              print("Source:", draft.get("source"))
+              print("Importance:", draft.get("importance_score"))
+              print("Status:", draft.get("status"))
+              print("Link:", draft.get("link"))
+              print("Post text:")
+              print(draft.get("post_text", "(no post text)"))
+
+          if not data.get("drafts"):
+              print("No drafts were present in this artifact.")
+          PY
