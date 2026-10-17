@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T13:05:21.828364+00:00",
+  "updated_at": "2026-10-17T16:34:26.979131+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -235,6 +235,16 @@
       "processed_at": "2026-10-17T13:05:21.828361+00:00",
       "status": "ignored_low_importance",
       "score": 2
+    },
+    "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe": {
+      "processed_at": "2026-10-17T16:34:26.979094+00:00",
+      "status": "ignored_low_importance",
+      "score": 3
+    },
+    "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says": {
+      "processed_at": "2026-10-17T16:34:26.979127+00:00",
+      "status": "ignored_low_importance",
+      "score": 0
     }
   }
 }
