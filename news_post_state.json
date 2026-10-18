@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T12:42:50.374833+00:00",
+  "updated_at": "2026-10-18T16:20:56.235982+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -265,6 +265,31 @@
       "processed_at": "2026-10-18T12:42:50.374827+00:00",
       "status": "ignored_low_importance",
       "score": 0
+    },
+    "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863": {
+      "processed_at": "2026-10-18T16:20:56.235851+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation": {
+      "processed_at": "2026-10-18T16:20:56.235879+00:00",
+      "status": "ignored_low_importance",
+      "score": 0
+    },
+    "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash": {
+      "processed_at": "2026-10-18T16:20:56.235896+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook": {
+      "processed_at": "2026-10-18T16:20:56.235915+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
+    },
+    "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says": {
+      "processed_at": "2026-10-18T16:20:56.235981+00:00",
+      "status": "draft_created",
+      "score": 8
     }
   }
 }
