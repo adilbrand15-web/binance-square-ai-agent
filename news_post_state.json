@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T16:20:56.235982+00:00",
+  "updated_at": "2026-10-18T18:46:20.946397+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -290,6 +290,16 @@
       "processed_at": "2026-10-18T16:20:56.235981+00:00",
       "status": "draft_created",
       "score": 8
+    },
+    "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto": {
+      "processed_at": "2026-10-18T18:46:20.946367+00:00",
+      "status": "ignored_low_importance",
+      "score": 0
+    },
+    "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last": {
+      "processed_at": "2026-10-18T18:46:20.946393+00:00",
+      "status": "ignored_low_importance",
+      "score": 2
     }
   }
 }
