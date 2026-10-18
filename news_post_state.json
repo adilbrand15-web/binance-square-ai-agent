@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T23:44:26.468853+00:00",
+  "updated_at": "2026-10-18T03:03:04.829108+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -245,6 +245,11 @@
       "processed_at": "2026-10-17T16:34:26.979127+00:00",
       "status": "ignored_low_importance",
       "score": 0
+    },
+    "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut": {
+      "processed_at": "2026-10-18T03:03:04.829095+00:00",
+      "status": "ignored_low_importance",
+      "score": 5
     }
   }
 }
