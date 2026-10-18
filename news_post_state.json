@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T08:14:14.377699+00:00",
+  "updated_at": "2026-10-18T12:42:50.374833+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -253,6 +253,16 @@
     },
     "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round": {
       "processed_at": "2026-10-18T08:14:14.377687+00:00",
+      "status": "ignored_low_importance",
+      "score": 0
+    },
+    "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million": {
+      "processed_at": "2026-10-18T12:42:50.374792+00:00",
+      "status": "ignored_low_importance",
+      "score": 4
+    },
+    "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys": {
+      "processed_at": "2026-10-18T12:42:50.374827+00:00",
       "status": "ignored_low_importance",
       "score": 0
     }
