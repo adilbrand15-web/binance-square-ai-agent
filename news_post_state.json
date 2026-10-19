@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T20:21:33.322260+00:00",
+  "updated_at": "2026-10-19T23:51:39.059543+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -597,6 +597,34 @@
       "score": 6,
       "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
       "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback": {
+      "processed_at": "2026-10-19T23:51:39.059293+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/crypto-pac-california-race-voters-special-election": {
+      "processed_at": "2026-10-19T23:51:39.059355+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Crypto PAC pours $362K into California race voters essentially decided in August",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087": {
+      "processed_at": "2026-10-19T23:51:39.059515+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes": {
+      "processed_at": "2026-10-19T23:51:39.059540+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
+      "source": "CoinDesk"
     }
   }
 }
