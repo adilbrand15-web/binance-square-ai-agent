@@ -9,10 +9,19 @@
       "post_id": "378672227746152",
       "post_link": "https://app.binance.com/uni-qr/cpos/378672227746152?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million": {
+      "title": "World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "published_at": "2026-10-19T14:51:37.425702+00:00",
+      "post_id": "379004097755986",
+      "post_link": "https://app.binance.com/uni-qr/cpos/379004097755986?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-19T10:32:56.796569+00:00",
-  "last_run_published_count": 0
+  "last_run_at": "2026-10-19T14:51:37.426051+00:00",
+  "last_run_published_count": 1
 }
