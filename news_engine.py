@@ -6,6 +6,14 @@ import urllib.error
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
+from html import unescape
+
+# ============================================================
+# CRYPTO NEWS ENGINE
+# Compatible with news_post_builder.py
+# Output: news_scan.json
+# Seen records: news_seen.json
+# ============================================================
 
 NEWS_SOURCES = {
     "Cointelegraph": "https://cointelegraph.com/rss",
@@ -15,18 +23,36 @@ NEWS_SOURCES = {
 
 NEWS_FILE = "news_seen.json"
 OUTPUT_FILE = "news_scan.json"
+
 MAX_AGE_HOURS = 24
 MAX_NEWS_PER_SOURCE = 30
-REQUEST_TIMEOUT_SECONDS = 15
+REQUEST_TIMEOUT_SECONDS = 20
 SEEN_RETENTION_DAYS = 7
-USER_AGENT = "Mozilla/5.0 (compatible; CryptoNewsScanner/1.0)"
 
+USER_AGENT = (
+    "Mozilla/5.0 (compatible; CryptoNewsScanner/2.0; "
+    "+https://github.com/)"
+)
+
+# A story is considered relevant if one or more terms match
+# its title or summary/description.
 KEYWORDS = [
     "bitcoin", "btc", "ethereum", "eth", "crypto",
     "cryptocurrency", "binance", "sec", "etf",
     "hack", "exploit", "regulation", "stablecoin",
     "market crash", "market rally", "liquidation",
     "fed", "interest rate", "solana", "xrp",
+    "dogecoin", "doge", "altcoin", "blockchain",
+    "defi", "web3", "token", "trading", "exchange",
+    "cryptocurrency market", "digital asset",
+    "crypto market", "trump", "treasury",
+    "interest rates", "inflation", "tariff",
+    "lawsuit", "sec approval", "spot bitcoin",
+    "spot ethereum", "wallet", "cyberattack",
+    "hackers", "price prediction", "bullish",
+    "bearish", "all-time high", "all time high",
+    "whale", "funding rate", "open interest",
+    "futures", "mining", "reserve", "adoption",
 ]
 
 
@@ -34,12 +60,33 @@ def utc_now():
     return datetime.now(timezone.utc)
 
 
+def clean_text(value):
+    """Remove HTML tags and normalize whitespace."""
+    if value is None:
+        return ""
+
+    value = unescape(str(value))
+    value = re.sub(r"<script\b[^>]*>.*?</script>", " ", value,
+                   flags=re.IGNORECASE | re.DOTALL)
+    value = re.sub(r"<style\b[^>]*>.*?</style>", " ", value,
+                   flags=re.IGNORECASE | re.DOTALL)
+    value = re.sub(r"<[^>]+>", " ", value)
+    value = re.sub(r"\s+", " ", value)
+    return value.strip()
+
+
+def local_name(tag):
+    """Return an XML tag name without its namespace."""
+    return str(tag).rsplit("}", 1)[-1].split(":")[-1].lower()
+
+
 def parse_published_date(value):
-    """Parse common RSS/Atom dates and return an aware UTC datetime."""
+    """Parse RSS, Atom and ISO dates into aware UTC datetimes."""
     if not value:
         return None
 
-    value = value.strip()
+    value = clean_text(value)
+
     try:
         parsed = parsedate_to_datetime(value)
         if parsed is not None:
@@ -50,7 +97,8 @@ def parse_published_date(value):
         pass
 
     try:
-        parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        normalized = value.replace("Z", "+00:00")
+        parsed = datetime.fromisoformat(normalized)
         if parsed.tzinfo is None:
             parsed = parsed.replace(tzinfo=timezone.utc)
         return parsed.astimezone(timezone.utc)
@@ -58,29 +106,54 @@ def parse_published_date(value):
         return None
 
 
-def clean_text(value):
-    if value is None:
-        return ""
-    return re.sub(r"\s+", " ", str(value)).strip()
+def child_text(element, accepted_names):
+    """
+    Find a direct child by local XML name.
+    Handles RSS fields and Atom links.
+    """
+    accepted_names = {name.lower() for name in accepted_names}
 
-
-def get_child_text(element, names):
-    """Find a direct child by local XML name, regardless of namespace."""
     for child in list(element):
-        local_name = child.tag.rsplit("}", 1)[-1].lower()
-        if local_name not in names:
+        name = local_name(child.tag)
+
+        if name not in accepted_names:
             continue
 
-        if local_name == "link":
+        if name == "link":
             href = clean_text(child.attrib.get("href", ""))
             rel = child.attrib.get("rel", "alternate").lower()
+
             if href and rel in ("alternate", ""):
                 return href
-            if child.text:
-                return clean_text(child.text)
-        elif child.text:
-            return clean_text(child.text)
+
+            text_value = clean_text(child.text)
+            if text_value:
+                return text_value
+
+            # Remember a non-alternate link as a last resort.
+            if href:
+                return href
+
+        value = clean_text("".join(child.itertext()))
+        if value:
+            return value
+
     return ""
+
+
+def get_item_date(item):
+    """Read common RSS and Atom publication-date fields."""
+    return child_text(
+        item,
+        {
+            "pubdate",
+            "published",
+            "updated",
+            "date",
+            "issued",
+            "created",
+        },
+    )
 
 
 def load_seen_news():
@@ -90,18 +163,29 @@ def load_seen_news():
     try:
         with open(NEWS_FILE, "r", encoding="utf-8") as file:
             data = json.load(file)
-        return data if isinstance(data, dict) else {}
-    except (OSError, json.JSONDecodeError):
-        print(f"تنبیہ: {NEWS_FILE} پڑھا نہیں جا سکا؛ خالی ریکارڈ استعمال ہوگا۔")
+
+        if isinstance(data, dict):
+            return data
+
+        print(f"WARNING: {NEWS_FILE} is not a JSON object.")
+        return {}
+
+    except (OSError, json.JSONDecodeError) as error:
+        print(
+            f"WARNING: Could not read {NEWS_FILE}: "
+            f"{type(error).__name__}: {error}"
+        )
         return {}
 
 
 def save_seen_news(seen):
+    """Retain only valid seen records from the last seven days."""
     cutoff = utc_now() - timedelta(days=SEEN_RETENTION_DAYS)
     cleaned = {}
 
     for key, value in seen.items():
         timestamp = parse_published_date(value)
+
         if timestamp is not None and timestamp >= cutoff:
             cleaned[key] = timestamp.isoformat()
 
@@ -109,100 +193,268 @@ def save_seen_news(seen):
         json.dump(cleaned, file, ensure_ascii=False, indent=2)
 
 
+def canonical_url(url):
+    """Normalize URLs for duplicate detection without changing queries."""
+    url = clean_text(url)
+
+    if not url:
+        return ""
+
+    url = url.strip().rstrip("/")
+    return url.lower()
+
+
+def extract_feed_items(root):
+    """Support RSS item elements and Atom entry elements."""
+    items = [
+        element
+        for element in root.iter()
+        if local_name(element.tag) == "item"
+    ]
+
+    if not items:
+        items = [
+            element
+            for element in root.iter()
+            if local_name(element.tag) == "entry"
+        ]
+
+    return items
+
+
+def keyword_matches(title, summary):
+    text = f"{title} {summary}".lower()
+
+    return [
+        keyword
+        for keyword in KEYWORDS
+        if keyword in text
+    ]
+
+
 def fetch_feed(source_name, feed_url):
+    """Fetch one feed and return accepted stories plus diagnostics."""
     request = urllib.request.Request(
         feed_url,
         headers={
             "User-Agent": USER_AGENT,
-            "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+            "Accept": (
+                "application/rss+xml, application/atom+xml, "
+                "application/xml, text/xml, */*"
+            ),
         },
     )
 
-    with urllib.request.urlopen(request, timeout=REQUEST_TIMEOUT_SECONDS) as response:
+    with urllib.request.urlopen(
+        request, timeout=REQUEST_TIMEOUT_SECONDS
+    ) as response:
+        status_code = getattr(response, "status", 200)
         xml_data = response.read()
 
-    root = ET.fromstring(xml_data)
-    items = root.findall(".//item")
-    if not items:
-        items = [
-            element for element in root.iter()
-            if element.tag.rsplit("}", 1)[-1].lower() == "entry"
-        ]
+    if status_code != 200:
+        raise urllib.error.HTTPError(
+            feed_url, status_code, "Unexpected HTTP status", None, None
+        )
 
-    news = []
+    root = ET.fromstring(xml_data)
+    items = extract_feed_items(root)
     current_time = utc_now()
 
-    for item in items[:MAX_NEWS_PER_SOURCE]:
-        title = get_child_text(item, {"title"})
-        link = get_child_text(item, {"link"})
-        published = get_child_text(item, {"pubdate", "published", "updated", "date"})
-        published_dt = parse_published_date(published)
+    accepted = []
+    diagnostics = {
+        "status": "ok",
+        "http_status": status_code,
+        "feed_items": len(items),
+        "accepted_before_deduplication": 0,
+        "skipped_missing_title": 0,
+        "skipped_missing_link": 0,
+        "skipped_missing_date": 0,
+        "skipped_outside_age_window": 0,
+        "skipped_irrelevant": 0,
+    }
 
-        if not title or not link or published_dt is None:
+    print(f"\n--- {source_name} ---")
+    print(f"Feed items found: {len(items)}")
+
+    for item in items[:MAX_NEWS_PER_SOURCE]:
+        title = child_text(item, {"title"})
+        link = child_text(item, {"link", "guid", "id"})
+
+        # If an RSS guid/id was used as the link, validate it.
+        if link and not link.lower().startswith(("http://", "https://")):
+            link = child_text(item, {"link"})
+
+        summary = child_text(
+            item,
+            {
+                "description",
+                "summary",
+                "encoded",
+                "content",
+                "subtitle",
+            },
+        )
+
+        published_text = get_item_date(item)
+        published_dt = parse_published_date(published_text)
+
+        if not title:
+            diagnostics["skipped_missing_title"] += 1
+            print("SKIP: missing title")
+            continue
+
+        if not link or not link.lower().startswith(("http://", "https://")):
+            diagnostics["skipped_missing_link"] += 1
+            print(f"SKIP: invalid/missing link | {title[:100]}")
+            continue
+
+        if published_dt is None:
+            diagnostics["skipped_missing_date"] += 1
+            print(f"SKIP: missing/unreadable date | {title[:100]}")
             continue
 
         age = current_time - published_dt
-        if age < timedelta(minutes=-10) or age > timedelta(hours=MAX_AGE_HOURS):
+
+        if (
+            age < timedelta(minutes=-10)
+            or age > timedelta(hours=MAX_AGE_HOURS)
+        ):
+            diagnostics["skipped_outside_age_window"] += 1
+            print(
+                f"SKIP: outside {MAX_AGE_HOURS}-hour window "
+                f"| {title[:100]} | published={published_text}"
+            )
             continue
 
-        title_lower = title.lower()
-        if not any(keyword in title_lower for keyword in KEYWORDS):
+        matched = keyword_matches(title, summary)
+
+        if not matched:
+            diagnostics["skipped_irrelevant"] += 1
+            print(f"SKIP: no keyword match | {title[:100]}")
             continue
 
-        news.append({
+        story = {
             "source": source_name,
             "title": title,
             "link": link,
             "published_at": published_dt.isoformat(),
-        })
+            "summary": summary[:1500],
+            "matched_keywords": matched,
+        }
 
-    return news
+        accepted.append(story)
+        print(
+            f"ACCEPT: {title[:100]} | "
+            f"keywords={','.join(matched[:8])}"
+        )
+
+    diagnostics["accepted_before_deduplication"] = len(accepted)
+
+    print(
+        f"Accepted: {len(accepted)} | "
+        f"missing date: {diagnostics['skipped_missing_date']} | "
+        f"old/future: {diagnostics['skipped_outside_age_window']} | "
+        f"irrelevant: {diagnostics['skipped_irrelevant']}"
+    )
+
+    return accepted, diagnostics
 
 
 def scan_news():
+    print("=" * 60)
+    print("CRYPTO NEWS ENGINE STARTING")
+    print(f"UTC time: {utc_now().isoformat()}")
+    print(f"Sources configured: {len(NEWS_SOURCES)}")
+    print(f"Maximum age: {MAX_AGE_HOURS} hours")
+    print("=" * 60)
+
     seen = load_seen_news()
+    print(f"Previously recorded URLs: {len(seen)}")
+
     collected = []
     source_errors = []
     source_status = {}
 
     for source_name, feed_url in NEWS_SOURCES.items():
         try:
-            items = fetch_feed(source_name, feed_url)
+            items, diagnostics = fetch_feed(source_name, feed_url)
             collected.extend(items)
-            source_status[source_name] = {
-                "status": "ok",
-                "fresh_items_found": len(items),
-            }
-            print(f"{source_name}: {len(items)} تازہ خبریں ملیں")
-        except (urllib.error.URLError, TimeoutError, ET.ParseError, OSError, ValueError) as error:
+
+            source_status[source_name] = diagnostics
+
+        except (
+            urllib.error.URLError,
+            urllib.error.HTTPError,
+            TimeoutError,
+            ET.ParseError,
+            OSError,
+            ValueError,
+        ) as error:
             source_errors.append(source_name)
             source_status[source_name] = {
                 "status": "error",
                 "error_type": type(error).__name__,
                 "message": str(error)[:300],
             }
-            print(f"{source_name}: فیڈ کی جانچ ناکام ({type(error).__name__})")
+
+            print(
+                f"\nFEED ERROR: {source_name} | "
+                f"{type(error).__name__}: {str(error)[:200]}"
+            )
+
+        except Exception as error:
+            # Record unexpected source-specific failures rather than
+            # silently ending the complete scan.
+            source_errors.append(source_name)
+            source_status[source_name] = {
+                "status": "error",
+                "error_type": type(error).__name__,
+                "message": str(error)[:300],
+            }
+
+            print(
+                f"\nUNEXPECTED FEED ERROR: {source_name} | "
+                f"{type(error).__name__}: {str(error)[:200]}"
+            )
 
     fresh_news = []
+    duplicate_count = 0
     now = utc_now().isoformat()
 
     for item in collected:
-        key = item["link"].strip().rstrip("/").lower()
-        if not key or key in seen:
+        key = canonical_url(item.get("link", ""))
+
+        if not key:
             continue
+
+        if key in seen:
+            duplicate_count += 1
+            continue
+
+        # Mark only relevant, fresh items as seen.
         seen[key] = now
         fresh_news.append(item)
 
-    fresh_news.sort(key=lambda item: item["published_at"], reverse=True)
+    fresh_news.sort(
+        key=lambda item: item.get("published_at", ""),
+        reverse=True,
+    )
+
     save_seen_news(seen)
+
+    successful_sources = sum(
+        1
+        for status in source_status.values()
+        if status.get("status") == "ok"
+    )
 
     output = {
         "checked_at": now,
         "new_count": len(fresh_news),
+        "collected_count": len(collected),
+        "duplicate_count": duplicate_count,
         "source_count": len(NEWS_SOURCES),
-        "successful_source_count": sum(
-            1 for status in source_status.values() if status.get("status") == "ok"
-        ),
+        "successful_source_count": successful_sources,
         "source_errors": source_errors,
         "source_status": source_status,
         "news": fresh_news,
@@ -211,13 +463,26 @@ def scan_news():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
         json.dump(output, file, ensure_ascii=False, indent=2)
 
-    print(f"نئی منفرد خبریں: {len(fresh_news)}")
-    print(f"کامیاب نیوز فیڈز: {output['successful_source_count']}/{output['source_count']}")
-    print(f"نتیجہ {OUTPUT_FILE} میں محفوظ ہوگیا۔")
-    if source_errors:
-        print("نوٹ: کچھ نیوز فیڈز ناکام ہوئیں؛ source_status میں تفصیل دیکھیں۔")
-    elif not collected:
-        print("نوٹ: فیڈز کھل گئیں، لیکن 24 گھنٹوں میں متعلقہ خبریں نہیں ملیں۔")
+    print("\n" + "=" * 60)
+    print("CRYPTO NEWS SCAN SUMMARY")
+    print(f"Collected relevant stories: {len(collected)}")
+    print(f"Already seen / duplicates: {duplicate_count}")
+    print(f"New unique stories: {len(fresh_news)}")
+    print(f"Successful feeds: {successful_sources}/{len(NEWS_SOURCES)}")
+    print(f"Failed feeds: {source_errors}")
+    print(f"Output saved: {OUTPUT_FILE}")
+    print("=" * 60)
+
+    if not collected:
+        print(
+            "DIAGNOSIS: No relevant fresh stories passed the feed "
+            "date and keyword filters. Check source_status for details."
+        )
+    elif not fresh_news:
+        print(
+            "DIAGNOSIS: Relevant stories were found, but all were "
+            "already recorded in news_seen.json."
+        )
 
     return output
 
