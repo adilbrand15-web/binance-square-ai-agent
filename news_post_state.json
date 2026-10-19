@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T10:18:19.763470+00:00",
+  "updated_at": "2026-10-19T10:32:36.634899+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -400,6 +400,27 @@
       "status": "ignored_low_importance",
       "score": 0,
       "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains": {
+      "processed_at": "2026-10-19T10:32:36.634785+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax": {
+      "processed_at": "2026-10-19T10:32:36.634851+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week": {
+      "processed_at": "2026-10-19T10:32:36.634893+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
       "source": "Cointelegraph"
     }
   }
