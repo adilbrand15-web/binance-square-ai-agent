@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T07:19:02.901173+00:00",
+  "updated_at": "2026-10-19T10:18:19.763470+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -345,6 +345,62 @@
       "score": 3,
       "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
       "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg": {
+      "processed_at": "2026-10-19T10:18:19.763218+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny": {
+      "processed_at": "2026-10-19T10:18:19.763264+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead": {
+      "processed_at": "2026-10-19T10:18:19.763308+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients": {
+      "processed_at": "2026-10-19T10:18:19.763335+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874": {
+      "processed_at": "2026-10-19T10:18:19.763363+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "JPMorgan expands ‘JPM Coin’ deposit token to Ethereum for institutional clients",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows": {
+      "processed_at": "2026-10-19T10:18:19.763390+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds": {
+      "processed_at": "2026-10-19T10:18:19.763433+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest": {
+      "processed_at": "2026-10-19T10:18:19.763455+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
+      "source": "Cointelegraph"
     }
   }
 }
