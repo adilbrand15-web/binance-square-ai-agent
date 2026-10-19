@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T10:32:36.634899+00:00",
+  "updated_at": "2026-10-19T14:51:20.660308+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -421,6 +421,90 @@
       "status": "ignored_low_importance",
       "score": 2,
       "title": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-10-19-strive-scoops-1223-bitcoin-100-million-total-holdings-reach-36818-btc-421020": {
+      "processed_at": "2026-10-19T14:51:20.659808+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Strive scoops up another 1,223 bitcoin for $100 million as total holdings reach 36,818 BTC",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/business/2026-10-19-bitmine-adds-12535-eth-as-treasury-reaches-6-04-million-tokens-421018": {
+      "processed_at": "2026-10-19T14:51:20.659858+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out": {
+      "processed_at": "2026-10-19T14:51:20.659909+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Made an ‘honest’ mistake with crypto taxes? New bill offers way out",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/public-companies-object-okx-ice-tokenized-stock": {
+      "processed_at": "2026-10-19T14:51:20.659951+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Public companies object to OKX-ICE’s tokenized stock plan",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/strategy-btc-22-million-buy-strc-buyback-193-million": {
+      "processed_at": "2026-10-19T14:51:20.659988+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Strategy buys $22M in Bitcoin, repurchases $193M in STRC",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network": {
+      "processed_at": "2026-10-19T14:51:20.660026+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-10-19-we-found-room-for-more-orange-michael-saylors-strategy-buys-more-bitcoin-418895": {
+      "processed_at": "2026-10-19T14:51:20.660062+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "‘We found room for more orange’: Michael Saylor’s Strategy buys another 267 bitcoin for $22 million",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal": {
+      "processed_at": "2026-10-19T14:51:20.660127+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound": {
+      "processed_at": "2026-10-19T14:51:20.660160+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Live updates: Bitcoin edges higher as U.S. stocks rebound early Monday",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/regulation/2026-10-19-revolut-secures-gibraltar-crypto-licence-to-support-international-expansion-plans-418889": {
+      "processed_at": "2026-10-19T14:51:20.660192+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Revolut secures Gibraltar crypto licence to support international expansion plans",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s": {
+      "processed_at": "2026-10-19T14:51:20.660225+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million": {
+      "processed_at": "2026-10-19T14:51:20.660305+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks",
       "source": "Cointelegraph"
     }
   }
