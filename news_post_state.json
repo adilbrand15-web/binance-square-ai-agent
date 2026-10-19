@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T01:59:39.787320+00:00",
+  "updated_at": "2026-10-19T07:19:02.901173+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -310,6 +310,41 @@
       "processed_at": "2026-10-18T23:28:48.951194+00:00",
       "status": "ignored_low_importance",
       "score": 3
+    },
+    "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131": {
+      "processed_at": "2026-10-19T07:19:02.901025+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay": {
+      "processed_at": "2026-10-19T07:19:02.901070+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "South Korea to meet crypto exchanges amid calls for tax delay",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it": {
+      "processed_at": "2026-10-19T07:19:02.901099+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "XRP Ledger is set to fix its lending code before anyone can use it",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates": {
+      "processed_at": "2026-10-19T07:19:02.901139+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears": {
+      "processed_at": "2026-10-19T07:19:02.901167+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+      "source": "CoinDesk"
     }
   }
 }
