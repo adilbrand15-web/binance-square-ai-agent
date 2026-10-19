@@ -1,6 +1,7 @@
+"""Build crypto-news drafts with improved scoring and diagnostics.
 
-"""Build important crypto-news drafts with detailed diagnostics.
-This module creates drafts only; it never publishes to Binance Square.
+This module creates drafts only.
+It never publishes directly to Binance Square.
 """
 
 import json
@@ -14,53 +15,133 @@ SCAN_FILE = Path(os.getenv("NEWS_SCAN_FILE", "news_scan.json"))
 STATE_FILE = Path(os.getenv("NEWS_POST_STATE_FILE", "news_post_state.json"))
 DRAFTS_FILE = Path(os.getenv("NEWS_DRAFTS_FILE", "news_post_drafts.json"))
 
-MIN_IMPORTANCE_SCORE = int(os.getenv("NEWS_MIN_IMPORTANCE_SCORE", "6"))
+MIN_IMPORTANCE_SCORE = max(
+    0, min(10, int(os.getenv("NEWS_MIN_IMPORTANCE_SCORE", "6")))
+)
 MAX_POSTS_PER_SCAN = max(
     0, int(os.getenv("NEWS_MAX_POSTS_PER_SCAN", "5"))
 )
 
+# Scoring rules are additive, then normalized to 0-10.
+# Terms are matched in the title and source.
 KEYWORD_WEIGHTS = {
+    # Critical security incidents
+    "security breach": 6,
+    "private keys stolen": 6,
+    "funds stolen": 6,
+    "wallets drained": 6,
+    "drains wallets": 6,
     "exploit": 5,
+    "hacked": 5,
     "hack": 5,
     "stolen": 5,
-    "security breach": 5,
+    "cyberattack": 5,
+    "unauthorized mint": 5,
+    "bridge attack": 5,
+    "vulnerability": 4,
+    "outage": 3,
+
+    # Insolvency and major legal/regulatory developments
     "bankruptcy": 5,
     "insolvency": 5,
+    "collapses": 4,
+    "collapse": 4,
     "lawsuit": 3,
     "charged": 3,
-    "sec": 3,
     "court": 3,
+    "sec": 3,
     "regulation": 3,
+    "regulatory": 3,
     "ban": 3,
-    "approval": 4,
+    "banned": 3,
     "approved": 4,
+    "approval": 4,
     "rejects": 3,
     "rejected": 3,
+    "settlement": 3,
+    "investigation": 3,
+
+    # ETFs and institutional activity
     "etf": 3,
     "exchange-traded fund": 3,
-    "fed": 3,
+    "inflows": 3,
+    "outflows": 3,
+    "institutional": 2,
+    "institutional clients": 3,
+    "jpmorgan": 2,
+    "blackrock": 3,
+    "fidelity": 2,
+    "asset manager": 2,
+    "fund deposits": 2,
+
+    # Macroeconomics
+    "federal reserve": 3,
+    "fed": 2,
     "interest rate": 3,
     "rate cut": 4,
     "rate hike": 4,
+    "inflation": 2,
+    "tariff": 2,
+    "treasury": 2,
+    "global pmi": 2,
+
+    # Major crypto assets and companies
+    "bitcoin": 2,
+    "btc": 2,
+    "ethereum": 2,
+    "ether": 2,
     "binance": 2,
     "coinbase": 2,
-    "ethereum": 2,
-    "bitcoin": 2,
+    "solana": 2,
+    "xrp": 2,
+    "dogecoin": 2,
     "stablecoin": 2,
+    "crypto": 1,
+    "cryptocurrency": 1,
+    "blockchain": 1,
+    "defi": 2,
+    "uniswap": 2,
+
+    # Market movement and derivatives
     "liquidation": 3,
-    "outage": 3,
+    "liquidations": 3,
+    "market crash": 4,
+    "market rally": 3,
+    "all-time high": 3,
+    "all time high": 3,
+    "record high": 3,
+    "price surge": 2,
+    "price drops": 2,
+    "plunges": 2,
+    "surges": 2,
+    "funding rate": 2,
+    "open interest": 2,
+    "futures": 1,
+    "trading volume": 2,
+
+    # Network and ecosystem developments
     "mainnet": 2,
     "upgrade": 2,
+    "network launch": 2,
     "partnership": 1,
     "funding round": 1,
+    "adoption": 2,
+    "token launch": 2,
+    "delisting": 3,
+    "listed on": 2,
+    "listing": 2,
+
+    # Negative signals
     "price prediction": -2,
     "sponsored": -5,
+    "advertisement": -3,
 }
 
 HASHTAG_RULES = [
     ("bitcoin", "Bitcoin"),
     ("btc", "Bitcoin"),
     ("ethereum", "Ethereum"),
+    ("ether", "Ethereum"),
     ("eth", "Ethereum"),
     ("binance", "Binance"),
     ("etf", "CryptoETF"),
@@ -72,9 +153,15 @@ HASHTAG_RULES = [
     ("hack", "CryptoSecurity"),
     ("exploit", "CryptoSecurity"),
     ("fed", "FederalReserve"),
+    ("uniswap", "Uniswap"),
+    ("dogecoin", "Dogecoin"),
 ]
 
-DEFAULT_HASHTAGS = ["CryptoNews", "Cryptocurrency", "Blockchain"]
+DEFAULT_HASHTAGS = [
+    "CryptoNews",
+    "Cryptocurrency",
+    "Blockchain",
+]
 
 
 def utc_now_iso():
@@ -107,7 +194,9 @@ def save_json(path, value):
 
 
 def canonical_url(url):
+    """Normalize URLs for matching existing state records."""
     url = (url or "").strip()
+
     if not url:
         return ""
 
@@ -122,32 +211,77 @@ def canonical_url(url):
     ))
 
 
-def score_story(title, source=""):
-    """Score a story from title and source; returns score and matched terms."""
-    text = f"{title} {source}".lower()
-    score = 0
+def score_story(title, source="", summary=""):
+    """Return a 0-10 score, matched terms and scoring breakdown."""
+    title_text = str(title or "").lower()
+    source_text = str(source or "").lower()
+    summary_text = str(summary or "").lower()
+
+    full_text = f"{title_text} {source_text} {summary_text}"
+
+    raw_score = 0
     matched = []
 
     for keyword, weight in KEYWORD_WEIGHTS.items():
-        if keyword in text:
-            score += weight
+        if keyword in full_text:
+            raw_score += weight
             matched.append(f"{keyword} ({weight:+d})")
 
-    title_lower = title.lower()
+    # Additional importance for urgent, high-impact headlines.
+    # Each bonus is applied only once.
+    bonuses = [
+        (
+            "major security incident",
+            ("hack", "hacked", "exploit", "security breach",
+             "wallets drained", "funds stolen", "cyberattack"),
+            2,
+        ),
+        (
+            "major market movement",
+            ("market crash", "market rally", "liquidations",
+             "all-time high", "all time high", "record high"),
+            1,
+        ),
+        (
+            "institutional or ETF development",
+            ("etf", "institutional", "blackrock", "fidelity",
+             "jpmorgan", "fund inflows", "fund outflows"),
+            1,
+        ),
+    ]
 
-    if any(term in title_lower for term in (
+    for label, terms, bonus in bonuses:
+        if any(term in full_text for term in terms):
+            raw_score += bonus
+            matched.append(f"{label} bonus (+{bonus})")
+
+    generic_headlines = (
         "what happened today",
         "daily roundup",
-        "price prediction",
-    )):
-        score -= 3
-        matched.append("generic/prediction headline (-3)")
+        "hodler's digest",
+        "hodlers digest",
+        "week ahead",
+    )
 
-    return max(0, min(10, score)), matched
+    if any(term in title_text for term in generic_headlines):
+        raw_score -= 2
+        matched.append("generic roundup headline (-2)")
+
+    if "price prediction" in title_text:
+        raw_score -= 2
+        matched.append("prediction headline (-2)")
+
+    if "sponsored" in title_text or "advertisement" in title_text:
+        raw_score -= 4
+        matched.append("promotional content penalty (-4)")
+
+    score = max(0, min(10, raw_score))
+
+    return score, matched
 
 
 def choose_hashtags(title):
-    lower = title.lower()
+    lower = str(title or "").lower()
     tags = []
 
     for keyword, tag in HASHTAG_RULES:
@@ -165,8 +299,12 @@ def choose_hashtags(title):
 
 
 def build_post(item, score, matched):
-    title = re.sub(r"\s+", " ", str(item.get("title", "")).strip())
-    source = str(item.get("source", "Crypto news source")).strip()
+    title = re.sub(
+        r"\s+", " ", str(item.get("title", "")).strip()
+    )
+    source = str(
+        item.get("source", "Crypto news source")
+    ).strip()
     link = str(item.get("link", "")).strip()
     hashtags = choose_hashtags(title)
 
@@ -177,32 +315,52 @@ def build_post(item, score, matched):
     title_lower = title.lower()
 
     if any(word in title_lower for word in (
-        "hack", "exploit", "stolen", "security breach"
+        "hack", "exploit", "stolen", "security breach",
+        "wallets drained", "cyberattack", "unauthorized mint",
     )):
         reason = (
-            "Security-related developments can affect users, "
-            "platforms, and market confidence."
+            "This security incident may affect users, platforms, "
+            "fund safety, and market confidence."
         )
     elif any(word in title_lower for word in (
-        "sec", "regulation", "court", "lawsuit", "ban",
-        "approved", "approval"
+        "sec", "regulation", "regulatory", "court", "lawsuit",
+        "ban", "approved", "approval", "investigation",
     )):
         reason = (
-            "Regulatory and legal developments can influence "
-            "market access and sentiment."
+            "This legal or regulatory development may influence "
+            "market access, compliance, and investor sentiment."
         )
     elif any(word in title_lower for word in (
-        "fed", "interest rate", "rate cut", "rate hike"
+        "etf", "inflows", "outflows", "institutional",
+        "jpmorgan", "blackrock", "fidelity",
     )):
         reason = (
-            "Macro-policy decisions can affect risk appetite "
+            "Institutional activity and fund flows can provide "
+            "useful context about crypto-market participation."
+        )
+    elif any(word in title_lower for word in (
+        "fed", "interest rate", "rate cut", "rate hike",
+        "inflation", "tariff",
+    )):
+        reason = (
+            "Macroeconomic developments can influence risk appetite "
             "across crypto markets."
+        )
+    elif any(word in title_lower for word in (
+        "liquidation", "market crash", "market rally",
+        "all-time high", "all time high", "price surge",
+        "plunges", "surges",
+    )):
+        reason = (
+            "This market development may be relevant to volatility, "
+            "liquidity, and trader sentiment."
         )
 
     body = (
         f"📰 Crypto News Update\n\n"
         f"{title}\n\n"
         f"Why it matters: {reason}\n\n"
+        f"Importance score: {score}/10\n"
         f"Source: {source}\n"
         f"Read the original report: {link}\n\n"
         + " ".join(hashtags)
@@ -219,6 +377,25 @@ def build_post(item, score, matched):
         "post_text": body,
         "status": "draft_only",
         "note": "Draft only; no post has been published.",
+    }
+
+
+def previous_status(processed_entry):
+    if isinstance(processed_entry, dict):
+        return str(processed_entry.get("status", "unknown"))
+
+    return "unknown"
+
+
+def is_permanently_processed(status):
+    """Statuses that should not be re-drafted automatically."""
+    return status in {
+        "published",
+        "published_successfully",
+        "posted",
+        "draft_created",
+        "queued_for_publishing",
+        "publishing",
     }
 
 
@@ -245,6 +422,7 @@ def build_drafts(scan=None, state=None):
     candidates = []
     skipped = 0
     diagnostics = []
+    seen_in_this_scan = set()
 
     print("\n========== NEWS DRAFT DIAGNOSTICS ==========")
     print("Scan file:", SCAN_FILE)
@@ -268,6 +446,7 @@ def build_drafts(scan=None, state=None):
         title = str(item.get("title", "")).strip()
         link = str(item.get("link", "")).strip()
         source = str(item.get("source", "")).strip()
+        summary = str(item.get("summary", "")).strip()
 
         print(f"\n[NEWS {index}]")
         print("Title:", title or "(missing)")
@@ -286,7 +465,7 @@ def build_drafts(scan=None, state=None):
 
         key = canonical_url(link)
 
-        if not key:
+        if not key or urlsplit(key).scheme not in {"http", "https"}:
             skipped += 1
             diagnostics.append({
                 "index": index,
@@ -296,27 +475,38 @@ def build_drafts(scan=None, state=None):
             print("Decision: SKIPPED_INVALID_URL")
             continue
 
-        if key in processed:
+        if key in seen_in_this_scan:
             skipped += 1
-            previous = processed[key]
-            previous_status = (
-                previous.get("status", "unknown")
-                if isinstance(previous, dict)
-                else "unknown"
-            )
+            diagnostics.append({
+                "index": index,
+                "title": title,
+                "decision": "SKIPPED_DUPLICATE_IN_CURRENT_SCAN",
+            })
+            print("Decision: SKIPPED_DUPLICATE_IN_CURRENT_SCAN")
+            continue
 
+        seen_in_this_scan.add(key)
+
+        existing = processed.get(key)
+        status = previous_status(existing)
+
+        if existing is not None and is_permanently_processed(status):
+            skipped += 1
             diagnostics.append({
                 "index": index,
                 "title": title,
                 "decision": "SKIPPED_ALREADY_PROCESSED",
-                "previous_status": previous_status,
+                "previous_status": status,
             })
-
             print("Decision: SKIPPED_ALREADY_PROCESSED")
-            print("Previous status:", previous_status)
+            print("Previous status:", status)
             continue
 
-        score, matched = score_story(title, source)
+        score, matched = score_story(
+            title=title,
+            source=source,
+            summary=summary,
+        )
 
         print("Importance score:", score, "/ 10")
         print("Matched terms:", matched or "(none)")
@@ -331,7 +521,6 @@ def build_drafts(scan=None, state=None):
             }
 
             skipped += 1
-
             diagnostics.append({
                 "index": index,
                 "title": title,
