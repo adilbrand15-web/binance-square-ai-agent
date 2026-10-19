@@ -1,5 +1,33 @@
 {
-  "queue": [],
+  "queue": [
+    {
+      "link": "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules",
+      "title": "Market participants weigh in on SEC’s proposed crypto regulations",
+      "source": "Cointelegraph",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nMarket participants weigh in on SEC’s proposed crypto regulations\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules\n\n#CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-19T20:21:49.780345+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities",
+      "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
+      "source": "Cointelegraph",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nBitcoin is rejected at $83K as US bond yields reverse higher with equities\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-19T20:21:49.780350+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc",
+      "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nStrive buys $335M in Bitcoin, boosting holdings to 36,818 BTC\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-19T20:21:49.780354+00:00",
+      "attempts": 0
+    }
+  ],
   "published": {
     "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says": {
       "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
@@ -18,10 +46,19 @@
       "post_id": "379004097755986",
       "post_link": "https://app.binance.com/uni-qr/cpos/379004097755986?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments": {
+      "title": "Mastercard launches stablecoin risk screening for banks and payment providers",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "published_at": "2026-10-19T20:21:50.591979+00:00",
+      "post_id": "379085252481841",
+      "post_link": "https://app.binance.com/uni-qr/cpos/379085252481841?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-19T14:51:37.426051+00:00",
+  "last_run_at": "2026-10-19T20:21:50.592538+00:00",
   "last_run_published_count": 1
 }
