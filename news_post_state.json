@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T14:06:48.929890+00:00",
+  "updated_at": "2026-10-20T18:36:10.761407+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -751,6 +751,76 @@
       "score": 9,
       "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
       "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans": {
+      "processed_at": "2026-10-20T18:36:10.760801+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "OKX-ICE’s Andrew Cuomo calls issuer objections a ‘natural response’ to tokenized stock plans",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430": {
+      "processed_at": "2026-10-20T18:36:10.760937+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock": {
+      "processed_at": "2026-10-20T18:36:10.761111+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls": {
+      "processed_at": "2026-10-20T18:36:10.761145+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens": {
+      "processed_at": "2026-10-20T18:36:10.761257+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Live updates: Bitcoin cuts losses as stocks edge higher",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report": {
+      "processed_at": "2026-10-20T18:36:10.761325+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap": {
+      "processed_at": "2026-10-20T18:36:10.761349+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets": {
+      "processed_at": "2026-10-20T18:36:10.761370+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436": {
+      "processed_at": "2026-10-20T18:36:10.761382+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified": {
+      "processed_at": "2026-10-20T18:36:10.761400+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
+      "source": "Cointelegraph"
     }
   }
 }
