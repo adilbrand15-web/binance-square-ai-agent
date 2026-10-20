@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087",
-      "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
-      "source": "The Block",
-      "importance_score": 9,
-      "post_text": "📰 Crypto News Update\n\nBlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-19T23:51:54.494753+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
       "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
       "source": "CoinDesk",
@@ -61,6 +52,51 @@
       "importance_score": 8,
       "post_text": "📰 Crypto News Update\n\nUS bans DeepSeek from civilian agency IT systems\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems\n\n#CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-20T08:48:11.071365+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash",
+      "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nDrift exploiter sends $61M ETH to Tornado Cash, holds $194M\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash\n\n#Ethereum #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-20T14:07:05.240200+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127",
+      "title": "Swiss regulator FINMA approves country’s first spot bitcoin ETF for retail investors",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nSwiss regulator FINMA approves country’s first spot bitcoin ETF for retail investors\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-20T14:07:05.240220+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo",
+      "title": "Netflix FTX trailer was ‘enough to upset me’ in first 30 seconds: former FTX COO",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nNetflix FTX trailer was ‘enough to upset me’ in first 30 seconds: former FTX COO\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo\n\n#CryptoETF #CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-20T14:07:05.240225+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
+      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nJPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-20T14:07:05.240228+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
+      "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
+      "source": "CoinDesk",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nEquity weakness could damp demand for bitcoin after biggest ETF inflows in a month\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-20T14:07:05.240231+00:00",
       "attempts": 0
     }
   ],
@@ -118,10 +154,19 @@
       "post_id": "379268676965038",
       "post_link": "https://app.binance.com/uni-qr/cpos/379268676965038?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087": {
+      "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
+      "source": "The Block",
+      "importance_score": 9,
+      "published_at": "2026-10-20T14:07:05.942467+00:00",
+      "post_id": "379347049744479",
+      "post_link": "https://app.binance.com/uni-qr/cpos/379347049744479?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-20T08:48:11.969170+00:00",
+  "last_run_at": "2026-10-20T14:07:05.943136+00:00",
   "last_run_published_count": 1
 }
