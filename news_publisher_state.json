@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities",
-      "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
-      "source": "Cointelegraph",
-      "importance_score": 7,
-      "post_text": "📰 Crypto News Update\n\nBitcoin is rejected at $83K as US bond yields reverse higher with equities\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-19T20:21:49.780350+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc",
       "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
       "source": "Cointelegraph",
@@ -73,10 +64,19 @@
       "post_id": "379136881042656",
       "post_link": "https://app.binance.com/uni-qr/cpos/379136881042656?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities": {
+      "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
+      "source": "Cointelegraph",
+      "importance_score": 7,
+      "published_at": "2026-10-20T03:26:09.556332+00:00",
+      "post_id": "379189532466690",
+      "post_link": "https://app.binance.com/uni-qr/cpos/379189532466690?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-19T23:51:55.216619+00:00",
+  "last_run_at": "2026-10-20T03:26:09.556753+00:00",
   "last_run_published_count": 1
 }
