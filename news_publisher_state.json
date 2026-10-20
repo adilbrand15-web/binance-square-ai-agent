@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
-      "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-20T08:48:11.071336+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit",
       "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
       "source": "Cointelegraph",
@@ -134,6 +125,24 @@
       "post_text": "📰 Crypto News Update\n\nStrive closes $630M SATS IPO, leaves Bitcoin allocation unspecified\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-20T18:36:25.529696+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong",
+      "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nCrypto’s 2026 shutdown wave claims 82 projects. What went wrong?\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-20T22:06:29.623646+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
+      "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
+      "source": "The Block",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nCrypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 8/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444\n\n#CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-20T22:06:29.623658+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -208,10 +217,19 @@
       "post_id": "379413242999542",
       "post_link": "https://app.binance.com/uni-qr/cpos/379413242999542?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock": {
+      "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-10-20T22:06:30.591244+00:00",
+      "post_id": "379464869736265",
+      "post_link": "https://app.binance.com/uni-qr/cpos/379464869736265?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-20T18:36:26.426079+00:00",
+  "last_run_at": "2026-10-20T22:06:30.591845+00:00",
   "last_run_published_count": 1
 }
