@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc",
-      "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
-      "source": "Cointelegraph",
-      "importance_score": 6,
-      "post_text": "📰 Crypto News Update\n\nStrive buys $335M in Bitcoin, boosting holdings to 36,818 BTC\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-19T20:21:49.780354+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087",
       "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
       "source": "The Block",
@@ -25,6 +16,51 @@
       "importance_score": 7,
       "post_text": "📰 Crypto News Update\n\nTether: Senator's investigation misses positive work that's led to lower Iran volumes\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 7/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes\n\n#Ethereum #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-19T23:51:54.494773+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
+      "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-20T08:48:11.071336+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit",
+      "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBlackRock files for third Bitcoin ETF, still no Solana or XRP\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit\n\n#Bitcoin #CryptoETF #Solana #XRP #CryptoNews",
+      "added_at": "2026-10-20T08:48:11.071355+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september",
+      "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nUS Bitcoin ETFs draw $527M in biggest showing since September\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-20T08:48:11.071359+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102",
+      "title": "BlackRock’s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
+      "source": "The Block",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nBlackRock’s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-20T08:48:11.071362+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems",
+      "title": "US bans DeepSeek from civilian agency IT systems",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nUS bans DeepSeek from civilian agency IT systems\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-20T08:48:11.071365+00:00",
       "attempts": 0
     }
   ],
@@ -73,10 +109,19 @@
       "post_id": "379189532466690",
       "post_link": "https://app.binance.com/uni-qr/cpos/379189532466690?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc": {
+      "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "published_at": "2026-10-20T08:48:11.968645+00:00",
+      "post_id": "379268676965038",
+      "post_link": "https://app.binance.com/uni-qr/cpos/379268676965038?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-20T03:26:09.556753+00:00",
+  "last_run_at": "2026-10-20T08:48:11.969170+00:00",
   "last_run_published_count": 1
 }
