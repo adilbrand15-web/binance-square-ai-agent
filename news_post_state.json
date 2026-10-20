@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T03:25:53.114474+00:00",
+  "updated_at": "2026-10-20T08:47:55.307257+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -631,6 +631,48 @@
       "status": "ignored_low_importance",
       "score": 4,
       "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown": {
+      "processed_at": "2026-10-20T08:47:55.307042+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock": {
+      "processed_at": "2026-10-20T08:47:55.307185+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit": {
+      "processed_at": "2026-10-20T08:47:55.307200+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september": {
+      "processed_at": "2026-10-20T08:47:55.307211+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102": {
+      "processed_at": "2026-10-20T08:47:55.307226+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "BlackRock’s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems": {
+      "processed_at": "2026-10-20T08:47:55.307235+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "US bans DeepSeek from civilian agency IT systems",
       "source": "Cointelegraph"
     }
   }
