@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T18:36:10.761407+00:00",
+  "updated_at": "2026-10-20T22:06:14.790052+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -821,6 +821,41 @@
       "score": 6,
       "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
       "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance": {
+      "processed_at": "2026-10-20T22:06:14.789611+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops": {
+      "processed_at": "2026-10-20T22:06:14.789709+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442": {
+      "processed_at": "2026-10-20T22:06:14.789900+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Utah likens Kalshi to a ‘back-alley gambling den’ in lawsuit naming Susquehanna firms",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong": {
+      "processed_at": "2026-10-20T22:06:14.790021+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444": {
+      "processed_at": "2026-10-20T22:06:14.790048+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
+      "source": "The Block"
     }
   }
 }
