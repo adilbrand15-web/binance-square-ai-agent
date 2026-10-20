@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
-      "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
-      "source": "CoinDesk",
-      "importance_score": 7,
-      "post_text": "📰 Crypto News Update\n\nTether: Senator's investigation misses positive work that's led to lower Iran volumes\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 7/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes\n\n#Ethereum #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-19T23:51:54.494773+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
       "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
       "source": "CoinDesk",
@@ -98,6 +89,51 @@
       "post_text": "📰 Crypto News Update\n\nEquity weakness could damp demand for bitcoin after biggest ETF inflows in a month\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-20T14:07:05.240231+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report",
+      "title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nStablecoin transfers quadruple to $891B as US banks expand adoption: Report\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-20T18:36:25.529671+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
+      "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+      "source": "CoinDesk",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nThe Coinbase allegations expose Bitcoin's corporate governance gap\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 8/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-20T18:36:25.529686+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets",
+      "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nInjective, BDACS plan Korean won stablecoin settlement for tokenized assets\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-20T18:36:25.529690+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
+      "title": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
+      "source": "The Block",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nJPMorgan issues first long-term bitcoin return forecast, projecting 10% annually\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 7/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-20T18:36:25.529693+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified",
+      "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nStrive closes $630M SATS IPO, leaves Bitcoin allocation unspecified\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-20T18:36:25.529696+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -163,10 +199,19 @@
       "post_id": "379347049744479",
       "post_link": "https://app.binance.com/uni-qr/cpos/379347049744479?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes": {
+      "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
+      "source": "CoinDesk",
+      "importance_score": 7,
+      "published_at": "2026-10-20T18:36:26.412166+00:00",
+      "post_id": "379413242999542",
+      "post_link": "https://app.binance.com/uni-qr/cpos/379413242999542?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-20T14:07:05.943136+00:00",
+  "last_run_at": "2026-10-20T18:36:26.426079+00:00",
   "last_run_published_count": 1
 }
