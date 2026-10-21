@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T16:02:14.499680+00:00",
+  "updated_at": "2026-10-21T20:17:33.652487+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -1121,6 +1121,62 @@
       "status": "draft_created",
       "score": 7,
       "title": "5 alternatives to Ledger to store your Bitcoin",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-10-21-robinhood-single-stock-perpetual-futures-mizuho-survey-421639": {
+      "processed_at": "2026-10-21T20:17:33.651887+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Robinhood single-stock perps could be a ‘strong positive’ for HOOD shares, Mizuho says",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596": {
+      "processed_at": "2026-10-21T20:17:33.652211+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Dataline raises $10.6 million for decentralized data network for AI agents, plans ICO",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event": {
+      "processed_at": "2026-10-21T20:17:33.652264+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent": {
+      "processed_at": "2026-10-21T20:17:33.652408+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules": {
+      "processed_at": "2026-10-21T20:17:33.652430+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629": {
+      "processed_at": "2026-10-21T20:17:33.652449+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking": {
+      "processed_at": "2026-10-21T20:17:33.652468+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws": {
+      "processed_at": "2026-10-21T20:17:33.652485+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
       "source": "Cointelegraph"
     }
   }
