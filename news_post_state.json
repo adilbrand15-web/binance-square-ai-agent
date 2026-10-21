@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T11:11:03.326604+00:00",
+  "updated_at": "2026-10-21T16:02:14.499680+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -1002,6 +1002,125 @@
       "status": "draft_created",
       "score": 6,
       "title": "Malaysia central bank launches DLT platform for tokenized bonds",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal": {
+      "processed_at": "2026-10-21T16:02:14.498638+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat": {
+      "processed_at": "2026-10-21T16:02:14.498715+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559": {
+      "processed_at": "2026-10-21T16:02:14.498775+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain": {
+      "processed_at": "2026-10-21T16:02:14.498848+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508": {
+      "processed_at": "2026-10-21T16:02:14.498913+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks": {
+      "processed_at": "2026-10-21T16:02:14.499026+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody": {
+      "processed_at": "2026-10-21T16:02:14.499200+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity": {
+      "processed_at": "2026-10-21T16:02:14.499249+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact": {
+      "processed_at": "2026-10-21T16:02:14.499301+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses": {
+      "processed_at": "2026-10-21T16:02:14.499397+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469": {
+      "processed_at": "2026-10-21T16:02:14.499441+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Dogecoin Labs launches as DOGE ecosystem seeks growth beyond meme-driven demand",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524": {
+      "processed_at": "2026-10-21T16:02:14.499487+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades": {
+      "processed_at": "2026-10-21T16:02:14.499521+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality": {
+      "processed_at": "2026-10-21T16:02:14.499619+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535": {
+      "processed_at": "2026-10-21T16:02:14.499644+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk": {
+      "processed_at": "2026-10-21T16:02:14.499661+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Standard Chartered signs definitive deal to acquire Zodia Custody",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin": {
+      "processed_at": "2026-10-21T16:02:14.499679+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "5 alternatives to Ledger to store your Bitcoin",
       "source": "Cointelegraph"
     }
   }
