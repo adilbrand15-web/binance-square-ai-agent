@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T05:43:23.681700+00:00",
+  "updated_at": "2026-10-21T11:11:03.326604+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -891,6 +891,118 @@
       "score": 6,
       "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
       "source": "The Block"
+    },
+    "https://www.theblock.co/news/regulation/2026-10-21-occ-final-rule-implementing-trump-signed-genius-act-421470": {
+      "processed_at": "2026-10-21T11:11:03.325834+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "First out the gate: OCC debuts final rule implementing Trump-signed GENIUS Act",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/business/2026-10-21-bitgo-launches-research-unit-421502": {
+      "processed_at": "2026-10-21T11:11:03.325965+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "BitGo launches innovation unit to design crypto’s next breakout application",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul": {
+      "processed_at": "2026-10-21T11:11:03.326013+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access": {
+      "processed_at": "2026-10-21T11:11:03.326054+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "France proposes liability for crypto exchanges offering DeFi access",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode": {
+      "processed_at": "2026-10-21T11:11:03.326094+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date": {
+      "processed_at": "2026-10-21T11:11:03.326134+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures": {
+      "processed_at": "2026-10-21T11:11:03.326173+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Live updates: Bitcoin clings to $82,500 as SpaceX results lift stock futures",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin": {
+      "processed_at": "2026-10-21T11:11:03.326289+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/21/monero-futures-are-again-heating-with-leverage-raising-volatility-risks": {
+      "processed_at": "2026-10-21T11:11:03.326323+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Monero futures are again heating with leverage, raising volatility risks",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural": {
+      "processed_at": "2026-10-21T11:11:03.326358+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed": {
+      "processed_at": "2026-10-21T11:11:03.326431+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Zcash developers confirm November date for upgrade that triples payment speed",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban": {
+      "processed_at": "2026-10-21T11:11:03.326545+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days": {
+      "processed_at": "2026-10-21T11:11:03.326563+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october": {
+      "processed_at": "2026-10-21T11:11:03.326577+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Ether ETF outflows continue, pass $1B in October so far",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin": {
+      "processed_at": "2026-10-21T11:11:03.326591+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform": {
+      "processed_at": "2026-10-21T11:11:03.326602+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Malaysia central bank launches DLT platform for tokenized bonds",
+      "source": "Cointelegraph"
     }
   }
 }
