@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit",
-      "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
-      "source": "Cointelegraph",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nBlackRock files for third Bitcoin ETF, still no Solana or XRP\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit\n\n#Bitcoin #CryptoETF #Solana #XRP #CryptoNews",
-      "added_at": "2026-10-20T08:48:11.071355+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september",
       "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
       "source": "Cointelegraph",
@@ -143,6 +134,15 @@
       "post_text": "📰 Crypto News Update\n\nCrypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 8/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444\n\n#CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-20T22:06:29.623658+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack",
+      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nQubic restarts blockchain, opens recovery claims after $1.4M hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-21T00:45:48.464061+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -226,10 +226,19 @@
       "post_id": "379464869736265",
       "post_link": "https://app.binance.com/uni-qr/cpos/379464869736265?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit": {
+      "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "published_at": "2026-10-21T00:45:49.493975+00:00",
+      "post_id": "379504023052967",
+      "post_link": "https://app.binance.com/uni-qr/cpos/379504023052967?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-20T22:06:30.591845+00:00",
+  "last_run_at": "2026-10-21T00:45:49.494651+00:00",
   "last_run_published_count": 1
 }
