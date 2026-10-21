@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems",
-      "title": "US bans DeepSeek from civilian agency IT systems",
-      "source": "Cointelegraph",
-      "importance_score": 8,
-      "post_text": "📰 Crypto News Update\n\nUS bans DeepSeek from civilian agency IT systems\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems\n\n#CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-20T08:48:11.071365+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash",
       "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
       "source": "Cointelegraph",
@@ -179,6 +170,42 @@
       "post_text": "📰 Crypto News Update\n\nMalaysia central bank launches DLT platform for tokenized bonds\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform\n\n#CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-21T11:11:19.148773+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality",
+      "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nSolana’s Alpenglow launches on mainnet, targets 99% faster finality\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality\n\n#Solana #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-21T16:02:32.616216+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535",
+      "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
+      "source": "The Block",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nStandard Chartered signs definitive agreements to acquire Zodia Custody\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-21T16:02:32.616232+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk",
+      "title": "Standard Chartered signs definitive deal to acquire Zodia Custody",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nStandard Chartered signs definitive deal to acquire Zodia Custody\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-21T16:02:32.616237+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin",
+      "title": "5 alternatives to Ledger to store your Bitcoin",
+      "source": "Cointelegraph",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\n5 alternatives to Ledger to store your Bitcoin\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-21T16:02:32.616240+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -289,10 +316,19 @@
       "post_id": "379657747571307",
       "post_link": "https://app.binance.com/uni-qr/cpos/379657747571307?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems": {
+      "title": "US bans DeepSeek from civilian agency IT systems",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "published_at": "2026-10-21T16:02:33.486592+00:00",
+      "post_id": "379729319363118",
+      "post_link": "https://app.binance.com/uni-qr/cpos/379729319363118?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-21T11:11:19.888561+00:00",
+  "last_run_at": "2026-10-21T16:02:33.487456+00:00",
   "last_run_published_count": 1
 }
