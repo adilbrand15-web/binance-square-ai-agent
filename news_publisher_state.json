@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september",
-      "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
-      "source": "Cointelegraph",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nUS Bitcoin ETFs draw $527M in biggest showing since September\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-20T08:48:11.071359+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102",
       "title": "BlackRock’s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
       "source": "The Block",
@@ -143,6 +134,15 @@
       "post_text": "📰 Crypto News Update\n\nQubic restarts blockchain, opens recovery claims after $1.4M hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-21T00:45:48.464061+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
+      "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
+      "source": "The Block",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nMoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-21T05:43:38.805985+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -235,10 +235,19 @@
       "post_id": "379504023052967",
       "post_link": "https://app.binance.com/uni-qr/cpos/379504023052967?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september": {
+      "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "published_at": "2026-10-21T05:43:39.516924+00:00",
+      "post_id": "379577218581770",
+      "post_link": "https://app.binance.com/uni-qr/cpos/379577218581770?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-21T00:45:49.494651+00:00",
+  "last_run_at": "2026-10-21T05:43:39.517469+00:00",
   "last_run_published_count": 1
 }
