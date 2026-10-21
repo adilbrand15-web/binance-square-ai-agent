@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T00:45:29.856327+00:00",
+  "updated_at": "2026-10-21T05:43:23.681700+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -863,6 +863,34 @@
       "score": 10,
       "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
       "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday": {
+      "processed_at": "2026-10-21T05:43:23.681433+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked": {
+      "processed_at": "2026-10-21T05:43:23.681503+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11": {
+      "processed_at": "2026-10-21T05:43:23.681566+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476": {
+      "processed_at": "2026-10-21T05:43:23.681695+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
+      "source": "The Block"
     }
   }
 }
