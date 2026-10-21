@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102",
-      "title": "BlackRock’s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
-      "source": "The Block",
-      "importance_score": 9,
-      "post_text": "📰 Crypto News Update\n\nBlackRock’s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-20T08:48:11.071362+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems",
       "title": "US bans DeepSeek from civilian agency IT systems",
       "source": "Cointelegraph",
@@ -143,6 +134,51 @@
       "post_text": "📰 Crypto News Update\n\nMoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-21T05:43:38.805985+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
+      "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nOCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-21T11:11:19.148744+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days",
+      "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nDrift exploiter sends $109M in Ether to Tornado Cash in 2 days\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days\n\n#Ethereum #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-21T11:11:19.148763+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october",
+      "title": "Ether ETF outflows continue, pass $1B in October so far",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nEther ETF outflows continue, pass $1B in October so far\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october\n\n#Ethereum #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-21T11:11:19.148768+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin",
+      "title": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
+      "source": "Cointelegraph",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nShinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-21T11:11:19.148771+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform",
+      "title": "Malaysia central bank launches DLT platform for tokenized bonds",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nMalaysia central bank launches DLT platform for tokenized bonds\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-21T11:11:19.148773+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -244,10 +280,19 @@
       "post_id": "379577218581770",
       "post_link": "https://app.binance.com/uni-qr/cpos/379577218581770?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102": {
+      "title": "BlackRock’s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
+      "source": "The Block",
+      "importance_score": 9,
+      "published_at": "2026-10-21T11:11:19.887852+00:00",
+      "post_id": "379657747571307",
+      "post_link": "https://app.binance.com/uni-qr/cpos/379657747571307?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-21T05:43:39.517469+00:00",
+  "last_run_at": "2026-10-21T11:11:19.888561+00:00",
   "last_run_published_count": 1
 }
