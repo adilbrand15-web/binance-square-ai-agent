@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T20:17:33.652487+00:00",
+  "updated_at": "2026-10-21T23:31:13.571337+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -1177,6 +1177,27 @@
       "status": "draft_created",
       "score": 6,
       "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins": {
+      "processed_at": "2026-10-21T23:31:13.571145+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures": {
+      "processed_at": "2026-10-21T23:31:13.571265+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking": {
+      "processed_at": "2026-10-21T23:31:13.571334+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
       "source": "Cointelegraph"
     }
   }
