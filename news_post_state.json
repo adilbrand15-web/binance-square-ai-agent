@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T22:06:14.790052+00:00",
+  "updated_at": "2026-10-21T00:45:29.856327+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -856,6 +856,13 @@
       "score": 8,
       "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
       "source": "The Block"
+    },
+    "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack": {
+      "processed_at": "2026-10-21T00:45:29.856315+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+      "source": "Cointelegraph"
     }
   }
 }
