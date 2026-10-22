@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
-      "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
-      "source": "CoinDesk",
-      "importance_score": 9,
-      "post_text": "📰 Crypto News Update\n\nEquity weakness could damp demand for bitcoin after biggest ETF inflows in a month\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-20T14:07:05.240231+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report",
       "title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
       "source": "Cointelegraph",
@@ -278,6 +269,51 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin ETFs bag another $528M, taking 3-day haul past $1B\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-22T08:50:23.498097+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications",
+      "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nThailand SEC says several companies eye crypto ETFs, none has applied\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/thailand-sec-crypto-etf-applications\n\n#CryptoETF #CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-22T14:33:18.544727+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
+      "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs draw $528 million as ether funds snap five-day outflow streak\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904\n\n#Bitcoin #Ethereum #CryptoETF #CryptoNews #Cryptocurrency",
+      "added_at": "2026-10-22T14:33:18.544746+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685",
+      "title": "Layer 2 Scaling Solutions",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nLayer 2 Scaling Solutions\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-22T14:33:18.544751+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure",
+      "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nPHP flaw draws millions of exploit attempts, Cloudflare CEO warns\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-22T14:33:18.544755+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs",
+      "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nBitcoin ETF buyers are trend followers, not setters, DWF Labs says\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-22T14:33:18.544757+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -433,10 +469,19 @@
       "post_id": "379977008720909",
       "post_link": "https://app.binance.com/uni-qr/cpos/379977008720909?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month": {
+      "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
+      "source": "CoinDesk",
+      "importance_score": 9,
+      "published_at": "2026-10-22T14:33:19.303486+00:00",
+      "post_id": "380061282973736",
+      "post_link": "https://app.binance.com/uni-qr/cpos/380061282973736?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-22T08:50:24.507914+00:00",
+  "last_run_at": "2026-10-22T14:33:19.305649+00:00",
   "last_run_published_count": 1
 }
