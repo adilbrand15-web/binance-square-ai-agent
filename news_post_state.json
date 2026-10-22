@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T14:20:25.198179+00:00",
+  "updated_at": "2026-10-22T18:42:09.930879+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -1387,6 +1387,48 @@
       "status": "draft_created",
       "score": 8,
       "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets": {
+      "processed_at": "2026-10-22T18:42:09.930595+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Underdog taps zerohash to bring crypto deposits to prediction markets",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift": {
+      "processed_at": "2026-10-22T18:42:09.930671+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time": {
+      "processed_at": "2026-10-22T18:42:09.930747+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Crypto for Advisors: Stablecoins are ready for prime time",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa": {
+      "processed_at": "2026-10-22T18:42:09.930783+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech": {
+      "processed_at": "2026-10-22T18:42:09.930858+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower": {
+      "processed_at": "2026-10-22T18:42:09.930877+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
       "source": "Cointelegraph"
     }
   }
