@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
-      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nJPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-20T14:07:05.240228+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
       "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
       "source": "CoinDesk",
@@ -242,6 +233,51 @@
       "post_text": "📰 Crypto News Update\n\nAerodrome and Velodrome merge to launch Aero across seven blockchain networks\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514\n\n#CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-22T03:19:47.610099+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+      "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nChina seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-22T08:50:23.498063+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+      "source": "CoinDesk",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-22T08:50:23.498083+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all",
+      "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nMove over memecoins: Crypto ‘meme games’ coming, bagholders and all\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-22T08:50:23.498088+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
+      "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
+      "source": "CoinDesk",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nSolana’s biggest network change since 2020 is live. Here’s how users benefit\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 8/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users\n\n#Solana #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-22T08:50:23.498092+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k",
+      "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs bag another $528M, taking 3-day haul past $1B\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-22T08:50:23.498097+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -388,10 +424,19 @@
       "post_id": "379895759924824",
       "post_link": "https://app.binance.com/uni-qr/cpos/379895759924824?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade": {
+      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-10-22T08:50:24.502874+00:00",
+      "post_id": "379977008720909",
+      "post_link": "https://app.binance.com/uni-qr/cpos/379977008720909?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-22T03:19:48.404946+00:00",
+  "last_run_at": "2026-10-22T08:50:24.507914+00:00",
   "last_run_published_count": 1
 }
