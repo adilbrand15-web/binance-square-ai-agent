@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T08:49:52.270312+00:00",
+  "updated_at": "2026-10-22T14:20:25.198179+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -1268,6 +1268,125 @@
       "status": "draft_created",
       "score": 6,
       "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal": {
+      "processed_at": "2026-10-22T14:20:25.196827+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926": {
+      "processed_at": "2026-10-22T14:20:25.196890+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Fireblocks denies report of $2.5 billion acquisition talks with Visa",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence": {
+      "processed_at": "2026-10-22T14:20:25.197121+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889": {
+      "processed_at": "2026-10-22T14:20:25.197276+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Dune launches onchain trading data feeds as tokenized markets expand",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916": {
+      "processed_at": "2026-10-22T14:20:25.197325+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit": {
+      "processed_at": "2026-10-22T14:20:25.197488+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "CoinDCX admits ‘operational losses’ after $16M wallet transfers draw scrutiny",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines": {
+      "processed_at": "2026-10-22T14:20:25.197535+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls": {
+      "processed_at": "2026-10-22T14:20:25.197576+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion": {
+      "processed_at": "2026-10-22T14:20:25.197633+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides": {
+      "processed_at": "2026-10-22T14:20:25.197749+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum": {
+      "processed_at": "2026-10-22T14:20:25.197809+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Starknet voters back research into life beyond Ethereum",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880": {
+      "processed_at": "2026-10-22T14:20:25.197967+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "South Korea’s crypto bill nears completion while tax debate intensifies: reports",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications": {
+      "processed_at": "2026-10-22T14:20:25.198110+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904": {
+      "processed_at": "2026-10-22T14:20:25.198132+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685": {
+      "processed_at": "2026-10-22T14:20:25.198149+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Layer 2 Scaling Solutions",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure": {
+      "processed_at": "2026-10-22T14:20:25.198162+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs": {
+      "processed_at": "2026-10-22T14:20:25.198177+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
       "source": "Cointelegraph"
     }
   }
