@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T18:42:09.930879+00:00",
+  "updated_at": "2026-10-22T22:05:29.145683+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -1430,6 +1430,41 @@
       "score": 6,
       "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
       "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption": {
+      "processed_at": "2026-10-22T22:05:29.145360+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues": {
+      "processed_at": "2026-10-22T22:05:29.145433+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico": {
+      "processed_at": "2026-10-22T22:05:29.145488+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Winklevoss PAC moves into Texas Senate race with $81K ad buy",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-10-22-blockchain-association-pushes-crypto-tax-clarity-broader-bill-stalls-423475": {
+      "processed_at": "2026-10-22T22:05:29.145596+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Blockchain Association pushes for crypto tax clarity as broader bill stalls",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/regulation/2026-10-22-jpmorgan-crypto-regulatory-moves-clarity-act-failure-risks-423473": {
+      "processed_at": "2026-10-22T22:05:29.145678+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "JPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain",
+      "source": "The Block"
     }
   }
 }
