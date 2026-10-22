@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report",
-      "title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
-      "source": "Cointelegraph",
-      "importance_score": 9,
-      "post_text": "📰 Crypto News Update\n\nStablecoin transfers quadruple to $891B as US banks expand adoption: Report\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-20T18:36:25.529671+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
       "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
       "source": "CoinDesk",
@@ -314,6 +305,24 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin ETF buyers are trend followers, not setters, DWF Labs says\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-22T14:33:18.544757+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
+      "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
+      "source": "CoinDesk",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nA16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 8/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-22T18:42:49.475472+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower",
+      "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nBitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-22T18:42:49.475485+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -478,10 +487,19 @@
       "post_id": "380061282973736",
       "post_link": "https://app.binance.com/uni-qr/cpos/380061282973736?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report": {
+      "title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "published_at": "2026-10-22T18:42:50.728443+00:00",
+      "post_id": "380122605994330",
+      "post_link": "https://app.binance.com/uni-qr/cpos/380122605994330?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-22T14:33:19.305649+00:00",
+  "last_run_at": "2026-10-22T18:42:50.729575+00:00",
   "last_run_published_count": 1
 }
