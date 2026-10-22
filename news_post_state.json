@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T03:19:30.030267+00:00",
+  "updated_at": "2026-10-22T08:49:52.270312+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -1213,6 +1213,62 @@
       "score": 7,
       "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
       "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market": {
+      "processed_at": "2026-10-22T08:49:52.269849+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours": {
+      "processed_at": "2026-10-22T08:49:52.270126+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves": {
+      "processed_at": "2026-10-22T08:49:52.270168+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme": {
+      "processed_at": "2026-10-22T08:49:52.270238+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally": {
+      "processed_at": "2026-10-22T08:49:52.270257+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all": {
+      "processed_at": "2026-10-22T08:49:52.270279+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users": {
+      "processed_at": "2026-10-22T08:49:52.270297+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k": {
+      "processed_at": "2026-10-22T08:49:52.270310+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+      "source": "Cointelegraph"
     }
   }
 }
