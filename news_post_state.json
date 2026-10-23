@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T19:46:46.868853+00:00",
+  "updated_at": "2026-10-23T22:53:27.547794+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -1744,6 +1744,20 @@
       "status": "draft_created",
       "score": 6,
       "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice": {
+      "processed_at": "2026-10-23T22:53:27.547716+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports": {
+      "processed_at": "2026-10-23T22:53:27.547787+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
       "source": "Cointelegraph"
     }
   }
