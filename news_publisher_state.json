@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets",
-      "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
-      "source": "Cointelegraph",
-      "importance_score": 8,
-      "post_text": "📰 Crypto News Update\n\nInjective, BDACS plan Korean won stablecoin settlement for tokenized assets\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-20T18:36:25.529690+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
       "title": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
       "source": "The Block",
@@ -323,6 +314,24 @@
       "post_text": "📰 Crypto News Update\n\nJPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 7/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-10-22-jpmorgan-crypto-regulatory-moves-clarity-act-failure-risks-423473\n\n#CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-22T22:05:49.194004+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express",
+      "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nNew DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-23T00:48:45.660893+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+      "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+      "source": "CoinDesk",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nSenate's top Democratic investigator looking into Tether payments to Bo Hines' firm\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm\n\n#Ethereum #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-23T00:48:45.660916+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -505,10 +514,19 @@
       "post_id": "380172492686633",
       "post_link": "https://app.binance.com/uni-qr/cpos/380172492686633?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets": {
+      "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "published_at": "2026-10-23T00:48:46.501332+00:00",
+      "post_id": "380212536830129",
+      "post_link": "https://app.binance.com/uni-qr/cpos/380212536830129?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-22T22:05:50.083426+00:00",
+  "last_run_at": "2026-10-23T00:48:46.507955+00:00",
   "last_run_published_count": 1
 }
