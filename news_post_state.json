@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T11:01:17.707309+00:00",
+  "updated_at": "2026-10-23T15:49:30.540646+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -1625,6 +1625,83 @@
       "status": "draft_created",
       "score": 6,
       "title": "Bybit secures first full Dubai license for spot trading services",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march": {
+      "processed_at": "2026-10-23T15:49:30.540015+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports": {
+      "processed_at": "2026-10-23T15:49:30.540077+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout": {
+      "processed_at": "2026-10-23T15:49:30.540128+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "China targets 2030 for its national blockchain network buildout",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652": {
+      "processed_at": "2026-10-23T15:49:30.540231+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness": {
+      "processed_at": "2026-10-23T15:49:30.540327+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt": {
+      "processed_at": "2026-10-23T15:49:30.540370+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s": {
+      "processed_at": "2026-10-23T15:49:30.540485+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs": {
+      "processed_at": "2026-10-23T15:49:30.540517+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483": {
+      "processed_at": "2026-10-23T15:49:30.540594+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492": {
+      "processed_at": "2026-10-23T15:49:30.540615+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption": {
+      "processed_at": "2026-10-23T15:49:30.540644+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Was crypto self-custody ever designed for beginners?",
       "source": "Cointelegraph"
     }
   }
