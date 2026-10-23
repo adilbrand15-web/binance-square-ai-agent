@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong",
-      "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
-      "source": "Cointelegraph",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nCrypto’s 2026 shutdown wave claims 82 projects. What went wrong?\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong\n\n#CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-20T22:06:29.623646+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
       "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
       "source": "The Block",
@@ -395,6 +386,33 @@
       "post_text": "📰 Crypto News Update\n\nBybit secures first full Dubai license for spot trading services\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license\n\n#CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-23T11:01:33.433845+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
+      "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-23T15:49:46.551046+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
+      "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
+      "source": "The Block",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nSingapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 8/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-23T15:49:46.551064+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption",
+      "title": "Was crypto self-custody ever designed for beginners?",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nWas crypto self-custody ever designed for beginners?\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-23T15:49:46.551068+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -604,10 +622,19 @@
       "post_id": "380363137660901",
       "post_link": "https://app.binance.com/uni-qr/cpos/380363137660901?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong": {
+      "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "published_at": "2026-10-23T15:49:47.375290+00:00",
+      "post_id": "380433970174861",
+      "post_link": "https://app.binance.com/uni-qr/cpos/380433970174861?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-23T11:01:34.281338+00:00",
+  "last_run_at": "2026-10-23T15:49:47.376713+00:00",
   "last_run_published_count": 1
 }
