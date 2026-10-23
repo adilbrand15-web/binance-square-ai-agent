@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack",
-      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
-      "source": "Cointelegraph",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nQubic restarts blockchain, opens recovery claims after $1.4M hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-21T00:45:48.464061+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
       "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
       "source": "The Block",
@@ -649,10 +640,19 @@
       "post_id": "380492280873261",
       "post_link": "https://app.binance.com/uni-qr/cpos/380492280873261?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack": {
+      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "published_at": "2026-10-23T22:53:47.903232+00:00",
+      "post_id": "380538174597184",
+      "post_link": "https://app.binance.com/uni-qr/cpos/380538174597184?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-23T19:47:03.374147+00:00",
+  "last_run_at": "2026-10-23T22:53:47.904533+00:00",
   "last_run_published_count": 1
 }
