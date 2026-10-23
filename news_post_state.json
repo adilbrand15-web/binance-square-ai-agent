@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T00:48:28.200782+00:00",
+  "updated_at": "2026-10-23T05:44:10.973052+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -1486,6 +1486,69 @@
       "score": 6,
       "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
       "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find": {
+      "processed_at": "2026-10-23T05:44:10.972688+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018": {
+      "processed_at": "2026-10-23T05:44:10.972750+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100": {
+      "processed_at": "2026-10-23T05:44:10.972790+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993": {
+      "processed_at": "2026-10-23T05:44:10.972826+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990": {
+      "processed_at": "2026-10-23T05:44:10.972859+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks": {
+      "processed_at": "2026-10-23T05:44:10.973007+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts": {
+      "processed_at": "2026-10-23T05:44:10.973024+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record": {
+      "processed_at": "2026-10-23T05:44:10.973039+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors": {
+      "processed_at": "2026-10-23T05:44:10.973051+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+      "source": "Cointelegraph"
     }
   }
 }
