@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T15:49:30.540646+00:00",
+  "updated_at": "2026-10-23T19:46:46.868853+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -1702,6 +1702,48 @@
       "status": "draft_created",
       "score": 6,
       "title": "Was crypto self-custody ever designed for beginners?",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792": {
+      "processed_at": "2026-10-23T19:46:46.868449+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785": {
+      "processed_at": "2026-10-23T19:46:46.868513+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755": {
+      "processed_at": "2026-10-23T19:46:46.868678+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Initia halts network after security incident as attacker reportedly mints tokens",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities": {
+      "processed_at": "2026-10-23T19:46:46.868738+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained": {
+      "processed_at": "2026-10-23T19:46:46.868824+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal": {
+      "processed_at": "2026-10-23T19:46:46.868850+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
       "source": "Cointelegraph"
     }
   }
