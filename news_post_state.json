@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T01:21:16.774952+00:00",
+  "updated_at": "2026-10-24T06:11:54.637848+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -1759,6 +1759,13 @@
       "score": 1,
       "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
       "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet": {
+      "processed_at": "2026-10-24T06:11:54.637832+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+      "source": "CoinDesk"
     }
   }
 }
