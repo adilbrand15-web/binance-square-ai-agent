@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
-      "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
-      "source": "The Block",
-      "importance_score": 6,
-      "post_text": "📰 Crypto News Update\n\nMoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-21T05:43:38.805985+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
       "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
       "source": "CoinDesk",
@@ -649,10 +640,19 @@
       "post_id": "380538174597184",
       "post_link": "https://app.binance.com/uni-qr/cpos/380538174597184?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476": {
+      "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
+      "source": "The Block",
+      "importance_score": 6,
+      "published_at": "2026-10-24T01:21:32.592517+00:00",
+      "post_id": "380574484358647",
+      "post_link": "https://app.binance.com/uni-qr/cpos/380574484358647?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-23T22:53:47.904533+00:00",
+  "last_run_at": "2026-10-24T01:21:32.594955+00:00",
   "last_run_published_count": 1
 }
