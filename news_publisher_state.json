@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin",
-      "title": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
-      "source": "Cointelegraph",
-      "importance_score": 7,
-      "post_text": "📰 Crypto News Update\n\nShinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-21T11:11:19.148771+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform",
       "title": "Malaysia central bank launches DLT platform for tokenized bonds",
       "source": "Cointelegraph",
@@ -386,6 +377,24 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-24T14:44:46.920799+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
+      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nCrypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-24T17:50:01.689555+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+      "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+      "source": "CoinDesk",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nStrategy, Strive face balancing act between bitcoin buying and preferred stock dividends\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-24T17:50:01.689572+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -658,10 +667,19 @@
       "post_id": "380771890901045",
       "post_link": "https://app.binance.com/uni-qr/cpos/380771890901045?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin": {
+      "title": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
+      "source": "Cointelegraph",
+      "importance_score": 7,
+      "published_at": "2026-10-24T17:50:02.465925+00:00",
+      "post_id": "380817417398820",
+      "post_link": "https://app.binance.com/uni-qr/cpos/380817417398820?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-24T14:44:47.529936+00:00",
+  "last_run_at": "2026-10-24T17:50:02.467576+00:00",
   "last_run_published_count": 1
 }
