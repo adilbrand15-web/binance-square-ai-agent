@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T14:44:30.555793+00:00",
+  "updated_at": "2026-10-24T17:49:46.457441+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -1793,6 +1793,41 @@
       "status": "draft_created",
       "score": 7,
       "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606": {
+      "processed_at": "2026-10-24T17:49:46.457129+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations": {
+      "processed_at": "2026-10-24T17:49:46.457257+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker": {
+      "processed_at": "2026-10-24T17:49:46.457320+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608": {
+      "processed_at": "2026-10-24T17:49:46.457409+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends": {
+      "processed_at": "2026-10-24T17:49:46.457438+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
       "source": "CoinDesk"
     }
   }
