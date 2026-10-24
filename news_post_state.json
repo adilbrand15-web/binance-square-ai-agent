@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T17:49:46.457441+00:00",
+  "updated_at": "2026-10-24T20:13:50.100253+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -1828,6 +1828,13 @@
       "status": "draft_created",
       "score": 9,
       "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo": {
+      "processed_at": "2026-10-24T20:13:50.100244+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
       "source": "CoinDesk"
     }
   }
