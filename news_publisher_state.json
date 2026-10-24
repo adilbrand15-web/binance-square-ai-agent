@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days",
-      "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
-      "source": "Cointelegraph",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nDrift exploiter sends $109M in Ether to Tornado Cash in 2 days\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days\n\n#Ethereum #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-21T11:11:19.148763+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october",
       "title": "Ether ETF outflows continue, pass $1B in October so far",
       "source": "Cointelegraph",
@@ -649,10 +640,19 @@
       "post_id": "380645913013782",
       "post_link": "https://app.binance.com/uni-qr/cpos/380645913013782?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days": {
+      "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "published_at": "2026-10-24T11:24:42.783608+00:00",
+      "post_id": "380722719417647",
+      "post_link": "https://app.binance.com/uni-qr/cpos/380722719417647?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-24T06:12:11.218862+00:00",
+  "last_run_at": "2026-10-24T11:24:42.786187+00:00",
   "last_run_published_count": 1
 }
