@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T11:24:25.977785+00:00",
+  "updated_at": "2026-10-24T14:44:30.555793+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -1765,6 +1765,34 @@
       "status": "ignored_low_importance",
       "score": 2,
       "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra": {
+      "processed_at": "2026-10-24T14:44:30.555502+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan": {
+      "processed_at": "2026-10-24T14:44:30.555626+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo": {
+      "processed_at": "2026-10-24T14:44:30.555722+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com": {
+      "processed_at": "2026-10-24T14:44:30.555790+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
       "source": "CoinDesk"
     }
   }
