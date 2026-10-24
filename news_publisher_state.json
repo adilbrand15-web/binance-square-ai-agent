@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
-      "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nOCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-21T11:11:19.148744+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days",
       "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
       "source": "Cointelegraph",
@@ -649,10 +640,19 @@
       "post_id": "380574484358647",
       "post_link": "https://app.binance.com/uni-qr/cpos/380574484358647?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban": {
+      "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-10-24T06:12:11.217275+00:00",
+      "post_id": "380645913013782",
+      "post_link": "https://app.binance.com/uni-qr/cpos/380645913013782?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-24T01:21:32.594955+00:00",
+  "last_run_at": "2026-10-24T06:12:11.218862+00:00",
   "last_run_published_count": 1
 }
