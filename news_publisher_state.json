@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality",
-      "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
-      "source": "Cointelegraph",
-      "importance_score": 9,
-      "post_text": "📰 Crypto News Update\n\nSolana’s Alpenglow launches on mainnet, targets 99% faster finality\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality\n\n#Solana #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-21T16:02:32.616216+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535",
       "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
       "source": "The Block",
@@ -685,10 +676,19 @@
       "post_id": "380852820650535",
       "post_link": "https://app.binance.com/uni-qr/cpos/380852820650535?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality": {
+      "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "published_at": "2026-10-24T22:38:16.153661+00:00",
+      "post_id": "380888252589780",
+      "post_link": "https://app.binance.com/uni-qr/cpos/380888252589780?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-24T20:14:05.802413+00:00",
+  "last_run_at": "2026-10-24T22:38:16.154887+00:00",
   "last_run_published_count": 1
 }
