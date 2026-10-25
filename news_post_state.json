@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T18:07:38.699570+00:00",
+  "updated_at": "2026-10-25T21:04:13.648228+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -1864,6 +1864,13 @@
       "score": 0,
       "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
       "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617": {
+      "processed_at": "2026-10-25T21:04:13.648211+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
+      "source": "The Block"
     }
   }
 }
