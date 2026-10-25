@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T14:48:10.078734+00:00",
+  "updated_at": "2026-10-25T18:07:38.699570+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -1850,6 +1850,20 @@
       "score": 5,
       "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
       "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-10-25-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete-431613": {
+      "processed_at": "2026-10-25T18:07:38.699493+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Keystone customers say breach exposed data the hardware wallet maker promised to delete",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus": {
+      "processed_at": "2026-10-25T18:07:38.699563+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
+      "source": "CoinDesk"
     }
   }
 }
