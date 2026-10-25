@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules",
-      "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
-      "source": "Cointelegraph",
-      "importance_score": 8,
-      "post_text": "📰 Crypto News Update\n\nChainlink, Cardano, other blockchain groups push SEC for clearer crypto rules\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules\n\n#CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-21T20:17:51.485109+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629",
       "title": "American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule",
       "source": "The Block",
@@ -685,10 +676,19 @@
       "post_id": "381126673205468",
       "post_link": "https://app.binance.com/uni-qr/cpos/381126673205468?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules": {
+      "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "published_at": "2026-10-25T18:07:54.864141+00:00",
+      "post_id": "381175704625484",
+      "post_link": "https://app.binance.com/uni-qr/cpos/381175704625484?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-25T14:48:24.372894+00:00",
+  "last_run_at": "2026-10-25T18:07:54.865272+00:00",
   "last_run_published_count": 1
 }
