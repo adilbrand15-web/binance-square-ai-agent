@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T21:04:13.648228+00:00",
+  "updated_at": "2026-10-25T23:26:39.791122+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -1871,6 +1871,13 @@
       "score": 0,
       "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
       "source": "The Block"
+    },
+    "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest": {
+      "processed_at": "2026-10-25T23:26:39.791112+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+      "source": "Cointelegraph"
     }
   }
 }
