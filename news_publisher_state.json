@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin",
-      "title": "5 alternatives to Ledger to store your Bitcoin",
-      "source": "Cointelegraph",
-      "importance_score": 7,
-      "post_text": "📰 Crypto News Update\n\n5 alternatives to Ledger to store your Bitcoin\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-21T16:02:32.616240+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent",
       "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
       "source": "Cointelegraph",
@@ -685,10 +676,19 @@
       "post_id": "380992193022876",
       "post_link": "https://app.binance.com/uni-qr/cpos/380992193022876?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin": {
+      "title": "5 alternatives to Ledger to store your Bitcoin",
+      "source": "Cointelegraph",
+      "importance_score": 7,
+      "published_at": "2026-10-25T10:44:32.446473+00:00",
+      "post_id": "381066741055490",
+      "post_link": "https://app.binance.com/uni-qr/cpos/381066741055490?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-25T05:41:12.252224+00:00",
+  "last_run_at": "2026-10-25T10:44:32.447826+00:00",
   "last_run_published_count": 1
 }
