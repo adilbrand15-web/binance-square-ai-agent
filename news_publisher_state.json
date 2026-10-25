@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629",
-      "title": "American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule",
-      "source": "The Block",
-      "importance_score": 6,
-      "post_text": "📰 Crypto News Update\n\nAmerican Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 6/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-21T20:17:51.485113+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking",
       "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
       "source": "Cointelegraph",
@@ -685,10 +676,19 @@
       "post_id": "381175704625484",
       "post_link": "https://app.binance.com/uni-qr/cpos/381175704625484?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629": {
+      "title": "American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule",
+      "source": "The Block",
+      "importance_score": 6,
+      "published_at": "2026-10-25T21:04:28.836690+00:00",
+      "post_id": "381219097456729",
+      "post_link": "https://app.binance.com/uni-qr/cpos/381219097456729?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-25T18:07:54.865272+00:00",
+  "last_run_at": "2026-10-25T21:04:28.837777+00:00",
   "last_run_published_count": 1
 }
