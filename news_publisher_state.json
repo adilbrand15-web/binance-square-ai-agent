@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking",
-      "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
-      "source": "Cointelegraph",
-      "importance_score": 6,
-      "post_text": "📰 Crypto News Update\n\nCardano Foundation urges EU against expanding MiCA rules to DeFi and staking\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking\n\n#CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-21T20:17:51.485116+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws",
       "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
       "source": "Cointelegraph",
@@ -331,6 +322,15 @@
       "importance_score": 7,
       "post_text": "📰 Crypto News Update\n\nBitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-24T20:14:05.036061+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest",
+      "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nAI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest\n\n#Bitcoin #Ethereum #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-25T23:26:58.321530+00:00",
       "attempts": 0
     }
   ],
@@ -685,10 +685,19 @@
       "post_id": "381219097456729",
       "post_link": "https://app.binance.com/uni-qr/cpos/381219097456729?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking": {
+      "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "published_at": "2026-10-25T23:26:59.150088+00:00",
+      "post_id": "381254119518215",
+      "post_link": "https://app.binance.com/uni-qr/cpos/381254119518215?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-25T21:04:28.837777+00:00",
+  "last_run_at": "2026-10-25T23:26:59.151666+00:00",
   "last_run_published_count": 1
 }
