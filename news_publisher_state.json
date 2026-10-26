@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
-      "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
-      "source": "The Block",
-      "importance_score": 7,
-      "post_text": "📰 Crypto News Update\n\nAerodrome and Velodrome merge to launch Aero across seven blockchain networks\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514\n\n#CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-22T03:19:47.610099+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
       "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
       "source": "CoinDesk",
@@ -322,6 +313,51 @@
       "importance_score": 8,
       "post_text": "📰 Crypto News Update\n\nBitcoin slips under $80,000 as traders de-risk ahead of Fed meeting\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 8/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting\n\n#Bitcoin #FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-26T07:25:12.573817+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/business/2026-10-26-strive-closes-in-second-largest-corporate-bitcoin-treasury-511-million-purchase-431729",
+      "title": "Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase",
+      "source": "The Block",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nStrive closes in on second-largest corporate bitcoin treasury with $511 million purchase\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-10-26-strive-closes-in-second-largest-corporate-bitcoin-treasury-511-million-purchase-431729\n\n#Bitcoin #CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-26T20:05:05.436807+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million",
+      "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs break 2-week outflow streak with $301M comeback\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-26T20:05:05.436821+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
+      "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+      "source": "CoinDesk",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nTom Lee's Bitmine favors share buybacks to ether purchases as crypto declines\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines\n\n#Ethereum #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-26T20:05:05.436825+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+      "title": "OCC calls on community banks to enter the stablecoin payments market",
+      "source": "CoinDesk",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nOCC calls on community banks to enter the stablecoin payments market\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 7/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-26T20:05:05.436827+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
+      "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
+      "source": "CoinDesk",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nBitcoin holds near $80,000 as oil retreats and the Fed decision looms\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms\n\n#Bitcoin #FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-26T20:05:05.436829+00:00",
       "attempts": 0
     }
   ],
@@ -703,10 +739,19 @@
       "post_id": "381371650908642",
       "post_link": "https://app.binance.com/uni-qr/cpos/381371650908642?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514": {
+      "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
+      "source": "The Block",
+      "importance_score": 7,
+      "published_at": "2026-10-26T20:05:06.197638+00:00",
+      "post_id": "381558399295092",
+      "post_link": "https://app.binance.com/uni-qr/cpos/381558399295092?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-26T07:25:13.321551+00:00",
+  "last_run_at": "2026-10-26T20:05:06.199115+00:00",
   "last_run_published_count": 1
 }
