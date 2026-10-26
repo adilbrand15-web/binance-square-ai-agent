@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T20:04:42.361870+00:00",
+  "updated_at": "2026-10-26T23:58:45.026371+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -32,9 +32,11 @@
       "score": 2
     },
     "https://cointelegraph.com/news/what-happened-in-crypto-today": {
-      "processed_at": "2026-10-16T10:45:46.956236+00:00",
-      "status": "ignored_low_importance",
-      "score": 0
+      "processed_at": "2026-10-26T23:58:45.026366+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph"
     },
     "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization": {
       "processed_at": "2026-10-16T10:45:46.956251+00:00",
@@ -2102,6 +2104,20 @@
       "score": 6,
       "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
       "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act": {
+      "processed_at": "2026-10-26T23:58:45.026150+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "US OCC calls on community banks to become payment stablecoin issuers",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs": {
+      "processed_at": "2026-10-26T23:58:45.026221+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
+      "source": "Cointelegraph"
     }
   }
 }
