@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
-      "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nChina seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-22T08:50:23.498063+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
       "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
       "source": "CoinDesk",
@@ -358,6 +349,15 @@
       "importance_score": 6,
       "post_text": "📰 Crypto News Update\n\nBitcoin holds near $80,000 as oil retreats and the Fed decision looms\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms\n\n#Bitcoin #FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-26T20:05:05.436829+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nHere’s what happened in crypto today\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/what-happened-in-crypto-today\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-26T23:59:00.378230+00:00",
       "attempts": 0
     }
   ],
@@ -748,10 +748,19 @@
       "post_id": "381558399295092",
       "post_link": "https://app.binance.com/uni-qr/cpos/381558399295092?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme": {
+      "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-10-26T23:59:01.140846+00:00",
+      "post_id": "381615886422806",
+      "post_link": "https://app.binance.com/uni-qr/cpos/381615886422806?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-26T20:05:06.199115+00:00",
+  "last_run_at": "2026-10-26T23:59:01.142023+00:00",
   "last_run_published_count": 1
 }
