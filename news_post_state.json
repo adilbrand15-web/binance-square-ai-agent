@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T01:30:32.929035+00:00",
+  "updated_at": "2026-10-26T07:24:57.553388+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -1885,6 +1885,48 @@
       "score": 2,
       "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
       "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying": {
+      "processed_at": "2026-10-26T07:24:57.552844+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Over 11 million bitcoin has no known owner. Here's what it means",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet": {
+      "processed_at": "2026-10-26T07:24:57.552949+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments": {
+      "processed_at": "2026-10-26T07:24:57.553024+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise": {
+      "processed_at": "2026-10-26T07:24:57.553145+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses": {
+      "processed_at": "2026-10-26T07:24:57.553225+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting": {
+      "processed_at": "2026-10-26T07:24:57.553379+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+      "source": "CoinDesk"
     }
   }
 }
