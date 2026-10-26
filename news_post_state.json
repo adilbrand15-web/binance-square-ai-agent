@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T23:26:39.791122+00:00",
+  "updated_at": "2026-10-26T01:30:32.929035+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -1877,6 +1877,13 @@
       "status": "draft_created",
       "score": 10,
       "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin": {
+      "processed_at": "2026-10-26T01:30:32.929023+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
       "source": "Cointelegraph"
     }
   }
