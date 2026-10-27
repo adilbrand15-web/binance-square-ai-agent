@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T15:57:09.894974+00:00",
+  "updated_at": "2026-10-27T20:30:34.199739+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -2349,6 +2349,90 @@
       "score": 7,
       "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
       "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets": {
+      "processed_at": "2026-10-27T20:30:34.198995+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "CFTC sues Utah to block action against prediction markets",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there": {
+      "processed_at": "2026-10-27T20:30:34.199061+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans": {
+      "processed_at": "2026-10-27T20:30:34.199176+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll": {
+      "processed_at": "2026-10-27T20:30:34.199232+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902": {
+      "processed_at": "2026-10-27T20:30:34.199274+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Crypto.com and OG.com launch US crypto perps with up to 5x leverage",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/deals/2026-10-27-canton-based-trading-platform-cancore-raises-7-2-million-60-million-token-valuation-431906": {
+      "processed_at": "2026-10-27T20:30:34.199347+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar": {
+      "processed_at": "2026-10-27T20:30:34.199480+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform": {
+      "processed_at": "2026-10-27T20:30:34.199538+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko": {
+      "processed_at": "2026-10-27T20:30:34.199590+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets": {
+      "processed_at": "2026-10-27T20:30:34.199687+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash": {
+      "processed_at": "2026-10-27T20:30:34.199713+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922": {
+      "processed_at": "2026-10-27T20:30:34.199736+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "CFTC sues Utah as battle over prediction market regulation intensifies",
+      "source": "The Block"
     }
   }
 }
