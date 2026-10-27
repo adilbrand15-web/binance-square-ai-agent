@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T10:12:20.386997+00:00",
+  "updated_at": "2026-10-27T15:57:09.894974+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -2215,6 +2215,139 @@
       "status": "draft_created",
       "score": 6,
       "title": "Now is the time to accumulate bitcoin, Galaxy says",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/markets/2026-10-27-sofi-discloses-503000-crypto-products-as-gross-crypto-revenue-hits-162-million-431897": {
+      "processed_at": "2026-10-27T15:57:09.893785+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "SoFi discloses 503,000 crypto products as gross crypto revenue hits $162 million",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/business/2026-10-27-galaxy-digital-323-million-quarterly-profit-new-200-million-share-buyback-431860": {
+      "processed_at": "2026-10-27T15:57:09.893904+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Galaxy Digital swings to $323 million quarterly profit, announces new $200 million share buyback",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858": {
+      "processed_at": "2026-10-27T15:57:09.893951+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund": {
+      "processed_at": "2026-10-27T15:57:09.894006+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/learn/campus/crypto-market-structure-explained-426489": {
+      "processed_at": "2026-10-27T15:57:09.894063+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Crypto Market Structure Explained",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock": {
+      "processed_at": "2026-10-27T15:57:09.894113+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power": {
+      "processed_at": "2026-10-27T15:57:09.894202+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/hayes-flop-ai-compute-vision-selling-altcoin": {
+      "processed_at": "2026-10-27T15:57:09.894260+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence": {
+      "processed_at": "2026-10-27T15:57:09.894331+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant": {
+      "processed_at": "2026-10-27T15:57:09.894389+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/ecosystems/2026-10-27-zcash-co-founder-proposes-ending-grants-subsidy-citing-125-million-treasury-431847": {
+      "processed_at": "2026-10-27T15:57:09.894432+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year": {
+      "processed_at": "2026-10-27T15:57:09.894547+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000": {
+      "processed_at": "2026-10-27T15:57:09.894710+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m": {
+      "processed_at": "2026-10-27T15:57:09.894802+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach": {
+      "processed_at": "2026-10-27T15:57:09.894892+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-lower-431838": {
+      "processed_at": "2026-10-27T15:57:09.894918+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as BTC grinds lower",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser": {
+      "processed_at": "2026-10-27T15:57:09.894940+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp": {
+      "processed_at": "2026-10-27T15:57:09.894956+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins": {
+      "processed_at": "2026-10-27T15:57:09.894972+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
       "source": "CoinDesk"
     }
   }
