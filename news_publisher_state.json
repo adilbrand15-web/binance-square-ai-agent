@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
-      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
-      "source": "CoinDesk",
-      "importance_score": 9,
-      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-22T08:50:23.498083+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all",
       "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
       "source": "Cointelegraph",
@@ -358,6 +349,42 @@
       "importance_score": 9,
       "post_text": "📰 Crypto News Update\n\nHere’s what happened in crypto today\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/what-happened-in-crypto-today\n\n#CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-26T23:59:00.378230+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810",
+      "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
+      "source": "The Block",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nRipple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810\n\n#FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-27T04:48:04.661285+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank",
+      "title": "Ripple wins final US approval for national trust bank",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nRipple wins final US approval for national trust bank\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-27T04:48:04.661305+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine",
+      "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+      "source": "Cointelegraph",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nKeystone breach deepens: Hackers stole key used to verify wallets as genuine\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-27T04:48:04.661312+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
+      "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
+      "source": "The Block",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nBlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 6/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-27T04:48:04.661316+00:00",
       "attempts": 0
     }
   ],
@@ -757,10 +784,19 @@
       "post_id": "381615886422806",
       "post_link": "https://app.binance.com/uni-qr/cpos/381615886422806?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally": {
+      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+      "source": "CoinDesk",
+      "importance_score": 9,
+      "published_at": "2026-10-27T04:48:05.358266+00:00",
+      "post_id": "381686928372703",
+      "post_link": "https://app.binance.com/uni-qr/cpos/381686928372703?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-26T23:59:01.142023+00:00",
+  "last_run_at": "2026-10-27T04:48:05.360426+00:00",
   "last_run_published_count": 1
 }
