@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T04:47:48.425804+00:00",
+  "updated_at": "2026-10-27T10:12:20.386997+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -2160,6 +2160,62 @@
       "score": 6,
       "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
       "source": "The Block"
+    },
+    "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam": {
+      "processed_at": "2026-10-27T10:12:20.386611+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826": {
+      "processed_at": "2026-10-27T10:12:20.386772+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Circle faces up to 20% revenue risk from AI agents, Mizuho says",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury": {
+      "processed_at": "2026-10-27T10:12:20.386827+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline": {
+      "processed_at": "2026-10-27T10:12:20.386914+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance files for Brazil crypto license ahead of Friday deadline",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k": {
+      "processed_at": "2026-10-27T10:12:20.386941+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Bitcoin ETFs claw back $110M after $774M exit",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders": {
+      "processed_at": "2026-10-27T10:12:20.386962+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn": {
+      "processed_at": "2026-10-27T10:12:20.386976+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says": {
+      "processed_at": "2026-10-27T10:12:20.386994+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Now is the time to accumulate bitcoin, Galaxy says",
+      "source": "CoinDesk"
     }
   }
 }
