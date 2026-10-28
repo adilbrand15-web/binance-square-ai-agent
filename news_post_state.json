@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T13:20:52.237146+00:00",
+  "updated_at": "2026-10-28T18:59:14.542115+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -2615,6 +2615,104 @@
       "score": 7,
       "title": "Live updates: Bitcoin edges higher ahead of Fed decision Wednesday afternoon.",
       "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011": {
+      "processed_at": "2026-10-28T18:59:14.541293+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55": {
+      "processed_at": "2026-10-28T18:59:14.541415+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings": {
+      "processed_at": "2026-10-28T18:59:14.541466+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users": {
+      "processed_at": "2026-10-28T18:59:14.541520+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Phantom launches Kalshi-powered prediction markets for US users",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010": {
+      "processed_at": "2026-10-28T18:59:14.541565+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitwise raises bitcoin price target to $1.6 million by 2036, projects 34% annualized returns",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing": {
+      "processed_at": "2026-10-28T18:59:14.541652+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/defi/2026-10-28-avail-launches-shieldtx-privacy-tool-targeting-copy-trading-bots-on-hyperliquid-431977": {
+      "processed_at": "2026-10-28T18:59:14.541750+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Avail launches ShieldTX privacy tool targeting copy-trading bots on Hyperliquid",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/regulation/2026-10-28-crypto-braces-for-potential-shift-in-congressional-oversight-after-midterms-431949": {
+      "processed_at": "2026-10-28T18:59:14.541800+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Crypto braces for potential shift in congressional oversight after midterms",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/dtcc-subsidiary-launches-tokenization-services": {
+      "processed_at": "2026-10-28T18:59:14.541939+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "DTCC unit launches tokenization services",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected": {
+      "processed_at": "2026-10-28T18:59:14.542027+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Fed leaves interest rates unchanged, as expected",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack": {
+      "processed_at": "2026-10-28T18:59:14.542047+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009": {
+      "processed_at": "2026-10-28T18:59:14.542074+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Coinbase adds Ripple’s RLUSD stablecoin across retail, exchange and Prime platforms",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody": {
+      "processed_at": "2026-10-28T18:59:14.542096+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks": {
+      "processed_at": "2026-10-28T18:59:14.542112+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Strategy shareholders approve daily dividends for four preferred stocks",
+      "source": "Cointelegraph"
     }
   }
 }
