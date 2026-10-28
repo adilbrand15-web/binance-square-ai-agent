@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T20:30:34.199739+00:00",
+  "updated_at": "2026-10-28T00:14:55.533710+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -2433,6 +2433,48 @@
       "score": 6,
       "title": "CFTC sues Utah as battle over prediction market regulation intensifies",
       "source": "The Block"
+    },
+    "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks": {
+      "processed_at": "2026-10-28T00:14:55.533444+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-10-27-robinhood-chain-brings-in-26-million-crypto-revenue-rises-20-q2-431935": {
+      "processed_at": "2026-10-28T00:14:55.533494+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Robinhood Chain brings in $26 million as crypto revenue rises 20% in Q3",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales": {
+      "processed_at": "2026-10-28T00:14:55.533613+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top": {
+      "processed_at": "2026-10-28T00:14:55.533677+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says": {
+      "processed_at": "2026-10-28T00:14:55.533696+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure": {
+      "processed_at": "2026-10-28T00:14:55.533709+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
+      "source": "Cointelegraph"
     }
   }
 }
