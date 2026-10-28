@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications",
-      "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
-      "source": "Cointelegraph",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nThailand SEC says several companies eye crypto ETFs, none has applied\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/thailand-sec-crypto-etf-applications\n\n#CryptoETF #CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-22T14:33:18.544727+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
       "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
       "source": "The Block",
@@ -476,6 +467,33 @@
       "post_text": "📰 Crypto News Update\n\nCFTC sues Utah as battle over prediction market regulation intensifies\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 6/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922\n\n#CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-27T20:30:53.066378+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
+      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
+      "source": "CoinDesk",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nTreasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-28T00:15:13.070113+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says",
+      "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nQuantum fears already limiting Bitcoin’s growth, Stacks founder says\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-28T00:15:13.070130+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure",
+      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nVanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-28T00:15:13.070142+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -910,10 +928,19 @@
       "post_id": "381918632706593",
       "post_link": "https://app.binance.com/uni-qr/cpos/381918632706593?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications": {
+      "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "published_at": "2026-10-28T00:15:13.923932+00:00",
+      "post_id": "381973765434614",
+      "post_link": "https://app.binance.com/uni-qr/cpos/381973765434614?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-27T20:30:53.797145+00:00",
+  "last_run_at": "2026-10-28T00:15:13.931867+00:00",
   "last_run_published_count": 1
 }
