@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685",
-      "title": "Layer 2 Scaling Solutions",
-      "source": "The Block",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nLayer 2 Scaling Solutions\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685\n\n#CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-22T14:33:18.544751+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure",
       "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
       "source": "Cointelegraph",
@@ -503,6 +494,51 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC\n\nWhy it matters: This market development may be relevant to volatility, liquidity, and trader sentiment.\n\nImportance score: 8/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-28T06:01:59.296501+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+      "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nWall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks\n\n#CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-28T13:21:09.974280+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
+      "title": "Google to preview crypto custody security system as AI threats grow",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nGoogle to preview crypto custody security system as AI threats grow\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow\n\n#CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-28T13:21:09.974299+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds",
+      "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin ETF inflows climb to $176M as BTC rebounds above $80K\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-28T13:21:09.974304+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana",
+      "title": "Mirae Asset Securities issues tokenized notes on Solana",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nMirae Asset Securities issues tokenized notes on Solana\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana\n\n#CryptoRegulation #Solana #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-28T13:21:09.974307+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
+      "title": "Live updates: Bitcoin edges higher ahead of Fed decision Wednesday afternoon.",
+      "source": "CoinDesk",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nLive updates: Bitcoin edges higher ahead of Fed decision Wednesday afternoon.\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 7/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision\n\n#Bitcoin #FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-28T13:21:09.974310+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -955,10 +991,19 @@
       "post_id": "382058989087102",
       "post_link": "https://app.binance.com/uni-qr/cpos/382058989087102?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685": {
+      "title": "Layer 2 Scaling Solutions",
+      "source": "The Block",
+      "importance_score": 10,
+      "published_at": "2026-10-28T13:21:10.883699+00:00",
+      "post_id": "382166920279640",
+      "post_link": "https://app.binance.com/uni-qr/cpos/382166920279640?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-28T06:02:00.521146+00:00",
+  "last_run_at": "2026-10-28T13:21:10.890246+00:00",
   "last_run_published_count": 1
 }
