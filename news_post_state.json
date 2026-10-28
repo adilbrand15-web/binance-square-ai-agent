@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T18:59:14.542115+00:00",
+  "updated_at": "2026-10-28T23:05:22.561082+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -2713,6 +2713,34 @@
       "score": 7,
       "title": "Strategy shareholders approve daily dividends for four preferred stocks",
       "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing": {
+      "processed_at": "2026-10-28T23:05:22.560773+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading": {
+      "processed_at": "2026-10-28T23:05:22.560955+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix": {
+      "processed_at": "2026-10-28T23:05:22.561049+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost": {
+      "processed_at": "2026-10-28T23:05:22.561079+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+      "source": "CoinDesk"
     }
   }
 }
