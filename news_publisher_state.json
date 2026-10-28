@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
-      "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
-      "source": "The Block",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs draw $528 million as ether funds snap five-day outflow streak\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904\n\n#Bitcoin #Ethereum #CryptoETF #CryptoNews #Cryptocurrency",
-      "added_at": "2026-10-22T14:33:18.544746+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685",
       "title": "Layer 2 Scaling Solutions",
       "source": "The Block",
@@ -494,6 +485,24 @@
       "post_text": "📰 Crypto News Update\n\nVanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-28T00:15:13.070142+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
+      "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBithumb hacked through employee system as South Korean financial firms face cyberattacks\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-28T06:01:59.296481+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
+      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+      "source": "CoinDesk",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nBitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC\n\nWhy it matters: This market development may be relevant to volatility, liquidity, and trader sentiment.\n\nImportance score: 8/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-28T06:01:59.296501+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -937,10 +946,19 @@
       "post_id": "381973765434614",
       "post_link": "https://app.binance.com/uni-qr/cpos/381973765434614?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904": {
+      "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
+      "source": "The Block",
+      "importance_score": 10,
+      "published_at": "2026-10-28T06:02:00.514636+00:00",
+      "post_id": "382058989087102",
+      "post_link": "https://app.binance.com/uni-qr/cpos/382058989087102?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-28T00:15:13.931867+00:00",
+  "last_run_at": "2026-10-28T06:02:00.521146+00:00",
   "last_run_published_count": 1
 }
