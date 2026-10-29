@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T09:20:36.331357+00:00",
+  "updated_at": "2026-10-29T16:19:19.308020+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -2810,6 +2810,237 @@
       "status": "draft_created",
       "score": 9,
       "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca": {
+      "processed_at": "2026-10-29T16:19:19.305930+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Crypto exchange HTX exits the UK after settling with the FCA",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data": {
+      "processed_at": "2026-10-29T16:19:19.306008+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/french-senate-adopts-bill-automatic-crypto-tax-data": {
+      "processed_at": "2026-10-29T16:19:19.306066+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "French Senate adopts bill for automatic sharing of crypto tax data",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform": {
+      "processed_at": "2026-10-29T16:19:19.306124+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-10-29-ice-tradexyz-hyperliquid-perpetual-futures-us-432132": {
+      "processed_at": "2026-10-29T16:19:19.306171+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "HYPE surges 15% as NYSE parent ICE moves to bring Hyperliquid perps to US",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure": {
+      "processed_at": "2026-10-29T16:19:19.306208+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": {
+      "processed_at": "2026-10-29T16:19:19.306250+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Uniswap Labs opens fee conversion tool TJAR to apps, starting with Robinhood",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing": {
+      "processed_at": "2026-10-29T16:19:19.306295+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Bank of England opens consultation on tokenized collateral for clearing",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner": {
+      "processed_at": "2026-10-29T16:19:19.306393+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times": {
+      "processed_at": "2026-10-29T16:19:19.306448+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans": {
+      "processed_at": "2026-10-29T16:19:19.306503+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Walmart, Eli Lilly join growing pushback against OKX–ICE tokenized stock plans",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty": {
+      "processed_at": "2026-10-29T16:19:19.306560+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Brazil’s Halloween eve crypto deadline brings more tricks than treats",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana": {
+      "processed_at": "2026-10-29T16:19:19.306662+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/opinion/2026/10/28/a-new-framework-for-tokenized-asset-tracking": {
+      "processed_at": "2026-10-29T16:19:19.306775+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "A new framework for tokenized asset tracking",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/10/29/tokenized-stock-venue-on-canton-could-beat-okx-ice-to-first-trade-under-sec-framework": {
+      "processed_at": "2026-10-29T16:19:19.306838+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Tokenized stock venue on Canton could beat OKX–ICE to first trade under SEC framework",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/chainalysis-dprk-crypto-cash-out-network-ofac-sanctions": {
+      "processed_at": "2026-10-29T16:19:19.306882+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Chainalysis traces North Korean crypto cash-outs through Garantex",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/unlimit-founder-phase-blockchain-mainnet-launches": {
+      "processed_at": "2026-10-29T16:19:19.306932+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Unlimit founder backs Phase blockchain with $45M as mainnet launches",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/htx-halt-unlawful-uk-crypto-promotions-fca": {
+      "processed_at": "2026-10-29T16:19:19.306973+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "HTX agrees to halt unlawful UK crypto promotions after FCA case",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/10/29/u-s-sanctions-russian-crypto-middlemen-tied-to-north-korean-it-worker-fraud": {
+      "processed_at": "2026-10-29T16:19:19.307021+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing": {
+      "processed_at": "2026-10-29T16:19:19.307056+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "As $10 billion in bitcoin options near expiry, the tell is in the pricing",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/eu-investors-crypto-above-retirement-lasting-wealth": {
+      "processed_at": "2026-10-29T16:19:19.307114+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "EU investors rank crypto above retirement plans for lasting wealth creation: OKX survey",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/coinbase-brazil-license-no-service-disruption-expected": {
+      "processed_at": "2026-10-29T16:19:19.307200+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Coinbase seeks Brazil crypto license, expects no service disruption",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says": {
+      "processed_at": "2026-10-29T16:19:19.307288+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k": {
+      "processed_at": "2026-10-29T16:19:19.307571+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline": {
+      "processed_at": "2026-10-29T16:19:19.307649+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings": {
+      "processed_at": "2026-10-29T16:19:19.307744+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Live updates: Bitcoin catches small bid as Nasdaq and interest rates fall sharply",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction": {
+      "processed_at": "2026-10-29T16:19:19.307799+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/10/29/bermuda-taps-walletconnect-to-advance-its-onchain-economy-plan": {
+      "processed_at": "2026-10-29T16:19:19.307849+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bermuda taps WalletConnect to advance its onchain economy plan",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers": {
+      "processed_at": "2026-10-29T16:19:19.307939+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron": {
+      "processed_at": "2026-10-29T16:19:19.307967+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115": {
+      "processed_at": "2026-10-29T16:19:19.307984+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Polygon adds Solana to payment stack linking bank accounts, crypto and payouts",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump": {
+      "processed_at": "2026-10-29T16:19:19.308001+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s": {
+      "processed_at": "2026-10-29T16:19:19.308017+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
       "source": "CoinDesk"
     }
   }
