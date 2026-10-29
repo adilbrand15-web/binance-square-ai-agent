@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower",
-      "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
-      "source": "Cointelegraph",
-      "importance_score": 6,
-      "post_text": "📰 Crypto News Update\n\nBitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-22T18:42:49.475485+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/regulation/2026-10-22-jpmorgan-crypto-regulatory-moves-clarity-act-failure-risks-423473",
       "title": "JPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain",
       "source": "The Block",
@@ -584,6 +575,33 @@
       "post_text": "📰 Crypto News Update\n\nFed’s hawkish rate hold keeps pressure on Bitcoin: Analysts\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts\n\n#Bitcoin #FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-29T02:38:38.618351+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green",
+      "title": "Bitcoin ETFs add $137M, pushing October back into the green",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs add $137M, pushing October back into the green\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-29T09:20:56.652637+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
+      "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto\n\n#Bitcoin #FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-29T09:20:56.652650+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+      "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+      "source": "CoinDesk",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nSecurity failure at Indian certificate firm bites Ethereum as developers rush out fixes\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards\n\n#Ethereum #CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-29T09:20:56.652655+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1072,10 +1090,19 @@
       "post_id": "382362908763951",
       "post_link": "https://app.binance.com/uni-qr/cpos/382362908763951?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower": {
+      "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "published_at": "2026-10-29T09:20:57.659024+00:00",
+      "post_id": "382461777987565",
+      "post_link": "https://app.binance.com/uni-qr/cpos/382461777987565?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-29T02:38:39.655406+00:00",
+  "last_run_at": "2026-10-29T09:20:57.661371+00:00",
   "last_run_published_count": 1
 }
