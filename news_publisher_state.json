@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express",
-      "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
-      "source": "Cointelegraph",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nNew DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express\n\n#CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-23T00:48:45.660893+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
       "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
       "source": "CoinDesk",
@@ -638,6 +629,51 @@
       "post_text": "📰 Crypto News Update\n\nNYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s\n\n#CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-29T16:19:40.067188+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+      "title": "Potential multi-billion Binance hack hitting crypto markets",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nPotential multi-billion Binance hack hitting crypto markets\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-29T21:18:30.332116+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
+      "title": "Polymarket resumes trading after $2.65 million exploit, says third-party provider was compromised",
+      "source": "The Block",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nPolymarket resumes trading after $2.65 million exploit, says third-party provider was compromised\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 7/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-29T21:18:30.332130+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
+      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+      "source": "CoinDesk",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nFrom rivals to partners: Polygon and Solana team to bring stablecoin payments to banks\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 7/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks\n\n#Stablecoin #Solana #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-29T21:18:30.332135+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report",
+      "title": "Public companies double share of blockchain revenue since 2022: Report",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nPublic companies double share of blockchain revenue since 2022: Report\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-29T21:18:30.332138+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026",
+      "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nNasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-29T21:18:30.332143+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1144,10 +1180,19 @@
       "post_id": "382564683768156",
       "post_link": "https://app.binance.com/uni-qr/cpos/382564683768156?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express": {
+      "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "published_at": "2026-10-29T21:18:31.453342+00:00",
+      "post_id": "382638126393305",
+      "post_link": "https://app.binance.com/uni-qr/cpos/382638126393305?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-29T16:19:41.134718+00:00",
+  "last_run_at": "2026-10-29T21:18:31.455538+00:00",
   "last_run_published_count": 1
 }
