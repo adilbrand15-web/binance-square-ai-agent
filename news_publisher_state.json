@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
-      "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
-      "source": "CoinDesk",
-      "importance_score": 8,
-      "post_text": "📰 Crypto News Update\n\nA16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 8/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech\n\n#CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-22T18:42:49.475472+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower",
       "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
       "source": "Cointelegraph",
@@ -584,6 +575,15 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-28T23:05:36.994810+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts",
+      "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nFed’s hawkish rate hold keeps pressure on Bitcoin: Analysts\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts\n\n#Bitcoin #FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-29T02:38:38.618351+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1063,10 +1063,19 @@
       "post_id": "382310554698088",
       "post_link": "https://app.binance.com/uni-qr/cpos/382310554698088?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech": {
+      "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
+      "source": "CoinDesk",
+      "importance_score": 8,
+      "published_at": "2026-10-29T02:38:39.653065+00:00",
+      "post_id": "382362908763951",
+      "post_link": "https://app.binance.com/uni-qr/cpos/382362908763951?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-28T23:05:37.898797+00:00",
+  "last_run_at": "2026-10-29T02:38:39.655406+00:00",
   "last_run_published_count": 1
 }
