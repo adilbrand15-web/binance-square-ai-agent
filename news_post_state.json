@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T16:19:19.308020+00:00",
+  "updated_at": "2026-10-29T21:18:12.021806+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -3042,6 +3042,90 @@
       "score": 6,
       "title": "NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
       "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141": {
+      "processed_at": "2026-10-29T21:18:12.021109+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Strategy reports $19.5 billion in Q3 net income as preferred shareholders approve daily dividends",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised": {
+      "processed_at": "2026-10-29T21:18:12.021217+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Polymarket suspended trading amid reports of user funds being drained",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses": {
+      "processed_at": "2026-10-29T21:18:12.021309+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Polymarket suspends trading after third-party breach leads to user losses",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps": {
+      "processed_at": "2026-10-29T21:18:12.021362+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended": {
+      "processed_at": "2026-10-29T21:18:12.021410+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "KuCoin suspends services in Russia and Belarus",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment": {
+      "processed_at": "2026-10-29T21:18:12.021467+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets": {
+      "processed_at": "2026-10-29T21:18:12.021515+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets": {
+      "processed_at": "2026-10-29T21:18:12.021695+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Potential multi-billion Binance hack hitting crypto markets",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158": {
+      "processed_at": "2026-10-29T21:18:12.021717+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Polymarket resumes trading after $2.65 million exploit, says third-party provider was compromised",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks": {
+      "processed_at": "2026-10-29T21:18:12.021735+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report": {
+      "processed_at": "2026-10-29T21:18:12.021753+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Public companies double share of blockchain revenue since 2022: Report",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026": {
+      "processed_at": "2026-10-29T21:18:12.021802+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
+      "source": "Cointelegraph"
     }
   }
 }
