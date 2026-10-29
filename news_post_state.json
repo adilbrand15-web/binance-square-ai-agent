@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T02:38:23.150284+00:00",
+  "updated_at": "2026-10-29T09:20:36.331357+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -2748,6 +2748,69 @@
       "score": 10,
       "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
       "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise": {
+      "processed_at": "2026-10-29T09:20:36.330757+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Former Swift CEO joins stablecoin firm OpenTrade as chairman",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": {
+      "processed_at": "2026-10-29T09:20:36.330839+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "The chart bitcoin traders should be paying attention to",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public": {
+      "processed_at": "2026-10-29T09:20:36.330978+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future": {
+      "processed_at": "2026-10-29T09:20:36.331085+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks": {
+      "processed_at": "2026-10-29T09:20:36.331178+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police": {
+      "processed_at": "2026-10-29T09:20:36.331223+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green": {
+      "processed_at": "2026-10-29T09:20:36.331311+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin ETFs add $137M, pushing October back into the green",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto": {
+      "processed_at": "2026-10-29T09:20:36.331337+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards": {
+      "processed_at": "2026-10-29T09:20:36.331355+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+      "source": "CoinDesk"
     }
   }
 }
