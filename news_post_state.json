@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T23:05:22.561082+00:00",
+  "updated_at": "2026-10-29T02:38:23.150284+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -2741,6 +2741,13 @@
       "score": 6,
       "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
       "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts": {
+      "processed_at": "2026-10-29T02:38:23.150271+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
+      "source": "Cointelegraph"
     }
   }
 }
