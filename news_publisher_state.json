@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
-      "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
-      "source": "CoinDesk",
-      "importance_score": 6,
-      "post_text": "📰 Crypto News Update\n\nSenate's top Democratic investigator looking into Tether payments to Bo Hines' firm\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm\n\n#Ethereum #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-23T00:48:45.660916+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks",
       "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
       "source": "Cointelegraph",
@@ -674,6 +665,51 @@
       "post_text": "📰 Crypto News Update\n\nNasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026\n\n#CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-29T21:18:30.332143+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance hack drained wallets backing customer assets, reserve data shows\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-30T01:14:30.889225+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide",
+      "title": "Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance hack rattles crypto markets as BNB falls 7%, Bitcoin slides\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide\n\n#Bitcoin #Binance #CryptoSecurity #CryptoNews #Cryptocurrency",
+      "added_at": "2026-10-30T01:14:30.889238+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171",
+      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance investigating hack as suspicious outflows reach up to $5.8 billion\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-30T01:14:30.889249+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns",
+      "title": "Live updates: Binance says $3B in crypto frozen in connection to hack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nLive updates: Binance says $3B in crypto frozen in connection to hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-30T01:14:30.889253+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo",
+      "title": "Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nBinance hack may involve private key ‘misuse,’ not theft: Blockaid CEO\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-30T01:14:30.889255+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1189,10 +1225,19 @@
       "post_id": "382638126393305",
       "post_link": "https://app.binance.com/uni-qr/cpos/382638126393305?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm": {
+      "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+      "source": "CoinDesk",
+      "importance_score": 6,
+      "published_at": "2026-10-30T01:14:32.018250+00:00",
+      "post_id": "382696127998102",
+      "post_link": "https://app.binance.com/uni-qr/cpos/382696127998102?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-29T21:18:31.455538+00:00",
+  "last_run_at": "2026-10-30T01:14:32.020970+00:00",
   "last_run_published_count": 1
 }
