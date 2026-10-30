@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T21:18:12.021806+00:00",
+  "updated_at": "2026-10-30T01:14:16.079712+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -3125,6 +3125,48 @@
       "status": "draft_created",
       "score": 6,
       "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express": {
+      "processed_at": "2026-10-30T01:14:16.079435+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows": {
+      "processed_at": "2026-10-30T01:14:16.079641+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide": {
+      "processed_at": "2026-10-30T01:14:16.079663+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171": {
+      "processed_at": "2026-10-30T01:14:16.079679+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns": {
+      "processed_at": "2026-10-30T01:14:16.079692+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Live updates: Binance says $3B in crypto frozen in connection to hack",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo": {
+      "processed_at": "2026-10-30T01:14:16.079709+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO",
       "source": "Cointelegraph"
     }
   }
