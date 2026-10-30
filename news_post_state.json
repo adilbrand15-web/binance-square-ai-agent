@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T01:14:16.079712+00:00",
+  "updated_at": "2026-10-30T07:31:37.815992+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -3168,6 +3168,55 @@
       "score": 9,
       "title": "Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO",
       "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys": {
+      "processed_at": "2026-10-30T07:31:37.815563+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens": {
+      "processed_at": "2026-10-30T07:31:37.815648+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators": {
+      "processed_at": "2026-10-30T07:31:37.815947+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "North Korea’s TraderTraitor linked to $6.3B Binance hack",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity": {
+      "processed_at": "2026-10-30T07:31:37.815961+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze": {
+      "processed_at": "2026-10-30T07:31:37.815973+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead": {
+      "processed_at": "2026-10-30T07:31:37.815982+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack": {
+      "processed_at": "2026-10-30T07:31:37.815990+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+      "source": "CoinDesk"
     }
   }
 }
