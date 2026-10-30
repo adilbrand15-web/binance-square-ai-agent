@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T14:49:48.950338+00:00",
+  "updated_at": "2026-10-30T19:50:44.563316+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -3300,6 +3300,55 @@
       "status": "draft_created",
       "score": 10,
       "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221": {
+      "processed_at": "2026-10-30T19:50:44.563089+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Texas brothers sentenced to 15 years for holding Minnesota family at gunpoint in $8 million crypto heist",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold": {
+      "processed_at": "2026-10-30T19:50:44.563142+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble": {
+      "processed_at": "2026-10-30T19:50:44.563223+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz": {
+      "processed_at": "2026-10-30T19:50:44.563254+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart": {
+      "processed_at": "2026-10-30T19:50:44.563274+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded": {
+      "processed_at": "2026-10-30T19:50:44.563292+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Recap: How Binance’s record $6.3B hack unfolded",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b": {
+      "processed_at": "2026-10-30T19:50:44.563314+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
       "source": "Cointelegraph"
     }
   }
