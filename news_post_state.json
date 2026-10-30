@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T07:31:37.815992+00:00",
+  "updated_at": "2026-10-30T14:49:48.950338+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -3217,6 +3217,90 @@
       "score": 10,
       "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
       "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214": {
+      "processed_at": "2026-10-30T14:49:48.949080+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Strategy’s preferred-stock fix sets up renewed bitcoin buying, analysts say",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable": {
+      "processed_at": "2026-10-30T14:49:48.949259+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/zcash-grants-46m-proposal-governance-backlash": {
+      "processed_at": "2026-10-30T14:49:48.949548+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Zcash grants group offers $124M compromise as governance backlash grows",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6": {
+      "processed_at": "2026-10-30T14:49:48.949889+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/trezor-cryptobilis-wallet-implant-funds-warning": {
+      "processed_at": "2026-10-30T14:49:48.949933+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Trezor warns CryptoBilis buyers to move funds over suspected implant",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189": {
+      "processed_at": "2026-10-30T14:49:48.949976+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Coinbase Q3 net income jumps 66% as prediction markets gain traction",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196": {
+      "processed_at": "2026-10-30T14:49:48.950017+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack": {
+      "processed_at": "2026-10-30T14:49:48.950231+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor": {
+      "processed_at": "2026-10-30T14:49:48.950264+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Live updates: Binance says $6.34B set aside to cover hack losses",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack": {
+      "processed_at": "2026-10-30T14:49:48.950294+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit": {
+      "processed_at": "2026-10-30T14:49:48.950315+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Here's how big bitcoin traders responded after the Binance hack hit",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack": {
+      "processed_at": "2026-10-30T14:49:48.950334+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
+      "source": "Cointelegraph"
     }
   }
 }
