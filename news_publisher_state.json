@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks",
-      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
-      "source": "Cointelegraph",
-      "importance_score": 7,
-      "post_text": "📰 Crypto News Update\n\nEthereum delays Glamsterdam Hoodi testnet launch over security risks\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks\n\n#Ethereum #CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-23T05:44:27.462738+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
       "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
       "source": "CoinDesk",
@@ -710,6 +701,51 @@
       "post_text": "📰 Crypto News Update\n\nBinance hack may involve private key ‘misuse,’ not theft: Blockaid CEO\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-30T01:14:30.889255+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators",
+      "title": "North Korea’s TraderTraitor linked to $6.3B Binance hack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nNorth Korea’s TraderTraitor linked to $6.3B Binance hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-30T07:31:55.887978+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
+      "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance hack bites India's largest crypto exchange as it curbs futures trading\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-30T07:31:55.887990+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
+      "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze\n\n#Bitcoin #Binance #CryptoSecurity #CryptoNews #Cryptocurrency",
+      "added_at": "2026-10-30T07:31:55.887994+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
+      "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\n$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead\n\n#Bitcoin #Ethereum #Binance #CryptoSecurity #CryptoNews",
+      "added_at": "2026-10-30T07:31:55.887999+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
+      "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nInstitutional crypto investors rush to pull funds from exchanges after Binance hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-30T07:31:55.888001+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1234,10 +1270,19 @@
       "post_id": "382696127998102",
       "post_link": "https://app.binance.com/uni-qr/cpos/382696127998102?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks": {
+      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+      "source": "Cointelegraph",
+      "importance_score": 7,
+      "published_at": "2026-10-30T07:31:56.774206+00:00",
+      "post_id": "382788881082404",
+      "post_link": "https://app.binance.com/uni-qr/cpos/382788881082404?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-30T01:14:32.020970+00:00",
+  "last_run_at": "2026-10-30T07:31:56.776347+00:00",
   "last_run_published_count": 1
 }
