@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
-      "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
-      "source": "CoinDesk",
-      "importance_score": 6,
-      "post_text": "📰 Crypto News Update\n\nCardano holders are being asked to bet $5 million on copper hitting a new record\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record\n\n#CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-23T05:44:27.462760+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors",
       "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
       "source": "Cointelegraph",
@@ -782,6 +773,51 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack\n\n#Bitcoin #Binance #CryptoSecurity #CryptoNews #Cryptocurrency",
       "added_at": "2026-10-30T14:50:06.621863+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble",
+      "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nCoinbase leads crypto stock selloff following $6.3B Binance hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-30T19:51:03.798910+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz",
+      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nCrypto Biz: Bitcoin’s quantum threat is becoming an economic problem\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-30T19:51:03.798926+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-30T19:51:03.798929+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded",
+      "title": "Recap: How Binance’s record $6.3B hack unfolded",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nRecap: How Binance’s record $6.3B hack unfolded\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-30T19:51:03.798931+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b",
+      "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nTether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b\n\n#Ethereum #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-30T19:51:03.798933+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1324,10 +1360,19 @@
       "post_id": "382896567777847",
       "post_link": "https://app.binance.com/uni-qr/cpos/382896567777847?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record": {
+      "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+      "source": "CoinDesk",
+      "importance_score": 6,
+      "published_at": "2026-10-30T19:51:04.819251+00:00",
+      "post_id": "382970530619864",
+      "post_link": "https://app.binance.com/uni-qr/cpos/382970530619864?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-30T14:50:07.503723+00:00",
+  "last_run_at": "2026-10-30T19:51:04.821015+00:00",
   "last_run_published_count": 1
 }
