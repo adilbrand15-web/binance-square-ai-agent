@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T19:50:44.563316+00:00",
+  "updated_at": "2026-10-30T23:27:24.303334+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -3350,6 +3350,34 @@
       "score": 8,
       "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
       "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen": {
+      "processed_at": "2026-10-30T23:27:24.303282+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance hackers raced to move billions before it could be frozen",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225": {
+      "processed_at": "2026-10-30T23:27:24.303305+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236": {
+      "processed_at": "2026-10-30T23:27:24.303321+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "President Trump says they’re looking into Binance hack as calls grow for crypto rules",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter": {
+      "processed_at": "2026-10-30T23:27:24.303332+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+      "source": "CoinDesk"
     }
   }
 }
