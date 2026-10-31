@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
-      "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
-      "source": "CoinDesk",
-      "importance_score": 8,
-      "post_text": "📰 Crypto News Update\n\nSweden’s central bank revives e-krona debate as stablecoins and digital euro loom\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 8/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-23T11:01:33.433842+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license",
       "title": "Bybit secures first full Dubai license for spot trading services",
       "source": "Cointelegraph",
@@ -872,6 +863,33 @@
       "post_text": "📰 Crypto News Update\n\nBinance $6.3B record hack sparks pre-election political clashes\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-31T15:27:37.391767+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo",
+      "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin held up better than expected after Binance hack, Strive CEO says\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo\n\n#Bitcoin #Binance #CryptoSecurity #CryptoNews #Cryptocurrency",
+      "added_at": "2026-10-31T19:29:16.225797+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
+      "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+      "source": "CoinDesk",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nA stolen iPhone, $14,000 in losses and London's crypto theft problem\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-31T19:29:16.225812+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/binance-hack-90-percent-replenished",
+      "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+      "source": "Cointelegraph",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nBinance says 90% of stolen assets replenished, targets Sunday withdrawals\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-hack-90-percent-replenished\n\n#Binance #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-31T19:29:16.225816+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1459,10 +1477,19 @@
       "post_id": "383259681277681",
       "post_link": "https://app.binance.com/uni-qr/cpos/383259681277681?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom": {
+      "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
+      "source": "CoinDesk",
+      "importance_score": 8,
+      "published_at": "2026-10-31T19:29:17.192020+00:00",
+      "post_id": "383319068869549",
+      "post_link": "https://app.binance.com/uni-qr/cpos/383319068869549?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-31T15:27:38.257670+00:00",
+  "last_run_at": "2026-10-31T19:29:17.194421+00:00",
   "last_run_published_count": 1
 }
