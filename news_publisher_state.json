@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer",
-      "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
-      "source": "Cointelegraph",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nCysic dangles a 10% bounty, hacker pours loot into Tornado Cash\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-23T11:01:33.433811+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
       "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
       "source": "CoinDesk",
@@ -1405,10 +1396,19 @@
       "post_id": "383023781738555",
       "post_link": "https://app.binance.com/uni-qr/cpos/383023781738555?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer": {
+      "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "published_at": "2026-10-31T02:39:39.943670+00:00",
+      "post_id": "383070944510651",
+      "post_link": "https://app.binance.com/uni-qr/cpos/383070944510651?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-30T23:27:45.597821+00:00",
+  "last_run_at": "2026-10-31T02:39:39.946476+00:00",
   "last_run_published_count": 1
 }
