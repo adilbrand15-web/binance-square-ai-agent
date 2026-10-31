@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow",
-      "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
-      "source": "Cointelegraph",
-      "importance_score": 9,
-      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs bleed $635M as October slides back into the red\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-23T11:01:33.433836+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
       "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
       "source": "CoinDesk",
@@ -836,6 +827,51 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve\n\n#Bitcoin #Binance #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-31T09:17:18.664881+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up",
+      "title": "Bitcoin turns 18: Has the original rebel grown up?",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin turns 18: Has the original rebel grown up?\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-31T15:27:37.391746+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244",
+      "title": "Chainalysis says hacker using ‘offensive agentic techniques’ accessed its customers’ names and emails",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nChainalysis says hacker using ‘offensive agentic techniques’ accessed its customers’ names and emails\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-31T15:27:37.391761+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
+      "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nA Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears\n\n#Bitcoin #Binance #CryptoSecurity #CryptoNews #Cryptocurrency",
+      "added_at": "2026-10-31T15:27:37.391764+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion",
+      "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nThe $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-31T15:27:37.391766+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter",
+      "title": "Binance $6.3B record hack sparks pre-election political clashes",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance $6.3B record hack sparks pre-election political clashes\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-10-31T15:27:37.391767+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1414,10 +1450,19 @@
       "post_id": "383168674059629",
       "post_link": "https://app.binance.com/uni-qr/cpos/383168674059629?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow": {
+      "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "published_at": "2026-10-31T15:27:38.255701+00:00",
+      "post_id": "383259681277681",
+      "post_link": "https://app.binance.com/uni-qr/cpos/383259681277681?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-31T09:17:19.680563+00:00",
+  "last_run_at": "2026-10-31T15:27:38.257670+00:00",
   "last_run_published_count": 1
 }
