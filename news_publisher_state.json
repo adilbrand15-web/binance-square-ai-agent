@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained",
-      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-      "source": "Cointelegraph",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nInitia halts blockchain after exploit reportedly drains over $2.6M\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-23T19:47:02.606399+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal",
       "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
       "source": "Cointelegraph",
@@ -890,6 +881,24 @@
       "post_text": "📰 Crypto News Update\n\nBinance says phase one of withdrawals opens after $6.3B hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-01T15:45:06.455820+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
+      "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nNorth Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-01T20:10:32.389560+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259",
+      "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance sees $3.64 billion in net outflows after reopening withdrawals following record hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-01T20:10:32.389571+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1522,10 +1531,19 @@
       "post_id": "383617873743849",
       "post_link": "https://app.binance.com/uni-qr/cpos/383617873743849?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained": {
+      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "published_at": "2026-11-01T20:10:33.297792+00:00",
+      "post_id": "383683105525515",
+      "post_link": "https://app.binance.com/uni-qr/cpos/383683105525515?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-01T15:45:07.596831+00:00",
+  "last_run_at": "2026-11-01T20:10:33.299762+00:00",
   "last_run_published_count": 1
 }
