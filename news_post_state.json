@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T08:41:55.200917+00:00",
+  "updated_at": "2026-11-01T15:44:51.635734+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -3510,6 +3510,48 @@
       "status": "draft_created",
       "score": 10,
       "title": "FBI blames North Korea for record $6.3B Binance hack",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election": {
+      "processed_at": "2026-11-01T15:44:51.635425+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "The key races to watch for the 2026 election",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards": {
+      "processed_at": "2026-11-01T15:44:51.635484+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election": {
+      "processed_at": "2026-11-01T15:44:51.635531+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Crypto PACs made big Republican push in final weeks before November 3 election",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year": {
+      "processed_at": "2026-11-01T15:44:51.635569+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack": {
+      "processed_at": "2026-11-01T15:44:51.635717+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack": {
+      "processed_at": "2026-11-01T15:44:51.635732+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance says phase one of withdrawals opens after $6.3B hack",
       "source": "Cointelegraph"
     }
   }
