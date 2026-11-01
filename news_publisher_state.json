@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
-      "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
-      "source": "The Block",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-23T15:49:46.551046+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
       "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
       "source": "The Block",
@@ -881,6 +872,15 @@
       "post_text": "📰 Crypto News Update\n\nBinance says 90% of stolen assets replenished, targets Sunday withdrawals\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-hack-90-percent-replenished\n\n#Binance #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-10-31T19:29:16.225816+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+      "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nFBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses\n\n#Bitcoin #Ethereum #Binance #CryptoSecurity #CryptoNews",
+      "added_at": "2026-11-01T01:51:00.841208+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1486,10 +1486,19 @@
       "post_id": "383367222340463",
       "post_link": "https://app.binance.com/uni-qr/cpos/383367222340463?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483": {
+      "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
+      "source": "The Block",
+      "importance_score": 10,
+      "published_at": "2026-11-01T01:51:01.696858+00:00",
+      "post_id": "383412885802444",
+      "post_link": "https://app.binance.com/uni-qr/cpos/383412885802444?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-10-31T22:45:13.389686+00:00",
+  "last_run_at": "2026-11-01T01:51:01.699244+00:00",
   "last_run_published_count": 1
 }
