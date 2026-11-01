@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T01:50:44.160162+00:00",
+  "updated_at": "2026-11-01T08:41:55.200917+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -3504,6 +3504,13 @@
       "score": 10,
       "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
       "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack": {
+      "processed_at": "2026-11-01T08:41:55.200903+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "FBI blames North Korea for record $6.3B Binance hack",
+      "source": "Cointelegraph"
     }
   }
 }
