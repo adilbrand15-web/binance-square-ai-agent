@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T22:44:56.399913+00:00",
+  "updated_at": "2026-11-01T01:50:44.160162+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -3497,6 +3497,13 @@
       "score": 7,
       "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
       "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses": {
+      "processed_at": "2026-11-01T01:50:44.160143+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+      "source": "CoinDesk"
     }
   }
 }
