@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal",
-      "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
-      "source": "Cointelegraph",
-      "importance_score": 6,
-      "post_text": "📰 Crypto News Update\n\nUS senator probes Tether after reported deal with ex-Trump crypto adviser\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal\n\n#Ethereum #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-23T19:47:02.606416+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com",
       "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
       "source": "CoinDesk",
@@ -899,6 +890,15 @@
       "post_text": "📰 Crypto News Update\n\nBinance sees $3.64 billion in net outflows after reopening withdrawals following record hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-01T20:10:32.389571+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest",
+      "title": "$3.6B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\n$3.6B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest\n\n#Binance #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-01T23:45:15.697183+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1540,10 +1540,19 @@
       "post_id": "383683105525515",
       "post_link": "https://app.binance.com/uni-qr/cpos/383683105525515?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal": {
+      "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "published_at": "2026-11-01T23:45:16.751815+00:00",
+      "post_id": "383735876077859",
+      "post_link": "https://app.binance.com/uni-qr/cpos/383735876077859?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-01T20:10:33.299762+00:00",
+  "last_run_at": "2026-11-01T23:45:16.753811+00:00",
   "last_run_published_count": 1
 }
