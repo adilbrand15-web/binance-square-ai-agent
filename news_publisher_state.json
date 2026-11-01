@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption",
-      "title": "Was crypto self-custody ever designed for beginners?",
-      "source": "Cointelegraph",
-      "importance_score": 6,
-      "post_text": "📰 Crypto News Update\n\nWas crypto self-custody ever designed for beginners?\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption\n\n#CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-23T15:49:46.551068+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained",
       "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
       "source": "Cointelegraph",
@@ -881,6 +872,24 @@
       "post_text": "📰 Crypto News Update\n\nFBI blames North Korea for record $6.3B Binance hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-01T08:42:09.477273+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
+      "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack\n\n#Bitcoin #Binance #CryptoSecurity #CryptoNews #Cryptocurrency",
+      "added_at": "2026-11-01T15:45:06.455805+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack",
+      "title": "Binance says phase one of withdrawals opens after $6.3B hack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance says phase one of withdrawals opens after $6.3B hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-01T15:45:06.455820+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1504,10 +1513,19 @@
       "post_id": "383513929455234",
       "post_link": "https://app.binance.com/uni-qr/cpos/383513929455234?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption": {
+      "title": "Was crypto self-custody ever designed for beginners?",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "published_at": "2026-11-01T15:45:07.593756+00:00",
+      "post_id": "383617873743849",
+      "post_link": "https://app.binance.com/uni-qr/cpos/383617873743849?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-01T08:42:10.576891+00:00",
+  "last_run_at": "2026-11-01T15:45:07.596831+00:00",
   "last_run_published_count": 1
 }
