@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T20:10:18.519471+00:00",
+  "updated_at": "2026-11-01T23:45:00.083007+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -3581,6 +3581,13 @@
       "score": 10,
       "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
       "source": "The Block"
+    },
+    "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest": {
+      "processed_at": "2026-11-01T23:45:00.082999+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "$3.6B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest",
+      "source": "Cointelegraph"
     }
   }
 }
