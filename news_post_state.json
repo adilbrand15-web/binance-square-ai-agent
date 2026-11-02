@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T23:45:00.083007+00:00",
+  "updated_at": "2026-11-02T04:28:22.391977+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -3587,6 +3587,34 @@
       "status": "draft_created",
       "score": 9,
       "title": "$3.6B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks": {
+      "processed_at": "2026-11-02T04:28:22.391749+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270": {
+      "processed_at": "2026-11-02T04:28:22.391941+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers": {
+      "processed_at": "2026-11-02T04:28:22.391961+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack": {
+      "processed_at": "2026-11-02T04:28:22.391975+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
       "source": "Cointelegraph"
     }
   }
