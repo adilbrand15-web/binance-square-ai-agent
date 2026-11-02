@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com",
-      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-      "source": "CoinDesk",
-      "importance_score": 7,
-      "post_text": "📰 Crypto News Update\n\nBitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-24T14:44:46.920799+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
       "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
       "source": "The Block",
@@ -899,6 +890,33 @@
       "post_text": "📰 Crypto News Update\n\n$3.6B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest\n\n#Binance #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-01T23:45:15.697183+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
+      "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nSpot bitcoin ETFs see largest daily outflows in four months following record Binance hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270\n\n#Bitcoin #Binance #CryptoETF #CryptoSecurity #CryptoNews",
+      "added_at": "2026-11-02T04:28:40.448978+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers",
+      "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nTHORChain halts swaps after block reorg bug, slowing Binance hackers\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-02T04:28:40.448992+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack",
+      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance net outflows surge to $5.8B as withdrawals resume after record hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-02T04:28:40.448997+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1549,10 +1567,19 @@
       "post_id": "383735876077859",
       "post_link": "https://app.binance.com/uni-qr/cpos/383735876077859?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com": {
+      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+      "source": "CoinDesk",
+      "importance_score": 7,
+      "published_at": "2026-11-02T04:28:41.487771+00:00",
+      "post_id": "383805527609610",
+      "post_link": "https://app.binance.com/uni-qr/cpos/383805527609610?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-01T23:45:16.753811+00:00",
+  "last_run_at": "2026-11-02T04:28:41.490671+00:00",
   "last_run_published_count": 1
 }
