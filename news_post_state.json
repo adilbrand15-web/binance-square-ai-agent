@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T04:28:22.391977+00:00",
+  "updated_at": "2026-11-02T12:47:44.815015+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -3615,6 +3615,111 @@
       "status": "draft_created",
       "score": 10,
       "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens": {
+      "processed_at": "2026-11-02T12:47:44.814028+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "XRP Ledger set to fix flaw that could let stablecoin partners print new tokens",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump": {
+      "processed_at": "2026-11-02T12:47:44.814085+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin's 'volatility curve' has a midterm bump",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks": {
+      "processed_at": "2026-11-02T12:47:44.814266+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Trezor lifts password ceiling after Coldcard’s $100M wallet thefts",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials": {
+      "processed_at": "2026-11-02T12:47:44.814310+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week": {
+      "processed_at": "2026-11-02T12:47:44.814352+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany": {
+      "processed_at": "2026-11-02T12:47:44.814391+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings": {
+      "processed_at": "2026-11-02T12:47:44.814516+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Live updates: Binance records $6 billion outflows after starting withdrawals, less then 4% of total holdings",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain": {
+      "processed_at": "2026-11-02T12:47:44.814560+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "China’s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions": {
+      "processed_at": "2026-11-02T12:47:44.814709+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets": {
+      "processed_at": "2026-11-02T12:47:44.814852+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis": {
+      "processed_at": "2026-11-02T12:47:44.814954+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets": {
+      "processed_at": "2026-11-02T12:47:44.814975+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows": {
+      "processed_at": "2026-11-02T12:47:44.814990+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "OKX draws $445M in net inflows as Binance outflows exceed $7B",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks": {
+      "processed_at": "2026-11-02T12:47:44.815003+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows": {
+      "processed_at": "2026-11-02T12:47:44.815013+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
       "source": "Cointelegraph"
     }
   }
