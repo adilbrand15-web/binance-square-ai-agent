@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
-      "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
-      "source": "CoinDesk",
-      "importance_score": 9,
-      "post_text": "📰 Crypto News Update\n\nStrategy, Strive face balancing act between bitcoin buying and preferred stock dividends\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-24T17:50:01.689572+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
       "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
       "source": "CoinDesk",
@@ -953,6 +944,51 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin ETFs sink into October outflows with $643M exit after Binance hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows\n\n#Bitcoin #Binance #CryptoETF #CryptoSecurity #CryptoNews",
       "added_at": "2026-11-02T12:48:15.413926+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan",
+      "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nAI poses greater threat to Bitcoin than quantum computing, Swan founder says\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-02T22:10:17.587783+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens",
+      "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nCoinbase hit with 50% price target cut as post-earnings rout deepens\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-02T22:10:17.587803+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
+      "title": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nMercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333\n\n#Bitcoin #CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-02T22:10:17.587807+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/mercado-bitcoin-hack",
+      "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nMercado Bitcoin wallets show post-hack transfers after $46M theft\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/mercado-bitcoin-hack\n\n#Bitcoin #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-02T22:10:17.587811+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321",
+      "title": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance completes latest proof of reserves as it works to restore assets, withdrawals after record hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-02T22:10:17.587813+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1621,10 +1657,19 @@
       "post_id": "383928305013133",
       "post_link": "https://app.binance.com/uni-qr/cpos/383928305013133?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends": {
+      "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+      "source": "CoinDesk",
+      "importance_score": 9,
+      "published_at": "2026-11-02T22:10:18.608421+00:00",
+      "post_id": "384066430865986",
+      "post_link": "https://app.binance.com/uni-qr/cpos/384066430865986?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-02T12:48:16.469873+00:00",
+  "last_run_at": "2026-11-02T22:10:18.611420+00:00",
   "last_run_published_count": 1
 }
