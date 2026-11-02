@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
-      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
-      "source": "The Block",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nCrypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-24T17:50:01.689555+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
       "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
       "source": "CoinDesk",
@@ -917,6 +908,51 @@
       "post_text": "📰 Crypto News Update\n\nBinance net outflows surge to $5.8B as withdrawals resume after record hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-02T04:28:40.448997+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis",
+      "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis\n\n#Bitcoin #Binance #Solana #CryptoSecurity #CryptoNews",
+      "added_at": "2026-11-02T12:48:15.413897+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
+      "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nNo proof of AI in North Korean hackers move of stolen Binance funds\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-02T12:48:15.413917+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows",
+      "title": "OKX draws $445M in net inflows as Binance outflows exceed $7B",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nOKX draws $445M in net inflows as Binance outflows exceed $7B\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows\n\n#Binance #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-02T12:48:15.413921+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks",
+      "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nWhy stealing billions from a crypto exchange can be harder to stop than a bank theft\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-02T12:48:15.413924+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows",
+      "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs sink into October outflows with $643M exit after Binance hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows\n\n#Bitcoin #Binance #CryptoETF #CryptoSecurity #CryptoNews",
+      "added_at": "2026-11-02T12:48:15.413926+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1576,10 +1612,19 @@
       "post_id": "383805527609610",
       "post_link": "https://app.binance.com/uni-qr/cpos/383805527609610?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608": {
+      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
+      "source": "The Block",
+      "importance_score": 10,
+      "published_at": "2026-11-02T12:48:16.466997+00:00",
+      "post_id": "383928305013133",
+      "post_link": "https://app.binance.com/uni-qr/cpos/383928305013133?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-02T04:28:41.490671+00:00",
+  "last_run_at": "2026-11-02T12:48:16.469873+00:00",
   "last_run_published_count": 1
 }
