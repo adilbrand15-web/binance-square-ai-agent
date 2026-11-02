@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T12:47:44.815015+00:00",
+  "updated_at": "2026-11-02T22:09:06.611013+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -3721,6 +3721,146 @@
       "score": 10,
       "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
       "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote": {
+      "processed_at": "2026-11-02T22:09:06.609984+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Big crypto wants the one thing it can’t buy: your vote",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain": {
+      "processed_at": "2026-11-02T22:09:06.610033+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally": {
+      "processed_at": "2026-11-02T22:09:06.610145+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331": {
+      "processed_at": "2026-11-02T22:09:06.610204+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze": {
+      "processed_at": "2026-11-02T22:09:06.610275+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval": {
+      "processed_at": "2026-11-02T22:09:06.610311+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says": {
+      "processed_at": "2026-11-02T22:09:06.610344+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails": {
+      "processed_at": "2026-11-02T22:09:06.610413+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "NYSE tokenized stock plans take shape as four more transfer agents join",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans": {
+      "processed_at": "2026-11-02T22:09:06.610492+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients": {
+      "processed_at": "2026-11-02T22:09:06.610524+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/02/morgan-stanley-downgrades-coinbase-slashes-price-target-53-on-weak-earnings-outlook": {
+      "processed_at": "2026-11-02T22:09:06.610652+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Coinbase downgraded at Morgan Stanley; price target slashed 53% on weak earnings outlook",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/01/tokenization-firm-tzero-plans-to-go-public-in-usd350-million-spac-deal": {
+      "processed_at": "2026-11-02T22:09:06.610686+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Tokenization firm tZERO plans to go public in $350 million SPAC deal",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin": {
+      "processed_at": "2026-11-02T22:09:06.610717+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-02-we-found-room-for-even-more-orange-michael-saylor-strategy-bitcoin-btc-432275": {
+      "processed_at": "2026-11-02T22:09:06.610828+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "‘We found room for even more orange’: Michael Saylor’s Strategy scoops up another 811 bitcoin for $65.5 million",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews": {
+      "processed_at": "2026-11-02T22:09:06.610866+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "FATF targets crypto hubs in review of money laundering controls",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan": {
+      "processed_at": "2026-11-02T22:09:06.610952+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens": {
+      "processed_at": "2026-11-02T22:09:06.610973+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333": {
+      "processed_at": "2026-11-02T22:09:06.610992+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/mercado-bitcoin-hack": {
+      "processed_at": "2026-11-02T22:09:06.611004+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321": {
+      "processed_at": "2026-11-02T22:09:06.611012+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
+      "source": "The Block"
     }
   }
 }
