@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
-      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-      "source": "CoinDesk",
-      "importance_score": 7,
-      "post_text": "📰 Crypto News Update\n\nBitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-24T20:14:05.036061+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest",
       "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
       "source": "Cointelegraph",
@@ -989,6 +980,51 @@
       "post_text": "📰 Crypto News Update\n\nBinance completes latest proof of reserves as it works to restore assets, withdrawals after record hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-02T22:10:17.587813+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack",
+      "title": "South Korea urges exchanges to boost cold storage after Binance hack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nSouth Korea urges exchanges to boost cold storage after Binance hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-03T03:35:47.413516+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344",
+      "title": "Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nKim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-03T03:35:47.413529+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us",
+      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nNorth Korea denies role in $6.3B Binance hack, points finger at US\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-03T03:35:47.413533+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack",
+      "title": "Binance begins second withdrawal phase, exchange outflows slow",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nBinance begins second withdrawal phase, exchange outflows slow\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack\n\n#Binance #CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-03T03:35:47.413535+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/new-jersey-coinbase-staking",
+      "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nNew Jersey drops Coinbase staking order ahead of crypto’s midterm test\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/new-jersey-coinbase-staking\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-03T03:35:47.413537+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1666,10 +1702,19 @@
       "post_id": "384066430865986",
       "post_link": "https://app.binance.com/uni-qr/cpos/384066430865986?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo": {
+      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+      "source": "CoinDesk",
+      "importance_score": 7,
+      "published_at": "2026-11-03T03:35:48.394987+00:00",
+      "post_id": "384146424925483",
+      "post_link": "https://app.binance.com/uni-qr/cpos/384146424925483?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-02T22:10:18.611420+00:00",
+  "last_run_at": "2026-11-03T03:35:48.397561+00:00",
   "last_run_published_count": 1
 }
