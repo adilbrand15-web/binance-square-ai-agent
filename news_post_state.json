@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T22:09:06.611013+00:00",
+  "updated_at": "2026-11-03T03:35:31.010746+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -3861,6 +3861,41 @@
       "score": 10,
       "title": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
       "source": "The Block"
+    },
+    "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack": {
+      "processed_at": "2026-11-03T03:35:31.010680+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "South Korea urges exchanges to boost cold storage after Binance hack",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344": {
+      "processed_at": "2026-11-03T03:35:31.010711+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us": {
+      "processed_at": "2026-11-03T03:35:31.010723+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack": {
+      "processed_at": "2026-11-03T03:35:31.010731+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Binance begins second withdrawal phase, exchange outflows slow",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/new-jersey-coinbase-staking": {
+      "processed_at": "2026-11-03T03:35:31.010745+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
+      "source": "Cointelegraph"
     }
   }
 }
