@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
-      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-      "source": "CoinDesk",
-      "importance_score": 8,
-      "post_text": "📰 Crypto News Update\n\nBitcoin slips under $80,000 as traders de-risk ahead of Fed meeting\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 8/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting\n\n#Bitcoin #FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-26T07:25:12.573817+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/business/2026-10-26-strive-closes-in-second-largest-corporate-bitcoin-treasury-511-million-purchase-431729",
       "title": "Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase",
       "source": "The Block",
@@ -1061,6 +1052,51 @@
       "post_text": "📰 Crypto News Update\n\nBlackRock’s IBIT sees biggest Bitcoin ETF outflows since June\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-03T11:37:39.388637+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
+      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nSouth Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack\n\n#Binance #CryptoRegulation #CryptoSecurity #CryptoNews #Cryptocurrency",
+      "added_at": "2026-11-03T19:03:37.341603+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen",
+      "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nWall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-03T19:03:37.341622+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack",
+      "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance traces $6.3B hack to fake job interviews, compromised AI tool\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-03T19:03:37.341627+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says",
+      "title": "Binance's $6.3 billion hack began with a fake job interview, and a campaign 'built over many months'",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance's $6.3 billion hack began with a fake job interview, and a campaign 'built over many months'\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-03T19:03:37.341630+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them",
+      "title": "South Korea asks its biggest banks how a major crypto hack would hit them",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nSouth Korea asks its biggest banks how a major crypto hack would hit them\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-03T19:03:37.341633+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1756,10 +1792,19 @@
       "post_id": "384264848112715",
       "post_link": "https://app.binance.com/uni-qr/cpos/384264848112715?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting": {
+      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+      "source": "CoinDesk",
+      "importance_score": 8,
+      "published_at": "2026-11-03T19:03:38.361745+00:00",
+      "post_id": "384374449053081",
+      "post_link": "https://app.binance.com/uni-qr/cpos/384374449053081?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-03T11:37:40.305760+00:00",
+  "last_run_at": "2026-11-03T19:03:38.365108+00:00",
   "last_run_published_count": 1
 }
