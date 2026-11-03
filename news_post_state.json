@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T11:37:21.465168+00:00",
+  "updated_at": "2026-11-03T19:02:52.393567+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -4022,6 +4022,125 @@
       "score": 10,
       "title": "BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June",
       "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties": {
+      "processed_at": "2026-11-03T19:02:52.392044+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms": {
+      "processed_at": "2026-11-03T19:02:52.392294+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool": {
+      "processed_at": "2026-11-03T19:02:52.392346+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock": {
+      "processed_at": "2026-11-03T19:02:52.392451+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422": {
+      "processed_at": "2026-11-03T19:02:52.392496+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street": {
+      "processed_at": "2026-11-03T19:02:52.392589+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/03/lo-tech-raises-usd12-million-to-expand-crypto-trading-into-u-s-and-asia": {
+      "processed_at": "2026-11-03T19:02:52.392848+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "LO:TECH raises $12 million to expand crypto trading into U.S. and Asia",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day": {
+      "processed_at": "2026-11-03T19:02:52.392950+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "What’s at stake for crypto as the US votes in the 2026 midterms?",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december": {
+      "processed_at": "2026-11-03T19:02:52.393001+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/near-sinks-7-proposal-cut-annual-token-issuance-passes": {
+      "processed_at": "2026-11-03T19:02:52.393091+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "NEAR token sinks 7% as proposal to cut annual token issuance passes",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014": {
+      "processed_at": "2026-11-03T19:02:52.393129+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin is breaking a midterm election pattern going back to 2014",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero": {
+      "processed_at": "2026-11-03T19:02:52.393237+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack": {
+      "processed_at": "2026-11-03T19:02:52.393484+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen": {
+      "processed_at": "2026-11-03T19:02:52.393514+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack": {
+      "processed_at": "2026-11-03T19:02:52.393531+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says": {
+      "processed_at": "2026-11-03T19:02:52.393546+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance's $6.3 billion hack began with a fake job interview, and a campaign 'built over many months'",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them": {
+      "processed_at": "2026-11-03T19:02:52.393564+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "South Korea asks its biggest banks how a major crypto hack would hit them",
+      "source": "CoinDesk"
     }
   }
 }
