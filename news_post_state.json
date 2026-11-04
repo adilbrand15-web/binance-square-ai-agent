@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T19:02:52.393567+00:00",
+  "updated_at": "2026-11-04T00:04:09.881852+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -4141,6 +4141,69 @@
       "score": 10,
       "title": "South Korea asks its biggest banks how a major crypto hack would hit them",
       "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto": {
+      "processed_at": "2026-11-04T00:04:09.881253+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "What voters said about their views on crypto",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto": {
+      "processed_at": "2026-11-04T00:04:09.881328+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "US midterms election 2026 live: What they mean for crypto",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version": {
+      "processed_at": "2026-11-04T00:04:09.881439+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492": {
+      "processed_at": "2026-11-04T00:04:09.881487+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "SEC division views Canton Coin as digital commodity in no-action letter",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/spacex-tokenization-okxice": {
+      "processed_at": "2026-11-04T00:04:09.881574+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges": {
+      "processed_at": "2026-11-04T00:04:09.881690+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "CFTC clears stock perpetual futures for trading on US exchanges",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/us-midterm-prediction-markets": {
+      "processed_at": "2026-11-04T00:04:09.881741+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "US midterms: Prediction markets favor Democrats in key crypto races",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next": {
+      "processed_at": "2026-11-04T00:04:09.881827+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "What happens if North Korea steals Wall Street's tokenized assets next",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458": {
+      "processed_at": "2026-11-04T00:04:09.881849+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
+      "source": "The Block"
     }
   }
 }
