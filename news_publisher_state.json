@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-      "title": "OCC calls on community banks to enter the stablecoin payments market",
-      "source": "CoinDesk",
-      "importance_score": 7,
-      "post_text": "📰 Crypto News Update\n\nOCC calls on community banks to enter the stablecoin payments market\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 7/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-26T20:05:05.436827+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
       "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
       "source": "CoinDesk",
@@ -1169,6 +1160,33 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-04T15:05:38.939350+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
+      "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030\n\n#Bitcoin #Binance #CryptoSecurity #CryptoNews #Cryptocurrency",
+      "added_at": "2026-11-04T21:24:02.719937+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
+      "title": "Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nCoinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880\n\n#Binance #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-04T21:24:02.719955+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
+      "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
+      "source": "CoinDesk",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nWall Street rethinks AI data center boom as Texas election raises new risks\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom\n\n#Ethereum #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-04T21:24:02.719960+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1900,10 +1918,19 @@
       "post_id": "384669858752465",
       "post_link": "https://app.binance.com/uni-qr/cpos/384669858752465?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market": {
+      "title": "OCC calls on community banks to enter the stablecoin payments market",
+      "source": "CoinDesk",
+      "importance_score": 7,
+      "published_at": "2026-11-04T21:24:05.487271+00:00",
+      "post_id": "unavailable",
+      "post_link": "unavailable",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-04T15:05:39.849066+00:00",
+  "last_run_at": "2026-11-04T21:24:05.490966+00:00",
   "last_run_published_count": 1
 }
