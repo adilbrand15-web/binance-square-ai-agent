@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T15:05:18.737028+00:00",
+  "updated_at": "2026-11-04T21:23:47.310287+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -4442,6 +4442,90 @@
       "score": 9,
       "title": "Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’",
       "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite": {
+      "processed_at": "2026-11-04T21:23:47.309537+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Crypto's powerhouse super PAC, Fairshake, found its kryptonite",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms": {
+      "processed_at": "2026-11-04T21:23:47.309662+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572": {
+      "processed_at": "2026-11-04T21:23:47.309725+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "French Hill’s race still too close to call as House flips, changing the direction of crypto legislation",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs": {
+      "processed_at": "2026-11-04T21:23:47.309776+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income": {
+      "processed_at": "2026-11-04T21:23:47.309837+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878": {
+      "processed_at": "2026-11-04T21:23:47.309937+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin": {
+      "processed_at": "2026-11-04T21:23:47.309992+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result": {
+      "processed_at": "2026-11-04T21:23:47.310083+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes": {
+      "processed_at": "2026-11-04T21:23:47.310149+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030": {
+      "processed_at": "2026-11-04T21:23:47.310231+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880": {
+      "processed_at": "2026-11-04T21:23:47.310264+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom": {
+      "processed_at": "2026-11-04T21:23:47.310284+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
+      "source": "CoinDesk"
     }
   }
 }
