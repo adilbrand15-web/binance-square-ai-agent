@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
-      "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
-      "source": "CoinDesk",
-      "importance_score": 7,
-      "post_text": "📰 Crypto News Update\n\nTom Lee's Bitmine favors share buybacks to ether purchases as crypto declines\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines\n\n#Ethereum #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-26T20:05:05.436825+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
       "title": "OCC calls on community banks to enter the stablecoin payments market",
       "source": "CoinDesk",
@@ -1133,6 +1124,51 @@
       "post_text": "📰 Crypto News Update\n\nRUNE rallies 15% as THORChain restarts most swaps after halt\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage\n\n#CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-04T06:50:46.529984+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
+      "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nTHORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-04T15:05:38.939319+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/crypto-market-recovery-grayscale-binance-hack-temporary-setback",
+      "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/crypto-market-recovery-grayscale-binance-hack-temporary-setback\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-04T15:05:38.939336+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain",
+      "title": "Binance hackers move 81% of stolen Solana, route funds via THORChain",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance hackers move 81% of stolen Solana, route funds via THORChain\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain\n\n#Binance #Solana #CryptoSecurity #CryptoNews #Cryptocurrency",
+      "added_at": "2026-11-04T15:05:38.939341+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep",
+      "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin bounces from 7-week low under $76K as Democrats sweep Congress\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-04T15:05:38.939347+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off",
+      "title": "Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-04T15:05:38.939350+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1855,10 +1891,19 @@
       "post_id": "384548239615959",
       "post_link": "https://app.binance.com/uni-qr/cpos/384548239615959?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines": {
+      "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+      "source": "CoinDesk",
+      "importance_score": 7,
+      "published_at": "2026-11-04T15:05:39.845612+00:00",
+      "post_id": "384669858752465",
+      "post_link": "https://app.binance.com/uni-qr/cpos/384669858752465?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-04T06:50:47.699517+00:00",
+  "last_run_at": "2026-11-04T15:05:39.849066+00:00",
   "last_run_published_count": 1
 }
