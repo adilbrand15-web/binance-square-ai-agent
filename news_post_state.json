@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T06:50:30.166074+00:00",
+  "updated_at": "2026-11-04T15:05:18.737028+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -4308,6 +4308,139 @@
       "status": "draft_created",
       "score": 6,
       "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues": {
+      "processed_at": "2026-11-04T15:05:18.735814+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "The election changes Washington. The work on crypto continues",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide": {
+      "processed_at": "2026-11-04T15:05:18.735896+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/france-approves-amendment-self-custodied-crypto-wallets-100k": {
+      "processed_at": "2026-11-04T15:05:18.735948+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "France backs reporting for self-custodied crypto worth 100K euros or more",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-04-circle-reports-865-million-in-q3-revenue-and-reserve-income-discloses-5-workforce-reduction-432671": {
+      "processed_at": "2026-11-04T15:05:18.735997+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Circle reports $865 million in Q3 revenue and reserve income, discloses 5% workforce reduction",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana": {
+      "processed_at": "2026-11-04T15:05:18.736088+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity": {
+      "processed_at": "2026-11-04T15:05:18.736218+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-04-bitgo-launches-institutional-trading-and-financial-solutions-business-led-by-former-nydig-executive-432646": {
+      "processed_at": "2026-11-04T15:05:18.736269+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "BitGo launches institutional trading and financial solutions business led by former NYDIG executive",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/learn/defi/defi-explained-432391": {
+      "processed_at": "2026-11-04T15:05:18.736374+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "DeFi Explained",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains": {
+      "processed_at": "2026-11-04T15:05:18.736418+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft": {
+      "processed_at": "2026-11-04T15:05:18.736516+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633": {
+      "processed_at": "2026-11-04T15:05:18.736614+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC’s service",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain": {
+      "processed_at": "2026-11-04T15:05:18.736665+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Morgan Stanley says it is among the first banks to tokenize real world assets",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards": {
+      "processed_at": "2026-11-04T15:05:18.736755+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/democrats-win-us-house-congress-control": {
+      "processed_at": "2026-11-04T15:05:18.736808+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Democrats win US House to secure control of Congress in midterms",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot": {
+      "processed_at": "2026-11-04T15:05:18.736949+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/crypto-market-recovery-grayscale-binance-hack-temporary-setback": {
+      "processed_at": "2026-11-04T15:05:18.736974+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain": {
+      "processed_at": "2026-11-04T15:05:18.736989+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance hackers move 81% of stolen Solana, route funds via THORChain",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep": {
+      "processed_at": "2026-11-04T15:05:18.737007+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off": {
+      "processed_at": "2026-11-04T15:05:18.737026+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’",
       "source": "Cointelegraph"
     }
   }
