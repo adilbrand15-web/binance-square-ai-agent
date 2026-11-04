@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million",
-      "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
-      "source": "Cointelegraph",
-      "importance_score": 9,
-      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs break 2-week outflow streak with $301M comeback\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-26T20:05:05.436821+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
       "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
       "source": "CoinDesk",
@@ -1106,6 +1097,42 @@
       "post_text": "📰 Crypto News Update\n\nCZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458\n\n#Binance #CryptoRegulation #CryptoSecurity #CryptoNews #Cryptocurrency",
       "added_at": "2026-11-04T00:04:28.426016+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
+      "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nJack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%\n\nWhy it matters: This market development may be relevant to volatility, liquidity, and trader sentiment.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-04T06:50:46.529956+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607",
+      "title": "French bank Crédit Mutuel Arkéa exploited for over $133 million, ZachXBT says",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nFrench bank Crédit Mutuel Arkéa exploited for over $133 million, ZachXBT says\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-04T06:50:46.529974+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
+      "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
+      "source": "CoinDesk",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nU.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december\n\n#Bitcoin #Ethereum #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-04T06:50:46.529981+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage",
+      "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nRUNE rallies 15% as THORChain restarts most swaps after halt\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-04T06:50:46.529984+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1819,10 +1846,19 @@
       "post_id": "384448387031383",
       "post_link": "https://app.binance.com/uni-qr/cpos/384448387031383?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million": {
+      "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "published_at": "2026-11-04T06:50:47.696216+00:00",
+      "post_id": "384548239615959",
+      "post_link": "https://app.binance.com/uni-qr/cpos/384548239615959?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-04T00:04:29.595357+00:00",
+  "last_run_at": "2026-11-04T06:50:47.699517+00:00",
   "last_run_published_count": 1
 }
