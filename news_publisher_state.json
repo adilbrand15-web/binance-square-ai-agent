@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank",
-      "title": "Ripple wins final US approval for national trust bank",
-      "source": "Cointelegraph",
-      "importance_score": 9,
-      "post_text": "📰 Crypto News Update\n\nRipple wins final US approval for national trust bank\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank\n\n#CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-27T04:48:04.661305+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine",
       "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
       "source": "Cointelegraph",
@@ -1268,6 +1259,51 @@
       "post_text": "📰 Crypto News Update\n\nMercado Bitcoin hack continued hours after exchange said attack was contained, report finds\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds\n\n#Bitcoin #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-05T17:13:44.390603+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express",
+      "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nAsian crypto exchanges batten down the hatches as hacks surge: Asia Express\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-05T22:45:51.527939+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
+      "title": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations\n\nWhy it matters: This market development may be relevant to volatility, liquidity, and trader sentiment.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-05T22:45:51.527955+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks",
+      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nFed, OCC check US banks after Binance hack as experts flag security risks\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks\n\n#Binance #CryptoRegulation #CryptoSecurity #FederalReserve #CryptoNews",
+      "added_at": "2026-11-05T22:45:51.527959+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433",
+      "title": "Base deploys Denim upgrade on mainnet, replacing Flashblocks with 200ms block times",
+      "source": "The Block",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nBase deploys Denim upgrade on mainnet, replacing Flashblocks with 200ms block times\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-05T22:45:51.527962+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum",
+      "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
+      "source": "Cointelegraph",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nEurope’s largest asset manager Amundi tokenizes equity index fund on Ethereum\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum\n\n#Ethereum #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-05T22:45:51.527966+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2035,10 +2071,19 @@
       "post_id": "385055233363868",
       "post_link": "https://app.binance.com/uni-qr/cpos/385055233363868?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank": {
+      "title": "Ripple wins final US approval for national trust bank",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "published_at": "2026-11-05T22:45:52.431447+00:00",
+      "post_id": "385136854283936",
+      "post_link": "https://app.binance.com/uni-qr/cpos/385136854283936?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-05T17:13:45.464541+00:00",
+  "last_run_at": "2026-11-05T22:45:52.434640+00:00",
   "last_run_published_count": 1
 }
