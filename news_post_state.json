@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T08:57:25.467077+00:00",
+  "updated_at": "2026-11-05T17:13:27.062779+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -4665,6 +4665,188 @@
       "status": "draft_created",
       "score": 6,
       "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115": {
+      "processed_at": "2026-11-05T17:13:27.061537+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Canary’s Injective ETF debuts on Nasdaq with exposure to staking rewards",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection": {
+      "processed_at": "2026-11-05T17:13:27.061591+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains": {
+      "processed_at": "2026-11-05T17:13:27.061632+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep": {
+      "processed_at": "2026-11-05T17:13:27.061665+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-11-05-payward-affiliated-fund-clients-buy-aave-token-stake-secondary-market-aave-says-434798": {
+      "processed_at": "2026-11-05T17:13:27.061757+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Payward-affiliated fund and clients buy AAVE token stake on secondary market",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523": {
+      "processed_at": "2026-11-05T17:13:27.061839+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push": {
+      "processed_at": "2026-11-05T17:13:27.061875+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/blockchain-is-perfect-solution-for-ai-agent-trust-vechain-ceo-says": {
+      "processed_at": "2026-11-05T17:13:27.061915+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults": {
+      "processed_at": "2026-11-05T17:13:27.061961+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts": {
+      "processed_at": "2026-11-05T17:13:27.061996+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns": {
+      "processed_at": "2026-11-05T17:13:27.062036+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/scaramucci-trump-memecoins-clarity-act-failure": {
+      "processed_at": "2026-11-05T17:13:27.062074+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Trump’s memecoin ventures derailed CLARITY Act, Scaramucci says",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid": {
+      "processed_at": "2026-11-05T17:13:27.062104+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck": {
+      "processed_at": "2026-11-05T17:13:27.062141+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitcoin miners are oversold following 35% October rout, VanEck says",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026": {
+      "processed_at": "2026-11-05T17:13:27.062188+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading": {
+      "processed_at": "2026-11-05T17:13:27.062229+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Thailand to block Bitget in December over unlicensed crypto trading",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep": {
+      "processed_at": "2026-11-05T17:13:27.062304+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Live updates: Bitcoin plunges as Nasdaq falls 4% in panicky selloff",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains": {
+      "processed_at": "2026-11-05T17:13:27.062397+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/11/05/bitcoin-miner-riot-could-pay-anthropic-12-interest-under-usd28-billion-ai-deal": {
+      "processed_at": "2026-11-05T17:13:27.062457+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029": {
+      "processed_at": "2026-11-05T17:13:27.062502+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments": {
+      "processed_at": "2026-11-05T17:13:27.062547+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "France budget rejection sidelines stablecoin tax, wallet reporting",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist": {
+      "processed_at": "2026-11-05T17:13:27.062710+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s": {
+      "processed_at": "2026-11-05T17:13:27.062733+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound": {
+      "processed_at": "2026-11-05T17:13:27.062751+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437": {
+      "processed_at": "2026-11-05T17:13:27.062766+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Anchorage Digital seeks CFTC swap dealer registration for crypto options business",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds": {
+      "processed_at": "2026-11-05T17:13:27.062777+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
       "source": "CoinDesk"
     }
   }
