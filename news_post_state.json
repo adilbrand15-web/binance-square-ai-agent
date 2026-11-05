@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T01:38:19.700618+00:00",
+  "updated_at": "2026-11-05T08:57:25.467077+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -4574,6 +4574,97 @@
       "status": "draft_created",
       "score": 7,
       "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413": {
+      "processed_at": "2026-11-05T08:57:25.466256+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Eric Trump’s American Bitcoin swings to $126 million profit in Q3 on digital asset gains",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/policy/2026/11/04/hong-kong-passes-law-requiring-crypto-exchanges-to-report-customer-transactions-to-tax-authorities": {
+      "processed_at": "2026-11-05T08:57:25.466329+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-05-arkansas-sues-kalshi-434407": {
+      "processed_at": "2026-11-05T08:57:25.466381+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Arkansas sues Kalshi, says its alleged illegal gambling operations cause mental harm",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/tech/2026/11/05/openai-says-its-ai-can-break-into-linux-at-scale-here-s-what-it-means-for-crypto": {
+      "processed_at": "2026-11-05T08:57:25.466434+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "OpenAI says its AI can break into Linux at scale. Here's what it means for crypto",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one": {
+      "processed_at": "2026-11-05T08:57:25.466525+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "The pile of lawsuits against Kalshi just grew by one",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens": {
+      "processed_at": "2026-11-05T08:57:25.466573+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound": {
+      "processed_at": "2026-11-05T08:57:25.466655+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep": {
+      "processed_at": "2026-11-05T08:57:25.466719+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-04-digital-chamber-sherrod-brown-win-434371": {
+      "processed_at": "2026-11-05T08:57:25.466773+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "The Digital Chamber calls Sherrod Brown’s win ‘most consequential unfavorable result’ for crypto",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed": {
+      "processed_at": "2026-11-05T08:57:25.467005+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery": {
+      "processed_at": "2026-11-05T08:57:25.467028+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372": {
+      "processed_at": "2026-11-05T08:57:25.467046+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Crédit Mutuel Arkéa confirms cyberattack after ZachXBT flags $133M in suspected losses",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show": {
+      "processed_at": "2026-11-05T08:57:25.467074+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
       "source": "CoinDesk"
     }
   }
