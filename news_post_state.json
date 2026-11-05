@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T17:13:27.062779+00:00",
+  "updated_at": "2026-11-05T22:45:33.488025+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -4848,6 +4848,62 @@
       "score": 9,
       "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
       "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas": {
+      "processed_at": "2026-11-05T22:45:33.487634+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Crypto ally French Hill wins reelection but set to lose House chair",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack": {
+      "processed_at": "2026-11-05T22:45:33.487730+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full": {
+      "processed_at": "2026-11-05T22:45:33.487821+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express": {
+      "processed_at": "2026-11-05T22:45:33.487965+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434": {
+      "processed_at": "2026-11-05T22:45:33.487983+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks": {
+      "processed_at": "2026-11-05T22:45:33.487996+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433": {
+      "processed_at": "2026-11-05T22:45:33.488008+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Base deploys Denim upgrade on mainnet, replacing Flashblocks with 200ms block times",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum": {
+      "processed_at": "2026-11-05T22:45:33.488024+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
+      "source": "Cointelegraph"
     }
   }
 }
