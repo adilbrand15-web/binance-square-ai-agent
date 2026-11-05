@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T21:23:47.310287+00:00",
+  "updated_at": "2026-11-05T01:38:19.700618+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -4525,6 +4525,55 @@
       "status": "draft_created",
       "score": 6,
       "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses": {
+      "processed_at": "2026-11-05T01:38:19.700075+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/crypto-superpac-midterms": {
+      "processed_at": "2026-11-05T01:38:19.700323+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Crypto PACs eye 2028 ‘new map’ as Democrats take Congress",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362": {
+      "processed_at": "2026-11-05T01:38:19.700374+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1": {
+      "processed_at": "2026-11-05T01:38:19.700431+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead": {
+      "processed_at": "2026-11-05T01:38:19.700557+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring": {
+      "processed_at": "2026-11-05T01:38:19.700592+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty": {
+      "processed_at": "2026-11-05T01:38:19.700616+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
       "source": "CoinDesk"
     }
   }
