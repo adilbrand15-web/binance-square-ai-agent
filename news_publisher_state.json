@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "importance_score": 9,
-      "post_text": "📰 Crypto News Update\n\nHere’s what happened in crypto today\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/what-happened-in-crypto-today\n\n#CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-26T23:59:00.378230+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810",
       "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
       "source": "The Block",
@@ -1205,6 +1196,42 @@
       "post_text": "📰 Crypto News Update\n\nTokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-05T01:38:40.410607+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed",
+      "title": "India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nIndia warns AI-powered hackers targeting crypto exchanges at ‘machine speed’\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-05T08:57:43.586143+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery",
+      "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nBinance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery\n\n#Binance #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-05T08:57:43.586158+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372",
+      "title": "Crédit Mutuel Arkéa confirms cyberattack after ZachXBT flags $133M in suspected losses",
+      "source": "The Block",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nCrédit Mutuel Arkéa confirms cyberattack after ZachXBT flags $133M in suspected losses\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 7/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-05T08:57:43.586163+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
+      "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+      "source": "CoinDesk",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nTrump Media moves $342 million in bitcoin to Crypto.com, blockchain data show\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-05T08:57:43.586166+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1954,10 +1981,19 @@
       "post_id": "384825433323332",
       "post_link": "https://app.binance.com/uni-qr/cpos/384825433323332?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/what-happened-in-crypto-today": {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "published_at": "2026-11-05T08:57:44.970290+00:00",
+      "post_id": "384933334501735",
+      "post_link": "https://app.binance.com/uni-qr/cpos/384933334501735?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-05T01:38:41.933334+00:00",
+  "last_run_at": "2026-11-05T08:57:44.982369+00:00",
   "last_run_published_count": 1
 }
