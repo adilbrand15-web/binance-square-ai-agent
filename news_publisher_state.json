@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
-      "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-      "source": "CoinDesk",
-      "importance_score": 6,
-      "post_text": "📰 Crypto News Update\n\nBitcoin holds near $80,000 as oil retreats and the Fed decision looms\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms\n\n#Bitcoin #FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-26T20:05:05.436829+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
       "title": "Here’s what happened in crypto today",
       "source": "Cointelegraph",
@@ -1187,6 +1178,33 @@
       "post_text": "📰 Crypto News Update\n\nWall Street rethinks AI data center boom as Texas election raises new risks\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom\n\n#Ethereum #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-04T21:24:02.719960+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
+      "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nCrypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-05T01:38:40.410586+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring",
+      "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitMart founder says security team ‘severely understaffed’ after new hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring\n\n#CryptoRegulation #CryptoSecurity #FederalReserve #CryptoNews #Cryptocurrency",
+      "added_at": "2026-11-05T01:38:40.410603+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
+      "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+      "source": "CoinDesk",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nTokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-05T01:38:40.410607+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -1927,10 +1945,19 @@
       "post_id": "unavailable",
       "post_link": "unavailable",
       "attempts": 1
+    },
+    "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms": {
+      "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
+      "source": "CoinDesk",
+      "importance_score": 6,
+      "published_at": "2026-11-05T01:38:41.920653+00:00",
+      "post_id": "384825433323332",
+      "post_link": "https://app.binance.com/uni-qr/cpos/384825433323332?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-04T21:24:05.490966+00:00",
+  "last_run_at": "2026-11-05T01:38:41.933334+00:00",
   "last_run_published_count": 1
 }
