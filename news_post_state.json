@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T22:45:33.488025+00:00",
+  "updated_at": "2026-11-06T03:10:27.879081+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -4904,6 +4904,34 @@
       "score": 7,
       "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
       "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc": {
+      "processed_at": "2026-11-06T03:10:27.878900+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges": {
+      "processed_at": "2026-11-06T03:10:27.878953+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai": {
+      "processed_at": "2026-11-06T03:10:27.879002+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform": {
+      "processed_at": "2026-11-06T03:10:27.879078+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+      "source": "CoinDesk"
     }
   }
 }
