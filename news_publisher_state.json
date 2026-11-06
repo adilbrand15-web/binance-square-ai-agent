@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine",
-      "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
-      "source": "Cointelegraph",
-      "importance_score": 7,
-      "post_text": "📰 Crypto News Update\n\nKeystone breach deepens: Hackers stole key used to verify wallets as genuine\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-27T04:48:04.661312+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
       "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
       "source": "The Block",
@@ -1304,6 +1295,15 @@
       "post_text": "📰 Crypto News Update\n\nEurope’s largest asset manager Amundi tokenizes equity index fund on Ethereum\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum\n\n#Ethereum #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-05T22:45:51.527966+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
+      "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+      "source": "CoinDesk",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nHyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-06T03:10:50.417676+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2080,10 +2080,19 @@
       "post_id": "385136854283936",
       "post_link": "https://app.binance.com/uni-qr/cpos/385136854283936?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine": {
+      "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+      "source": "Cointelegraph",
+      "importance_score": 7,
+      "published_at": "2026-11-06T03:10:51.698210+00:00",
+      "post_id": "385201977661720",
+      "post_link": "https://app.binance.com/uni-qr/cpos/385201977661720?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-05T22:45:52.434640+00:00",
+  "last_run_at": "2026-11-06T03:10:51.705336+00:00",
   "last_run_published_count": 1
 }
