@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline",
-      "title": "Binance files for Brazil crypto license ahead of Friday deadline",
-      "source": "Cointelegraph",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nBinance files for Brazil crypto license ahead of Friday deadline\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline\n\n#Binance #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-27T10:12:37.074487+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k",
       "title": "Bitcoin ETFs claw back $110M after $774M exit",
       "source": "Cointelegraph",
@@ -1340,6 +1331,51 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin recovers $76,000 level as ETFs shed $430 million after tech rout\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-06T11:19:20.636775+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
+      "title": "Elliptic says Binance hackers swap stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nElliptic says Binance hackers swap stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930\n\n#Bitcoin #Binance #CryptoSecurity #CryptoNews #Cryptocurrency",
+      "added_at": "2026-11-06T18:13:43.388494+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance",
+      "title": "Binance hackers had 8-week intrusion window before $6.3B exploit: SEAL",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance hackers had 8-week intrusion window before $6.3B exploit: SEAL\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-06T18:13:43.388529+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock",
+      "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nBitcoin price dips under $75K as crypto markets miss tech-stock rebound\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-06T18:13:43.388534+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing",
+      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nNigeria sets new crypto licensing rules, bans algorithmic stablecoins\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-06T18:13:43.388537+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
+      "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
+      "source": "CoinDesk",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nBitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-06T18:13:43.388540+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2134,10 +2170,19 @@
       "post_id": "385322031969524",
       "post_link": "https://app.binance.com/uni-qr/cpos/385322031969524?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline": {
+      "title": "Binance files for Brazil crypto license ahead of Friday deadline",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "published_at": "2026-11-06T18:13:44.325492+00:00",
+      "post_id": "385423868689374",
+      "post_link": "https://app.binance.com/uni-qr/cpos/385423868689374?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-06T11:19:21.853346+00:00",
+  "last_run_at": "2026-11-06T18:13:44.329353+00:00",
   "last_run_published_count": 1
 }
