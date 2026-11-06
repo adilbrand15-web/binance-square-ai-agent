@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T11:19:00.473079+00:00",
+  "updated_at": "2026-11-06T18:13:24.427178+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -5022,6 +5022,125 @@
       "status": "draft_created",
       "score": 6,
       "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts": {
+      "processed_at": "2026-11-06T18:13:24.426189+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907": {
+      "processed_at": "2026-11-06T18:13:24.426254+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Strive’s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story": {
+      "processed_at": "2026-11-06T18:13:24.426307+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty": {
+      "processed_at": "2026-11-06T18:13:24.426361+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress": {
+      "processed_at": "2026-11-06T18:13:24.426413+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885": {
+      "processed_at": "2026-11-06T18:13:24.426504+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "TeraWulf’s bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks": {
+      "processed_at": "2026-11-06T18:13:24.426623+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-11-06-hypercall-anthropic-linked-pre-ipo-options-market-435453": {
+      "processed_at": "2026-11-06T18:13:24.426666+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Hypercall to launch first Anthropic-linked pre-IPO options market",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market": {
+      "processed_at": "2026-11-06T18:13:24.426743+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion": {
+      "processed_at": "2026-11-06T18:13:24.426794+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite": {
+      "processed_at": "2026-11-06T18:13:24.426835+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted": {
+      "processed_at": "2026-11-06T18:13:24.427023+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930": {
+      "processed_at": "2026-11-06T18:13:24.427108+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Elliptic says Binance hackers swap stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance": {
+      "processed_at": "2026-11-06T18:13:24.427126+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance hackers had 8-week intrusion window before $6.3B exploit: SEAL",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock": {
+      "processed_at": "2026-11-06T18:13:24.427146+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing": {
+      "processed_at": "2026-11-06T18:13:24.427160+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff": {
+      "processed_at": "2026-11-06T18:13:24.427176+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
       "source": "CoinDesk"
     }
   }
