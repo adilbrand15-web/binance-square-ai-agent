@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k",
-      "title": "Bitcoin ETFs claw back $110M after $774M exit",
-      "source": "Cointelegraph",
-      "importance_score": 9,
-      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs claw back $110M after $774M exit\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-27T10:12:37.074503+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
       "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
       "source": "CoinDesk",
@@ -1376,6 +1367,24 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-06T18:13:43.388540+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview",
+      "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nBinance hack is ‘cyber war,’ TRM Labs executive says\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/interview/trm-labs-binance-hack-interview\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-06T23:23:53.581157+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders",
+      "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nStrive buys 15,124 Bitcoin in October, closes in on top treasury holders\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-06T23:23:53.581170+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2179,10 +2188,19 @@
       "post_id": "385423868689374",
       "post_link": "https://app.binance.com/uni-qr/cpos/385423868689374?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k": {
+      "title": "Bitcoin ETFs claw back $110M after $774M exit",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "published_at": "2026-11-06T23:23:54.770649+00:00",
+      "post_id": "385500097088772",
+      "post_link": "https://app.binance.com/uni-qr/cpos/385500097088772?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-06T18:13:44.329353+00:00",
+  "last_run_at": "2026-11-06T23:23:54.774252+00:00",
   "last_run_published_count": 1
 }
