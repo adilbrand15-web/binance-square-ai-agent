@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T03:10:27.879081+00:00",
+  "updated_at": "2026-11-06T11:19:00.473079+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -4931,6 +4931,97 @@
       "status": "draft_created",
       "score": 6,
       "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income": {
+      "processed_at": "2026-11-06T11:19:00.472509+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps": {
+      "processed_at": "2026-11-06T11:19:00.472564+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Hyperliquid Strategies seeks futures registration for perps",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-06-kalshi-injunction-california-tribal-lands-435813": {
+      "processed_at": "2026-11-06T11:19:00.472610+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Kalshi hit with injunction over sports contracts on California tribal lands",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide": {
+      "processed_at": "2026-11-06T11:19:00.472695+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed": {
+      "processed_at": "2026-11-06T11:19:00.472737+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Chainalysis says breach exposed password hashes and live tokens",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments": {
+      "processed_at": "2026-11-06T11:19:00.472789+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight": {
+      "processed_at": "2026-11-06T11:19:00.472838+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Crypto exchanges tout cold storage ratios after Binance attack",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783": {
+      "processed_at": "2026-11-06T11:19:00.472889+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "IREN’s bitcoin mining revenue drops 58% as firm plans full exit by year-end",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls": {
+      "processed_at": "2026-11-06T11:19:00.472971+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance’s $6.3B hack leaves questions over hot wallet safeguards",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased": {
+      "processed_at": "2026-11-06T11:19:00.472995+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage": {
+      "processed_at": "2026-11-06T11:19:00.473015+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027": {
+      "processed_at": "2026-11-06T11:19:00.473031+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Greece approves 10% tax on crypto gains starting in 2027",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout": {
+      "processed_at": "2026-11-06T11:19:00.473050+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
       "source": "CoinDesk"
     }
   }
