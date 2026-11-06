@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T18:13:24.427178+00:00",
+  "updated_at": "2026-11-06T23:23:33.667502+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -5142,6 +5142,76 @@
       "score": 9,
       "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
       "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions": {
+      "processed_at": "2026-11-06T23:23:33.666896+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957": {
+      "processed_at": "2026-11-06T23:23:33.666976+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information": {
+      "processed_at": "2026-11-06T23:23:33.667039+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951": {
+      "processed_at": "2026-11-06T23:23:33.667099+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "US Treasury walks back crypto surveillance ‘travel rule’ proposal",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch": {
+      "processed_at": "2026-11-06T23:23:33.667207+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles": {
+      "processed_at": "2026-11-06T23:23:33.667258+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout": {
+      "processed_at": "2026-11-06T23:23:33.667302+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939": {
+      "processed_at": "2026-11-06T23:23:33.667346+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Trump administration moves closer to allowing crypto in 401(k) retirement plans",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/interview/trm-labs-binance-hack-interview": {
+      "processed_at": "2026-11-06T23:23:33.667476+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders": {
+      "processed_at": "2026-11-06T23:23:33.667500+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+      "source": "Cointelegraph"
     }
   }
 }
