@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T16:44:11.086624+00:00",
+  "updated_at": "2026-11-07T20:39:26.627042+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -5240,6 +5240,34 @@
       "score": 0,
       "title": "US sanctions Canadian money-exchange firms over Iran ties",
       "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end": {
+      "processed_at": "2026-11-07T20:39:26.626746+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows": {
+      "processed_at": "2026-11-07T20:39:26.626816+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets": {
+      "processed_at": "2026-11-07T20:39:26.626900+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984": {
+      "processed_at": "2026-11-07T20:39:26.627037+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+      "source": "The Block"
     }
   }
 }
