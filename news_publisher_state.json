@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
-      "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nCrypto wallet maker Keystone to destroy almost 19,000 devices after security breach\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach\n\n#CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-27T15:57:26.537910+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-lower-431838",
       "title": "Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as BTC grinds lower",
       "source": "The Block",
@@ -1358,6 +1349,15 @@
       "post_text": "📰 Crypto News Update\n\nStrive buys 15,124 Bitcoin in October, closes in on top treasury holders\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-06T23:23:53.581170+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+      "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-07T20:39:42.862362+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2197,10 +2197,19 @@
       "post_id": "385755818176157",
       "post_link": "https://app.binance.com/uni-qr/cpos/385755818176157?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach": {
+      "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-11-07T20:39:43.868257+00:00",
+      "post_id": "385813642237040",
+      "post_link": "https://app.binance.com/uni-qr/cpos/385813642237040?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-07T16:44:26.664042+00:00",
+  "last_run_at": "2026-11-07T20:39:43.871101+00:00",
   "last_run_published_count": 1
 }
