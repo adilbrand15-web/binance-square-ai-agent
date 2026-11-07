@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T10:33:19.089516+00:00",
+  "updated_at": "2026-11-07T16:44:11.086624+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -5218,6 +5218,27 @@
       "status": "ignored_low_importance",
       "score": 0,
       "title": "Nvidia may face a more hostile post-election Washington: Report",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto": {
+      "processed_at": "2026-11-07T16:44:11.086469+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it": {
+      "processed_at": "2026-11-07T16:44:11.086561+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin holders have received eCash — What can you do with it?",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties": {
+      "processed_at": "2026-11-07T16:44:11.086618+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "US sanctions Canadian money-exchange firms over Iran ties",
       "source": "Cointelegraph"
     }
   }
