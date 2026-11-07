@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn",
-      "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn",
-      "source": "Cointelegraph",
-      "importance_score": 7,
-      "post_text": "📰 Crypto News Update\n\nBloom bot hackers loot $953K faster than you can microwave popcorn\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-27T10:12:37.074511+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
       "title": "Now is the time to accumulate bitcoin, Galaxy says",
       "source": "CoinDesk",
@@ -2197,10 +2188,19 @@
       "post_id": "385553347236269",
       "post_link": "https://app.binance.com/uni-qr/cpos/385553347236269?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn": {
+      "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn",
+      "source": "Cointelegraph",
+      "importance_score": 7,
+      "published_at": "2026-11-07T10:33:36.208849+00:00",
+      "post_id": "385664680270144",
+      "post_link": "https://app.binance.com/uni-qr/cpos/385664680270144?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-07T03:00:35.308291+00:00",
+  "last_run_at": "2026-11-07T10:33:36.212966+00:00",
   "last_run_published_count": 1
 }
