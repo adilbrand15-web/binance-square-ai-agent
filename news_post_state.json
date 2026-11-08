@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T18:38:57.652886+00:00",
+  "updated_at": "2026-11-08T22:39:33.580501+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -5317,6 +5317,20 @@
       "score": 10,
       "title": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
       "source": "The Block"
+    },
+    "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto": {
+      "processed_at": "2026-11-08T22:39:33.580411+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "What the election results mean for crypto: State of Crypto",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t": {
+      "processed_at": "2026-11-08T22:39:33.580493+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Stablecoin growth has stalled. The payments boom hasn't",
+      "source": "CoinDesk"
     }
   }
 }
