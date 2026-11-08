@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
-      "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
-      "source": "CoinDesk",
-      "importance_score": 7,
-      "post_text": "📰 Crypto News Update\n\nBitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 7/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins\n\n#Bitcoin #FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-27T15:57:26.537933+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets",
       "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
       "source": "Cointelegraph",
@@ -1340,6 +1331,15 @@
       "post_text": "📰 Crypto News Update\n\nBinance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 9/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-08T00:11:42.908229+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029",
+      "title": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nWeb3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-08T18:39:11.527717+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2215,10 +2215,19 @@
       "post_id": "386066182979603",
       "post_link": "https://app.binance.com/uni-qr/cpos/386066182979603?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins": {
+      "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
+      "source": "CoinDesk",
+      "importance_score": 7,
+      "published_at": "2026-11-08T18:39:12.390241+00:00",
+      "post_id": "386137916467962",
+      "post_link": "https://app.binance.com/uni-qr/cpos/386137916467962?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-08T13:47:19.315687+00:00",
+  "last_run_at": "2026-11-08T18:39:12.395237+00:00",
   "last_run_published_count": 1
 }
