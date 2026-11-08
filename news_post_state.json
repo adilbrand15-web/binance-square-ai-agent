@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T06:28:59.283732+00:00",
+  "updated_at": "2026-11-08T13:47:00.310636+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -5282,6 +5282,27 @@
       "score": 9,
       "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
       "source": "The Block"
+    },
+    "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31": {
+      "processed_at": "2026-11-08T13:47:00.310497+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000": {
+      "processed_at": "2026-11-08T13:47:00.310577+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says": {
+      "processed_at": "2026-11-08T13:47:00.310630+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Binance’s finance chief Kaiser Ng to leave company, report says",
+      "source": "Cointelegraph"
     }
   }
 }
