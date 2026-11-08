@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets",
-      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
-      "source": "Cointelegraph",
-      "importance_score": 9,
-      "post_text": "📰 Crypto News Update\n\nRipple, Robinhood expand partnership to bring RLUSD to retail and institutional markets\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets\n\n#CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-27T20:30:53.066361+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
       "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
       "source": "CoinDesk",
@@ -2224,10 +2215,19 @@
       "post_id": "386137916467962",
       "post_link": "https://app.binance.com/uni-qr/cpos/386137916467962?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets": {
+      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "published_at": "2026-11-08T22:39:51.643703+00:00",
+      "post_id": "386197059582951",
+      "post_link": "https://app.binance.com/uni-qr/cpos/386197059582951?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-08T18:39:12.395237+00:00",
+  "last_run_at": "2026-11-08T22:39:51.646984+00:00",
   "last_run_published_count": 1
 }
