@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
-      "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
-      "source": "CoinDesk",
-      "importance_score": 7,
-      "post_text": "📰 Crypto News Update\n\nBitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 7/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp\n\n#Bitcoin #XRP #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-27T15:57:26.537930+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
       "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
       "source": "CoinDesk",
@@ -2215,10 +2206,19 @@
       "post_id": "385958527164204",
       "post_link": "https://app.binance.com/uni-qr/cpos/385958527164204?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp": {
+      "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
+      "source": "CoinDesk",
+      "importance_score": 7,
+      "published_at": "2026-11-08T13:47:19.312522+00:00",
+      "post_id": "386066182979603",
+      "post_link": "https://app.binance.com/uni-qr/cpos/386066182979603?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-08T06:29:16.190721+00:00",
+  "last_run_at": "2026-11-08T13:47:19.315687+00:00",
   "last_run_published_count": 1
 }
