@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
-      "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
-      "source": "CoinDesk",
-      "importance_score": 9,
-      "post_text": "📰 Crypto News Update\n\nBrazilian companies turned to stablecoins on election day to dodge a currency crash\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-27T20:30:53.066373+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922",
       "title": "CFTC sues Utah as battle over prediction market regulation intensifies",
       "source": "The Block",
@@ -1331,6 +1322,15 @@
       "post_text": "📰 Crypto News Update\n\nWeb3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-08T18:39:11.527717+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest",
+      "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+      "source": "Cointelegraph",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nVitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest\n\n#Ethereum #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-09T02:22:25.127285+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2224,10 +2224,19 @@
       "post_id": "386197059582951",
       "post_link": "https://app.binance.com/uni-qr/cpos/386197059582951?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash": {
+      "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+      "source": "CoinDesk",
+      "importance_score": 9,
+      "published_at": "2026-11-09T02:22:25.993345+00:00",
+      "post_id": "386251759150853",
+      "post_link": "https://app.binance.com/uni-qr/cpos/386251759150853?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-08T22:39:51.646984+00:00",
+  "last_run_at": "2026-11-09T02:22:25.997262+00:00",
   "last_run_published_count": 1
 }
