@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T22:39:33.580501+00:00",
+  "updated_at": "2026-11-09T02:22:06.719603+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -5331,6 +5331,20 @@
       "score": 3,
       "title": "Stablecoin growth has stalled. The payments boom hasn't",
       "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034": {
+      "processed_at": "2026-11-09T02:22:06.719466+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Onchain data casts doubt on insider-trading theory in NYT’s ‘suspicious’ election betting story",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest": {
+      "processed_at": "2026-11-09T02:22:06.719600+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+      "source": "Cointelegraph"
     }
   }
 }
