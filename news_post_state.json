@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T02:22:06.719603+00:00",
+  "updated_at": "2026-11-09T10:03:57.247533+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -5344,6 +5344,97 @@
       "status": "draft_created",
       "score": 7,
       "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead": {
+      "processed_at": "2026-11-09T10:03:57.246773+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "U.S. inflation, corporate earnings: Crypto Week Ahead",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline": {
+      "processed_at": "2026-11-09T10:03:57.246888+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Binance, Tether and Trump crypto firms face Senate records deadline",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile": {
+      "processed_at": "2026-11-09T10:03:57.246994+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade": {
+      "processed_at": "2026-11-09T10:03:57.247086+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Zcash devs propose another block time cut days after NU7 upgrade",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts": {
+      "processed_at": "2026-11-09T10:03:57.247140+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears": {
+      "processed_at": "2026-11-09T10:03:57.247183+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility": {
+      "processed_at": "2026-11-09T10:03:57.247292+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779": {
+      "processed_at": "2026-11-09T10:03:57.247363+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "What is Zcash (ZEC)? How shielded transactions work",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june": {
+      "processed_at": "2026-11-09T10:03:57.247451+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack": {
+      "processed_at": "2026-11-09T10:03:57.247472+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator": {
+      "processed_at": "2026-11-09T10:03:57.247493+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Coinbase gets full U.S. trust charter from federal banking regulator",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909": {
+      "processed_at": "2026-11-09T10:03:57.247514+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen": {
+      "processed_at": "2026-11-09T10:03:57.247531+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
       "source": "Cointelegraph"
     }
   }
