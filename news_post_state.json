@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T10:03:57.247533+00:00",
+  "updated_at": "2026-11-09T20:56:08.689849+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -5436,6 +5436,202 @@
       "score": 6,
       "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
       "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898": {
+      "processed_at": "2026-11-09T20:56:08.687867+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption": {
+      "processed_at": "2026-11-09T20:56:08.687928+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out": {
+      "processed_at": "2026-11-09T20:56:08.687990+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739": {
+      "processed_at": "2026-11-09T20:56:08.688045+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Ethereum Foundation, Vitalik Buterin sued over firing after ‘suicide pledge’ dispute",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal": {
+      "processed_at": "2026-11-09T20:56:08.688199+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target": {
+      "processed_at": "2026-11-09T20:56:08.688267+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees": {
+      "processed_at": "2026-11-09T20:56:08.688321+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/markets/2026-11-09-stonex-sees-upside-bullish-equiniti-deal-opens-tokenization-market-436464": {
+      "processed_at": "2026-11-09T20:56:08.688369+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "StoneX sees 97% upside for Bullish as $4.2 billion Equiniti deal opens tokenization market",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-09-river-markets-prediction-market-prime-brokerage-cftc-fcm-registration-436266": {
+      "processed_at": "2026-11-09T20:56:08.688509+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Prediction market broker River Markets registers affiliate as CFTC futures commission merchant",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/business/2026-11-09-tom-lee-bitmine-nears-ethereum-supply-target-20-million-eth-tokenization-ai-supercycle-436219": {
+      "processed_at": "2026-11-09T20:56:08.688605+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Tom Lee’s Bitmine nears 5% Ethereum supply target with $20 million ETH buy as he predicts tokenization and AI ‘supercycle’",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208": {
+      "processed_at": "2026-11-09T20:56:08.688646+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "NYSE to settle tokenized stocks on Avalanche in planned 24/7 market",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race": {
+      "processed_at": "2026-11-09T20:56:08.688731+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-11-09-connecting-the-dots-michael-saylor-strategy-bitcoin-436094": {
+      "processed_at": "2026-11-09T20:56:08.688925+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "‘Connecting the dots’: Michael Saylor’s Strategy buys another 1,036 bitcoin for $82 million as holdings top 850,000 BTC",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings": {
+      "processed_at": "2026-11-09T20:56:08.689147+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060": {
+      "processed_at": "2026-11-09T20:56:08.689229+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Formation notifies SEC to operate first tokenized securities venue on Solana",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/eu-nominations-tokenization-standards-group": {
+      "processed_at": "2026-11-09T20:56:08.689308+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "EU taps industry to set standards for tokenized securities",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors": {
+      "processed_at": "2026-11-09T20:56:08.689351+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Nvidia-led tech selloff weighs on crypto majors",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/robinhood-us-ipo-access-uk-retail-investors": {
+      "processed_at": "2026-11-09T20:56:08.689453+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Robinhood opens access to US IPOs for UK retail investors",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade": {
+      "processed_at": "2026-11-09T20:56:08.689503+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average": {
+      "processed_at": "2026-11-09T20:56:08.689545+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Live news: Bitcoin remains lower as stocks surge, crude oil tumbles",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-11-09-crypto-friendly-robinhood-brings-us-ipo-access-to-uk-retail-investors-436089": {
+      "processed_at": "2026-11-09T20:56:08.689591+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Crypto-friendly Robinhood brings US IPO access to UK retail investors",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/business/2026-11-09-trump-says-he-knows-nothing-about-uae-linked-investment-in-his-crypto-firm-436079": {
+      "processed_at": "2026-11-09T20:56:08.689637+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Trump says he knows ‘nothing’ about UAE-linked investment in his crypto firm",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week": {
+      "processed_at": "2026-11-09T20:56:08.689689+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic": {
+      "processed_at": "2026-11-09T20:56:08.689773+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase": {
+      "processed_at": "2026-11-09T20:56:08.689794+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "PNC Bank tests turning USDC payments into dollar deposits",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440": {
+      "processed_at": "2026-11-09T20:56:08.689811+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance hack launderers mint homemade Elon Musk, animal memecoins to move stolen funds: Elliptic",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules": {
+      "processed_at": "2026-11-09T20:56:08.689825+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-11-09-bitcoin-loses-50-week-moving-average-as-24-hour-crypto-long-liquidations-top-1-billion-436102": {
+      "processed_at": "2026-11-09T20:56:08.689846+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin loses 50-week moving average as 24-hour crypto long liquidations top $1 billion",
+      "source": "The Block"
     }
   }
 }
