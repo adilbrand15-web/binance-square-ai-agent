@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T20:56:08.689849+00:00",
+  "updated_at": "2026-11-10T03:14:22.723363+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -5632,6 +5632,48 @@
       "score": 10,
       "title": "Bitcoin loses 50-week moving average as 24-hour crypto long liquidations top $1 billion",
       "source": "The Block"
+    },
+    "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents": {
+      "processed_at": "2026-11-10T03:14:22.722961+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955": {
+      "processed_at": "2026-11-10T03:14:22.723063+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls": {
+      "processed_at": "2026-11-10T03:14:22.723143+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition": {
+      "processed_at": "2026-11-10T03:14:22.723215+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950": {
+      "processed_at": "2026-11-10T03:14:22.723289+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains": {
+      "processed_at": "2026-11-10T03:14:22.723356+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
+      "source": "Cointelegraph"
     }
   }
 }
