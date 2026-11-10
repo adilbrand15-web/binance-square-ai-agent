@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T11:30:10.083333+00:00",
+  "updated_at": "2026-11-10T19:19:01.875192+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -5778,6 +5778,132 @@
       "status": "draft_created",
       "score": 8,
       "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture": {
+      "processed_at": "2026-11-10T19:19:01.873833+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278": {
+      "processed_at": "2026-11-10T19:19:01.873936+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "TON Strategy earns $13.1 million from GRAM staking in Q3 as Telegram rolls out native wallet",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/polymarket-us-trading-volume-jumps-regulatory-battles": {
+      "processed_at": "2026-11-10T19:19:01.873989+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Polymarket US trading volume jumps 266% despite regulatory battles",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight": {
+      "processed_at": "2026-11-10T19:19:01.874035+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244": {
+      "processed_at": "2026-11-10T19:19:01.874130+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Alta raises $47.5 million Series A to build a blockchain for financial institutions",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249": {
+      "processed_at": "2026-11-10T19:19:01.874216+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "MEGA commits $30 million to new products, starting with AI inference",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245": {
+      "processed_at": "2026-11-10T19:19:01.874338+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Moody’s and Chainlink test cross-chain credit ratings distribution",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/business/2026-11-10-bitdeer-reports-record-q3-revenue-as-net-loss-widens-to-125-5-million-437217": {
+      "processed_at": "2026-11-10T19:19:01.874379+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitdeer reports record Q3 revenue as net loss widens to $125.5 million",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201": {
+      "processed_at": "2026-11-10T19:19:01.874428+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Visa adds Monad to stablecoin settlement network options",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/business/2026-11-10-etoros-q3-profit-plunges-74-as-weaker-crypto-trading-weighs-on-earnings-437192": {
+      "processed_at": "2026-11-10T19:19:01.874521+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "eToro’s Q3 profit plunges 74% as weaker crypto trading weighs on earnings",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets": {
+      "processed_at": "2026-11-10T19:19:01.874568+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Poland’s lower house backs sanctions bill covering crypto freezes",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177": {
+      "processed_at": "2026-11-10T19:19:01.874803+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "HIVE reports $79 million quarterly net loss as bitcoin mining revenue falls and AI business grows",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys": {
+      "processed_at": "2026-11-10T19:19:01.874926+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Binance warns iOS flaw could expose crypto wallet keys",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack": {
+      "processed_at": "2026-11-10T19:19:01.875045+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation": {
+      "processed_at": "2026-11-10T19:19:01.875090+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain": {
+      "processed_at": "2026-11-10T19:19:01.875122+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss": {
+      "processed_at": "2026-11-10T19:19:01.875155+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research": {
+      "processed_at": "2026-11-10T19:19:01.875184+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin may benefit as global tightening slows, Binance Research says",
       "source": "Cointelegraph"
     }
   }
