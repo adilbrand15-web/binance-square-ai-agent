@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
-      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
-      "source": "CoinDesk",
-      "importance_score": 9,
-      "post_text": "📰 Crypto News Update\n\nTreasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top\n\n#CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-28T00:15:13.070113+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says",
       "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
       "source": "Cointelegraph",
@@ -2278,10 +2269,19 @@
       "post_id": "386525542856095",
       "post_link": "https://app.binance.com/uni-qr/cpos/386525542856095?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top": {
+      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
+      "source": "CoinDesk",
+      "importance_score": 9,
+      "published_at": "2026-11-10T03:14:41.049276+00:00",
+      "post_id": "386618494742644",
+      "post_link": "https://app.binance.com/uni-qr/cpos/386618494742644?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-09T20:56:27.719789+00:00",
+  "last_run_at": "2026-11-10T03:14:41.051975+00:00",
   "last_run_published_count": 1
 }
