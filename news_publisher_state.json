@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says",
-      "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
-      "source": "Cointelegraph",
-      "importance_score": 8,
-      "post_text": "📰 Crypto News Update\n\nQuantum fears already limiting Bitcoin’s growth, Stacks founder says\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-28T00:15:13.070130+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure",
       "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
       "source": "Cointelegraph",
@@ -1358,6 +1349,51 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin loses 50-week moving average as 24-hour crypto long liquidations top $1 billion\n\nWhy it matters: This market development may be relevant to volatility, liquidity, and trader sentiment.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-11-09-bitcoin-loses-50-week-moving-average-as-24-hour-crypto-long-liquidations-top-1-billion-436102\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-09T20:56:26.738873+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
+      "title": "Live news: Traders price in Fed rate hike for December as bitcoin, gold retreat",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nLive news: Traders price in Fed rate hike for December as bitcoin, gold retreat\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat\n\n#Bitcoin #FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-10T11:30:29.143671+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002",
+      "title": "NEAR AI says SGLang vulnerability exposed user account details in security breach",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nNEAR AI says SGLang vulnerability exposed user account details in security breach\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002\n\n#CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-10T11:30:29.143686+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows",
+      "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-10T11:30:29.143691+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
+      "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
+      "source": "CoinDesk",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nBitcoin lags stock rebound in advance of U.S. inflation report\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 8/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-10T11:30:29.143693+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech",
+      "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nBitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech\n\n#Bitcoin #FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-10T11:30:29.143696+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2278,10 +2314,19 @@
       "post_id": "386618494742644",
       "post_link": "https://app.binance.com/uni-qr/cpos/386618494742644?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says": {
+      "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "published_at": "2026-11-10T11:30:30.174443+00:00",
+      "post_id": "386740347112133",
+      "post_link": "https://app.binance.com/uni-qr/cpos/386740347112133?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-10T03:14:41.051975+00:00",
+  "last_run_at": "2026-11-10T11:30:30.178564+00:00",
   "last_run_published_count": 1
 }
