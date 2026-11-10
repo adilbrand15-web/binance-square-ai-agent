@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure",
-      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
-      "source": "Cointelegraph",
-      "importance_score": 6,
-      "post_text": "📰 Crypto News Update\n\nVanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-28T00:15:13.070142+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
       "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
       "source": "CoinDesk",
@@ -1394,6 +1385,51 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech\n\n#Bitcoin #FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-10T11:30:29.143696+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack",
+      "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nMercado Bitcoin to resume cash withdrawals after $49M hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack\n\n#Bitcoin #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-10T19:19:21.023026+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation",
+      "title": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-10T19:19:21.023042+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
+      "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nPlume affiliate lands broker-dealer license to bring real U.S. assets onchain\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-10T19:19:21.023046+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss",
+      "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-10T19:19:21.023049+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research",
+      "title": "Bitcoin may benefit as global tightening slows, Binance Research says",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin may benefit as global tightening slows, Binance Research says\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research\n\n#Bitcoin #Binance #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-10T19:19:21.023051+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2323,10 +2359,19 @@
       "post_id": "386740347112133",
       "post_link": "https://app.binance.com/uni-qr/cpos/386740347112133?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure": {
+      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "published_at": "2026-11-10T19:19:22.096983+00:00",
+      "post_id": "386855575504659",
+      "post_link": "https://app.binance.com/uni-qr/cpos/386855575504659?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-10T11:30:30.178564+00:00",
+  "last_run_at": "2026-11-10T19:19:22.100358+00:00",
   "last_run_published_count": 1
 }
