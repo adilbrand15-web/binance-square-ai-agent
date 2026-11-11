@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
-      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
-      "source": "CoinDesk",
-      "importance_score": 8,
-      "post_text": "📰 Crypto News Update\n\nBitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC\n\nWhy it matters: This market development may be relevant to volatility, liquidity, and trader sentiment.\n\nImportance score: 8/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-28T06:01:59.296501+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
       "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
       "source": "CoinDesk",
@@ -1448,6 +1439,24 @@
       "post_text": "📰 Crypto News Update\n\nKimber Digital Securities gains broker-dealer status for tokenized assets\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization\n\n#CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-11T00:09:29.415729+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks",
+      "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nInitia confirms second exploit in 3 weeks, $3.27M stolen in latest attack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks\n\n#CryptoRegulation #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-11T06:55:06.160380+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain",
+      "title": "Across Protocol restores website after hackers hijack domain",
+      "source": "Cointelegraph",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nAcross Protocol restores website after hackers hijack domain\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-11T06:55:06.160396+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2395,10 +2404,19 @@
       "post_id": "386926879889067",
       "post_link": "https://app.binance.com/uni-qr/cpos/386926879889067?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc": {
+      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+      "source": "CoinDesk",
+      "importance_score": 8,
+      "published_at": "2026-11-11T06:55:07.182763+00:00",
+      "post_id": "387026563338445",
+      "post_link": "https://app.binance.com/uni-qr/cpos/387026563338445?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-11T00:09:30.416604+00:00",
+  "last_run_at": "2026-11-11T06:55:07.186949+00:00",
   "last_run_published_count": 1
 }
