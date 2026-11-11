@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T00:09:12.061482+00:00",
+  "updated_at": "2026-11-11T06:54:47.393416+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -5967,6 +5967,41 @@
       "status": "draft_created",
       "score": 7,
       "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812": {
+      "processed_at": "2026-11-11T06:54:47.393140+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip": {
+      "processed_at": "2026-11-11T06:54:47.393285+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Crypto ally Tom Emmer elected House GOP minority whip",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts": {
+      "processed_at": "2026-11-11T06:54:47.393328+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks": {
+      "processed_at": "2026-11-11T06:54:47.393395+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain": {
+      "processed_at": "2026-11-11T06:54:47.393414+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Across Protocol restores website after hackers hijack domain",
       "source": "Cointelegraph"
     }
   }
