@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
-      "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nBithumb hacked through employee system as South Korean financial firms face cyberattacks\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-28T06:01:59.296481+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
       "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
       "source": "CoinDesk",
@@ -1430,6 +1421,33 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin may benefit as global tightening slows, Binance Research says\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research\n\n#Bitcoin #Binance #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-10T19:19:21.023051+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements",
+      "title": "Can crypto trust firms compete with banks in US derivatives settlements?",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nCan crypto trust firms compete with banks in US derivatives settlements?\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-11T00:09:29.415706+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027",
+      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nGlobal banks commit $270M to stablecoin venture targeting 2027 launch\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-11T00:09:29.415724+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization",
+      "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
+      "source": "Cointelegraph",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nKimber Digital Securities gains broker-dealer status for tokenized assets\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization\n\n#CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-11T00:09:29.415729+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2368,10 +2386,19 @@
       "post_id": "386855575504659",
       "post_link": "https://app.binance.com/uni-qr/cpos/386855575504659?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks": {
+      "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-11-11T00:09:30.413084+00:00",
+      "post_id": "386926879889067",
+      "post_link": "https://app.binance.com/uni-qr/cpos/386926879889067?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-10T19:19:22.100358+00:00",
+  "last_run_at": "2026-11-11T00:09:30.416604+00:00",
   "last_run_published_count": 1
 }
