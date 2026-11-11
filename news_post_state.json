@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T19:19:01.875192+00:00",
+  "updated_at": "2026-11-11T00:09:12.061482+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -5904,6 +5904,69 @@
       "status": "draft_created",
       "score": 10,
       "title": "Bitcoin may benefit as global tightening slows, Binance Research says",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330": {
+      "processed_at": "2026-11-11T00:09:12.061046+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets": {
+      "processed_at": "2026-11-11T00:09:12.061145+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Across Protocol warns users to avoid app amid reports of drained wallets",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains": {
+      "processed_at": "2026-11-11T00:09:12.061214+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Ava Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets": {
+      "processed_at": "2026-11-11T00:09:12.061255+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform": {
+      "processed_at": "2026-11-11T00:09:12.061341+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301": {
+      "processed_at": "2026-11-11T00:09:12.061376+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements": {
+      "processed_at": "2026-11-11T00:09:12.061451+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Can crypto trust firms compete with banks in US derivatives settlements?",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027": {
+      "processed_at": "2026-11-11T00:09:12.061468+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization": {
+      "processed_at": "2026-11-11T00:09:12.061480+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
       "source": "Cointelegraph"
     }
   }
