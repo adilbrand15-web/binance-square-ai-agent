@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
-      "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nWall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks\n\n#CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-28T13:21:09.974280+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
       "title": "Google to preview crypto custody security system as AI threats grow",
       "source": "CoinDesk",
@@ -1457,6 +1448,51 @@
       "post_text": "📰 Crypto News Update\n\nAcross Protocol restores website after hackers hijack domain\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-11T06:55:06.160396+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu",
+      "title": "Deutsche Bank launches crypto custody for companies and institutions",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nDeutsche Bank launches crypto custody for companies and institutions\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-11T14:54:47.662653+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings",
+      "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBarclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-11T14:54:47.662672+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/learn/bitcoin/bitcoin-and-blockchain-basics-434447",
+      "title": "Bitcoin and Blockchain Basics",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin and Blockchain Basics\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/learn/bitcoin/bitcoin-and-blockchain-basics-434447\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-11T14:54:47.662676+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
+      "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin sits out stock rebound as ETF outflows extend to fourth day\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-11T14:54:47.662679+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts",
+      "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nParaguay bank collapse shows stablecoins can offer a lifeline... of sorts\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-11T14:54:47.662681+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2413,10 +2449,19 @@
       "post_id": "387026563338445",
       "post_link": "https://app.binance.com/uni-qr/cpos/387026563338445?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks": {
+      "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-11-11T14:54:48.740103+00:00",
+      "post_id": "387144452587650",
+      "post_link": "https://app.binance.com/uni-qr/cpos/387144452587650?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-11T06:55:07.186949+00:00",
+  "last_run_at": "2026-11-11T14:54:48.743732+00:00",
   "last_run_published_count": 1
 }
