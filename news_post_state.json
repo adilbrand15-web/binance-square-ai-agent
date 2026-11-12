@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T18:41:28.140724+00:00",
+  "updated_at": "2026-11-12T23:57:26.063202+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -6556,6 +6556,83 @@
       "score": 8,
       "title": "Andreessen Horowitz, DeFi Education Fund push back against Illinois crypto tax",
       "source": "The Block"
+    },
+    "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year": {
+      "processed_at": "2026-11-12T23:57:26.062453+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/markets/2026-11-12-gemini-trading-volume-drops-q3-revenue-falls-to-41-million-439050": {
+      "processed_at": "2026-11-12T23:57:26.062622+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Gemini trading volume drops 73% as Q3 revenue falls to $41 million",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment": {
+      "processed_at": "2026-11-12T23:57:26.062689+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin": {
+      "processed_at": "2026-11-12T23:57:26.062747+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052": {
+      "processed_at": "2026-11-12T23:57:26.062801+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment": {
+      "processed_at": "2026-11-12T23:57:26.062857+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto": {
+      "processed_at": "2026-11-12T23:57:26.063127+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065": {
+      "processed_at": "2026-11-12T23:57:26.063149+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express": {
+      "processed_at": "2026-11-12T23:57:26.063164+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax": {
+      "processed_at": "2026-11-12T23:57:26.063184+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access": {
+      "processed_at": "2026-11-12T23:57:26.063200+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
+      "source": "Cointelegraph"
     }
   }
 }
