@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected",
-      "title": "Fed leaves interest rates unchanged, as expected",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nFed leaves interest rates unchanged, as expected\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected\n\n#FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-28T18:59:33.421493+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack",
       "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
       "source": "Cointelegraph",
@@ -1556,6 +1547,51 @@
       "post_text": "📰 Crypto News Update\n\nAndreessen Horowitz, DeFi Education Fund push back against Illinois crypto tax\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 8/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-11-12-andreessen-horowitz-defi-education-fund-push-back-against-illinois-crypto-tax-438573\n\n#CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-12T18:41:46.922966+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+      "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nNorth Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-12T23:57:42.192135+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
+      "title": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nDOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-12T23:57:42.192149+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express",
+      "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nNK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-12T23:57:42.192155+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax",
+      "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nUS Justice Department, business groups and DeFi firms challenge Illinois crypto tax\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-12T23:57:42.192157+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access",
+      "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
+      "source": "Cointelegraph",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nDTCC Plans Solana Expansion as Wallet Rules Limit Access\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access\n\n#Solana #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-12T23:57:42.192159+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2557,10 +2593,19 @@
       "post_id": "387554131275654",
       "post_link": "https://app.binance.com/uni-qr/cpos/387554131275654?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected": {
+      "title": "Fed leaves interest rates unchanged, as expected",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-11-12T23:57:43.420472+00:00",
+      "post_id": "387631772893640",
+      "post_link": "https://app.binance.com/uni-qr/cpos/387631772893640?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-12T18:41:47.969331+00:00",
+  "last_run_at": "2026-11-12T23:57:43.424099+00:00",
   "last_run_published_count": 1
 }
