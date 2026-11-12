@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds",
-      "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
-      "source": "Cointelegraph",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nBitcoin ETF inflows climb to $176M as BTC rebounds above $80K\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-28T13:21:09.974304+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana",
       "title": "Mirae Asset Securities issues tokenized notes on Solana",
       "source": "Cointelegraph",
@@ -1484,6 +1475,15 @@
       "post_text": "📰 Crypto News Update\n\nParaguay bank collapse shows stablecoins can offer a lifeline... of sorts\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-11T14:54:47.662681+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427",
+      "title": "SEC enters fight over who regulates perpetual derivatives on stocks in the US",
+      "source": "The Block",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nSEC enters fight over who regulates perpetual derivatives on stocks in the US\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427\n\n#CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-12T02:41:09.041397+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2458,10 +2458,19 @@
       "post_id": "387245011835451",
       "post_link": "https://app.binance.com/uni-qr/cpos/387245011835451?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds": {
+      "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "published_at": "2026-11-12T02:41:10.095224+00:00",
+      "post_id": "387318046641403",
+      "post_link": "https://app.binance.com/uni-qr/cpos/387318046641403?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-11T21:43:59.336449+00:00",
+  "last_run_at": "2026-11-12T02:41:10.097829+00:00",
   "last_run_published_count": 1
 }
