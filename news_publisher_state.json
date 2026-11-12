@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
-      "title": "Live updates: Bitcoin edges higher ahead of Fed decision Wednesday afternoon.",
-      "source": "CoinDesk",
-      "importance_score": 7,
-      "post_text": "📰 Crypto News Update\n\nLive updates: Bitcoin edges higher ahead of Fed decision Wednesday afternoon.\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 7/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision\n\n#Bitcoin #FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-28T13:21:09.974310+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected",
       "title": "Fed leaves interest rates unchanged, as expected",
       "source": "CoinDesk",
@@ -1520,6 +1511,51 @@
       "post_text": "📰 Crypto News Update\n\nLive updates: Bitcoin ETFs bleed $300 million as AI stocks slide again\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 7/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-12T10:39:28.078076+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542",
+      "title": "SoFiUSD goes live on Polygon as bank-issued stablecoin expands reach",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nSoFiUSD goes live on Polygon as bank-issued stablecoin expands reach\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-12T18:41:46.922937+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+      "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+      "source": "CoinDesk",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nDTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout\n\n#Solana #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-12T18:41:46.922954+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
+      "title": "Securitize and Ethena’s $100 million BlackRock BUIDL liquidity facility goes live",
+      "source": "The Block",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nSecuritize and Ethena’s $100 million BlackRock BUIDL liquidity facility goes live\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442\n\n#Ethereum #CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-12T18:41:46.922959+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
+      "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
+      "source": "CoinDesk",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nBitcoin dips with Nvidia as ETF outflows reach day five\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-12T18:41:46.922962+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/regulation/2026-11-12-andreessen-horowitz-defi-education-fund-push-back-against-illinois-crypto-tax-438573",
+      "title": "Andreessen Horowitz, DeFi Education Fund push back against Illinois crypto tax",
+      "source": "The Block",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nAndreessen Horowitz, DeFi Education Fund push back against Illinois crypto tax\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 8/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-11-12-andreessen-horowitz-defi-education-fund-push-back-against-illinois-crypto-tax-438573\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-12T18:41:46.922966+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2512,10 +2548,19 @@
       "post_id": "387435597570014",
       "post_link": "https://app.binance.com/uni-qr/cpos/387435597570014?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision": {
+      "title": "Live updates: Bitcoin edges higher ahead of Fed decision Wednesday afternoon.",
+      "source": "CoinDesk",
+      "importance_score": 7,
+      "published_at": "2026-11-12T18:41:47.964908+00:00",
+      "post_id": "387554131275654",
+      "post_link": "https://app.binance.com/uni-qr/cpos/387554131275654?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-12T10:39:29.062944+00:00",
+  "last_run_at": "2026-11-12T18:41:47.969331+00:00",
   "last_run_published_count": 1
 }
