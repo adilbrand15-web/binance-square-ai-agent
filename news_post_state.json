@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T10:39:10.102204+00:00",
+  "updated_at": "2026-11-12T18:41:28.140724+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -6381,6 +6381,181 @@
       "score": 7,
       "title": "Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again",
       "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014": {
+      "processed_at": "2026-11-12T18:41:28.138940+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "NYDFS sets fresh advertising standards for crypto firms",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992": {
+      "processed_at": "2026-11-12T18:41:28.139019+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988": {
+      "processed_at": "2026-11-12T18:41:28.139076+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court": {
+      "processed_at": "2026-11-12T18:41:28.139147+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520": {
+      "processed_at": "2026-11-12T18:41:28.139206+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Visa adds Western Union’s USDPT stablecoin to its settlement network in Anchorage tie-up",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation": {
+      "processed_at": "2026-11-12T18:41:28.139260+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/ecosystems/2026-11-12-unocoin-login-suspension-continues-as-exchange-flags-outgoing-bitgo-eth-transactions-438654": {
+      "processed_at": "2026-11-12T18:41:28.139367+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Unocoin ‘login suspension’ continues as exchange flags outgoing BitGo ETH transactions",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets": {
+      "processed_at": "2026-11-12T18:41:28.139402+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Crypto for Advisors: The blockchain built to run financial markets",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849": {
+      "processed_at": "2026-11-12T18:41:28.139443+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Tether Gold issuer follows USDT to complete Big Four audit",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform": {
+      "processed_at": "2026-11-12T18:41:28.139533+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-11-12-dtcc-plans-bring-tokenized-securities-solana-second-half-of-2027-438559": {
+      "processed_at": "2026-11-12T18:41:28.139582+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "DTCC plans to bring tokenized securities to Solana in second half of 2027",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange": {
+      "processed_at": "2026-11-12T18:41:28.139726+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin": {
+      "processed_at": "2026-11-12T18:41:28.139872+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Uber’s UK banking partner Griffin raises $20M for stablecoin services",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-12-bny-taps-figment-to-support-staking-on-its-digital-asset-custody-platform-438538": {
+      "processed_at": "2026-11-12T18:41:28.139922+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "BNY taps Figment to support staking on its digital asset custody platform",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec": {
+      "processed_at": "2026-11-12T18:41:28.140016+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal": {
+      "processed_at": "2026-11-12T18:41:28.140080+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin weakness erases September's bullish signal",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027": {
+      "processed_at": "2026-11-12T18:41:28.140214+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022": {
+      "processed_at": "2026-11-12T18:41:28.140293+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering": {
+      "processed_at": "2026-11-12T18:41:28.140417+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-12-tron-tether-chainalysis-new-alliance-438514": {
+      "processed_at": "2026-11-12T18:41:28.140486+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Tron, Tether and Chainalysis form new alliance to tackle AI-powered crypto crime",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542": {
+      "processed_at": "2026-11-12T18:41:28.140601+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "SoFiUSD goes live on Polygon as bank-issued stablecoin expands reach",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout": {
+      "processed_at": "2026-11-12T18:41:28.140637+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442": {
+      "processed_at": "2026-11-12T18:41:28.140669+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Securitize and Ethena’s $100 million BlackRock BUIDL liquidity facility goes live",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five": {
+      "processed_at": "2026-11-12T18:41:28.140693+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-12-andreessen-horowitz-defi-education-fund-push-back-against-illinois-crypto-tax-438573": {
+      "processed_at": "2026-11-12T18:41:28.140719+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Andreessen Horowitz, DeFi Education Fund push back against Illinois crypto tax",
+      "source": "The Block"
     }
   }
 }
