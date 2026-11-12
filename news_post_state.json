@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T21:43:38.948986+00:00",
+  "updated_at": "2026-11-12T02:40:53.857129+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -6220,6 +6220,48 @@
       "score": 5,
       "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
       "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448": {
+      "processed_at": "2026-11-12T02:40:53.856790+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem": {
+      "processed_at": "2026-11-12T02:40:53.856859+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports": {
+      "processed_at": "2026-11-12T02:40:53.856902+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress": {
+      "processed_at": "2026-11-12T02:40:53.857016+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Uncalled US House races could send more crypto allies to Congress",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital": {
+      "processed_at": "2026-11-12T02:40:53.857055+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427": {
+      "processed_at": "2026-11-12T02:40:53.857126+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "SEC enters fight over who regulates perpetual derivatives on stocks in the US",
+      "source": "The Block"
     }
   }
 }
