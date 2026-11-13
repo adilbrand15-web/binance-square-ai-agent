@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T23:57:26.063202+00:00",
+  "updated_at": "2026-11-13T05:53:39.922618+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -6633,6 +6633,62 @@
       "score": 7,
       "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
       "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus": {
+      "processed_at": "2026-11-13T05:53:39.922257+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175": {
+      "processed_at": "2026-11-13T05:53:39.922350+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "White House sends crypto-relevant picks to fill SEC and CFTC seats",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049": {
+      "processed_at": "2026-11-13T05:53:39.922394+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks": {
+      "processed_at": "2026-11-13T05:53:39.922473+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low": {
+      "processed_at": "2026-11-13T05:53:39.922513+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace": {
+      "processed_at": "2026-11-13T05:53:39.922585+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year": {
+      "processed_at": "2026-11-13T05:53:39.922603+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609": {
+      "processed_at": "2026-11-13T05:53:39.922616+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "TRM Labs launches new service to help police seize stolen crypto in minutes",
+      "source": "The Block"
     }
   }
 }
