@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T13:56:07.089146+00:00",
+  "updated_at": "2026-11-13T20:46:40.071694+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -6787,6 +6787,90 @@
       "score": 10,
       "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
       "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-13-megaeth-mega-layoffs-20-percent-restructuring-440206": {
+      "processed_at": "2026-11-13T20:46:40.070935+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "MEGA cuts 20% of workforce as former MegaETH Foundation restructures",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207": {
+      "processed_at": "2026-11-13T20:46:40.071024+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "House Oversight Chair calls for possible ban on government officials’ prediction market bets over insider trading concerns",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199": {
+      "processed_at": "2026-11-13T20:46:40.071082+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "CFTC’s Selig accuses states of trying to ‘lock up’ prediction market founders",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off": {
+      "processed_at": "2026-11-13T20:46:40.071133+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings": {
+      "processed_at": "2026-11-13T20:46:40.071187+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print": {
+      "processed_at": "2026-11-13T20:46:40.071280+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053": {
+      "processed_at": "2026-11-13T20:46:40.071347+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Hyperliquid leapfrogs Bybit, Kraken and OKX in open interest as Q3 positions grow 80%",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711": {
+      "processed_at": "2026-11-13T20:46:40.071448+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline": {
+      "processed_at": "2026-11-13T20:46:40.071554+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms": {
+      "processed_at": "2026-11-13T20:46:40.071645+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883": {
+      "processed_at": "2026-11-13T20:46:40.071668+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Ethereum and Layer 1s Explained",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations": {
+      "processed_at": "2026-11-13T20:46:40.071689+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+      "source": "CoinDesk"
     }
   }
 }
