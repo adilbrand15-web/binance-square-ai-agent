@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack",
-      "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
-      "source": "Cointelegraph",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nCrypto PAC spending before midterms possibly obscured after reported FEC hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-28T18:59:33.421511+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
       "title": "Coinbase adds Ripple’s RLUSD stablecoin across retail, exchange and Prime platforms",
       "source": "The Block",
@@ -1592,6 +1583,33 @@
       "post_text": "📰 Crypto News Update\n\nDTCC Plans Solana Expansion as Wallet Rules Limit Access\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access\n\n#Solana #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-12T23:57:42.192159+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin dips below $70,000 as Dollar Index hits 19-month high\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-13T05:53:55.431856+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
+      "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+      "source": "CoinDesk",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs are now down over $1.5 billion in net outflows for the year\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-13T05:53:55.431872+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609",
+      "title": "TRM Labs launches new service to help police seize stolen crypto in minutes",
+      "source": "The Block",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nTRM Labs launches new service to help police seize stolen crypto in minutes\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 8/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-13T05:53:55.431876+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2602,10 +2620,19 @@
       "post_id": "387631772893640",
       "post_link": "https://app.binance.com/uni-qr/cpos/387631772893640?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack": {
+      "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "published_at": "2026-11-13T05:53:56.435047+00:00",
+      "post_id": "387719316739984",
+      "post_link": "https://app.binance.com/uni-qr/cpos/387719316739984?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-12T23:57:43.424099+00:00",
+  "last_run_at": "2026-11-13T05:53:56.438683+00:00",
   "last_run_published_count": 1
 }
