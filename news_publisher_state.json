@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
-      "title": "Coinbase adds Ripple’s RLUSD stablecoin across retail, exchange and Prime platforms",
-      "source": "The Block",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nCoinbase adds Ripple’s RLUSD stablecoin across retail, exchange and Prime platforms\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-28T18:59:33.421517+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody",
       "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
       "source": "Cointelegraph",
@@ -1610,6 +1601,51 @@
       "post_text": "📰 Crypto News Update\n\nTRM Labs launches new service to help police seize stolen crypto in minutes\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 8/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609\n\n#CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-13T05:53:55.431876+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
+      "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion\n\nWhy it matters: This market development may be relevant to volatility, liquidity, and trader sentiment.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-13T13:56:24.227242+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671",
+      "title": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nJPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-13T13:56:24.227262+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026",
+      "title": "Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nJane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-13T13:56:24.227266+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
+      "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nEthereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy\n\n#Bitcoin #Ethereum #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-13T13:56:24.227267+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear",
+      "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin slides below $70K amid thin liquidity, ETF outflows\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-13T13:56:24.227269+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2629,10 +2665,19 @@
       "post_id": "387719316739984",
       "post_link": "https://app.binance.com/uni-qr/cpos/387719316739984?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009": {
+      "title": "Coinbase adds Ripple’s RLUSD stablecoin across retail, exchange and Prime platforms",
+      "source": "The Block",
+      "importance_score": 10,
+      "published_at": "2026-11-13T13:56:25.099058+00:00",
+      "post_id": "387837890542042",
+      "post_link": "https://app.binance.com/uni-qr/cpos/387837890542042?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-13T05:53:56.438683+00:00",
+  "last_run_at": "2026-11-13T13:56:25.101963+00:00",
   "last_run_published_count": 1
 }
