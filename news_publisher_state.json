@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody",
-      "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
-      "source": "Cointelegraph",
-      "importance_score": 8,
-      "post_text": "📰 Crypto News Update\n\nGoogle Cloud outlines MPC service for institutional Bitcoin custody\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-28T18:59:33.421519+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks",
       "title": "Strategy shareholders approve daily dividends for four preferred stocks",
       "source": "Cointelegraph",
@@ -1646,6 +1637,33 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin slides below $70K amid thin liquidity, ETF outflows\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-13T13:56:24.227269+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+      "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-13T20:46:57.117194+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
+      "title": "Ethereum and Layer 1s Explained",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nEthereum and Layer 1s Explained\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883\n\n#Ethereum #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-13T20:46:57.117217+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
+      "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+      "source": "CoinDesk",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nU.S. Senate Banking Committee races toward hearing on new SEC nominations\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations\n\n#CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-13T20:46:57.117222+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2674,10 +2692,19 @@
       "post_id": "387837890542042",
       "post_link": "https://app.binance.com/uni-qr/cpos/387837890542042?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody": {
+      "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "published_at": "2026-11-13T20:46:58.153381+00:00",
+      "post_id": "387938787505207",
+      "post_link": "https://app.binance.com/uni-qr/cpos/387938787505207?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-13T13:56:25.101963+00:00",
+  "last_run_at": "2026-11-13T20:46:58.160015+00:00",
   "last_run_published_count": 1
 }
