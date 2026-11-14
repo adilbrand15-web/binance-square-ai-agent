@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
-      "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
-      "source": "CoinDesk",
-      "importance_score": 6,
-      "post_text": "📰 Crypto News Update\n\nBitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-28T23:05:36.994810+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts",
       "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
       "source": "Cointelegraph",
@@ -1673,6 +1664,15 @@
       "post_text": "📰 Crypto News Update\n\nSatoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 8/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-14T07:50:30.068561+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out",
+      "title": "Microsoft confirms global outage resolved, rules out cyberattack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nMicrosoft confirms global outage resolved, rules out cyberattack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-14T14:45:28.041724+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2728,10 +2728,19 @@
       "post_id": "388101860879819",
       "post_link": "https://app.binance.com/uni-qr/cpos/388101860879819?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost": {
+      "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+      "source": "CoinDesk",
+      "importance_score": 6,
+      "published_at": "2026-11-14T14:45:29.050545+00:00",
+      "post_id": "388203843330254",
+      "post_link": "https://app.binance.com/uni-qr/cpos/388203843330254?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-14T07:50:31.014938+00:00",
+  "last_run_at": "2026-11-14T14:45:29.053686+00:00",
   "last_run_published_count": 1
 }
