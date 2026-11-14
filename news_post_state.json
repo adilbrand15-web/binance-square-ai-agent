@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T14:45:12.421453+00:00",
+  "updated_at": "2026-11-14T19:41:36.289653+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -6955,6 +6955,48 @@
       "score": 10,
       "title": "Microsoft confirms global outage resolved, rules out cyberattack",
       "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst": {
+      "processed_at": "2026-11-14T19:41:36.289415+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business": {
+      "processed_at": "2026-11-14T19:41:36.289460+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale": {
+      "processed_at": "2026-11-14T19:41:36.289502+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337": {
+      "processed_at": "2026-11-14T19:41:36.289612+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground": {
+      "processed_at": "2026-11-14T19:41:36.289630+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342": {
+      "processed_at": "2026-11-14T19:41:36.289651+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
+      "source": "The Block"
     }
   }
 }
