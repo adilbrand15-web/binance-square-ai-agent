@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks",
-      "title": "Strategy shareholders approve daily dividends for four preferred stocks",
-      "source": "Cointelegraph",
-      "importance_score": 7,
-      "post_text": "📰 Crypto News Update\n\nStrategy shareholders approve daily dividends for four preferred stocks\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks\n\n#CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-28T18:59:33.421521+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix",
       "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
       "source": "Cointelegraph",
@@ -2701,10 +2692,19 @@
       "post_id": "387938787505207",
       "post_link": "https://app.binance.com/uni-qr/cpos/387938787505207?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks": {
+      "title": "Strategy shareholders approve daily dividends for four preferred stocks",
+      "source": "Cointelegraph",
+      "importance_score": 7,
+      "published_at": "2026-11-14T01:17:44.010805+00:00",
+      "post_id": "388005330459517",
+      "post_link": "https://app.binance.com/uni-qr/cpos/388005330459517?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-13T20:46:58.160015+00:00",
+  "last_run_at": "2026-11-14T01:17:44.014937+00:00",
   "last_run_published_count": 1
 }
