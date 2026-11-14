@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T01:17:26.813945+00:00",
+  "updated_at": "2026-11-14T07:50:06.227668+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -6906,6 +6906,27 @@
       "score": 3,
       "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
       "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak": {
+      "processed_at": "2026-11-14T07:50:06.227623+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304": {
+      "processed_at": "2026-11-14T07:50:06.227650+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011": {
+      "processed_at": "2026-11-14T07:50:06.227666+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+      "source": "CoinDesk"
     }
   }
 }
