@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T20:46:40.071694+00:00",
+  "updated_at": "2026-11-14T01:17:26.813945+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -6871,6 +6871,41 @@
       "score": 6,
       "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
       "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out": {
+      "processed_at": "2026-11-14T01:17:26.813689+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex": {
+      "processed_at": "2026-11-14T01:17:26.813766+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system": {
+      "processed_at": "2026-11-14T01:17:26.813830+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings": {
+      "processed_at": "2026-11-14T01:17:26.813882+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows": {
+      "processed_at": "2026-11-14T01:17:26.813935+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
+      "source": "Cointelegraph"
     }
   }
 }
