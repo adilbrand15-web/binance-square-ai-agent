@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T19:41:36.289653+00:00",
+  "updated_at": "2026-11-14T23:37:25.557607+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -6996,6 +6996,13 @@
       "status": "draft_created",
       "score": 6,
       "title": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350": {
+      "processed_at": "2026-11-14T23:37:25.557597+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
       "source": "The Block"
     }
   }
