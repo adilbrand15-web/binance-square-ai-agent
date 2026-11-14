@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix",
-      "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
-      "source": "Cointelegraph",
-      "importance_score": 8,
-      "post_text": "📰 Crypto News Update\n\nSam Bankman-Fried wrote to actor portraying him in Netflix series\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix\n\n#CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-28T23:05:36.994794+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
       "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
       "source": "CoinDesk",
@@ -1655,6 +1646,33 @@
       "post_text": "📰 Crypto News Update\n\nU.S. Senate Banking Committee races toward hearing on new SEC nominations\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations\n\n#CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-13T20:46:57.117222+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak",
+      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-14T07:50:30.068539+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
+      "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+      "source": "The Block",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nMeta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 9/10\nSource: The Block\nRead the original report: https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-14T07:50:30.068557+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+      "source": "CoinDesk",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nSatoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 8/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-14T07:50:30.068561+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2701,10 +2719,19 @@
       "post_id": "388005330459517",
       "post_link": "https://app.binance.com/uni-qr/cpos/388005330459517?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix": {
+      "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "published_at": "2026-11-14T07:50:31.011308+00:00",
+      "post_id": "388101860879819",
+      "post_link": "https://app.binance.com/uni-qr/cpos/388101860879819?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-14T01:17:44.014937+00:00",
+  "last_run_at": "2026-11-14T07:50:31.014938+00:00",
   "last_run_published_count": 1
 }
