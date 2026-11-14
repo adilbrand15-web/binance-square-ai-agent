@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts",
-      "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
-      "source": "Cointelegraph",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nFed’s hawkish rate hold keeps pressure on Bitcoin: Analysts\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts\n\n#Bitcoin #FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-29T02:38:38.618351+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green",
       "title": "Bitcoin ETFs add $137M, pushing October back into the green",
       "source": "Cointelegraph",
@@ -1673,6 +1664,33 @@
       "post_text": "📰 Crypto News Update\n\nMicrosoft confirms global outage resolved, rules out cyberattack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out\n\n#CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-14T14:45:28.041724+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
+      "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337\n\n#Bitcoin #CryptoETF #CryptoRegulation #CryptoNews #Cryptocurrency",
+      "added_at": "2026-11-14T19:41:52.106890+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
+      "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+      "source": "CoinDesk",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nUK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-14T19:41:52.106907+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
+      "title": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
+      "source": "The Block",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nLouisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 6/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-14T19:41:52.106912+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2737,10 +2755,19 @@
       "post_id": "388203843330254",
       "post_link": "https://app.binance.com/uni-qr/cpos/388203843330254?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts": {
+      "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "published_at": "2026-11-14T19:41:53.007186+00:00",
+      "post_id": "388276686353272",
+      "post_link": "https://app.binance.com/uni-qr/cpos/388276686353272?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-14T14:45:29.053686+00:00",
+  "last_run_at": "2026-11-14T19:41:53.011248+00:00",
   "last_run_published_count": 1
 }
