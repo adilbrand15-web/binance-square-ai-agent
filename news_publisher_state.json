@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron",
-      "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
-      "source": "Cointelegraph",
-      "importance_score": 8,
-      "post_text": "📰 Crypto News Update\n\nPrivate, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron\n\n#Bitcoin #Ethereum #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-29T16:19:40.067174+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115",
       "title": "Polygon adds Solana to payment stack linking bank accounts, crypto and payouts",
       "source": "The Block",
@@ -1682,6 +1673,15 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin falls to four-month low near $62K as crypto selloff deepens\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-15T12:29:32.011294+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
+      "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nCZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807\n\n#Bitcoin #Binance #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-15T23:27:55.925079+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2791,10 +2791,19 @@
       "post_id": "388621183529836",
       "post_link": "https://app.binance.com/uni-qr/cpos/388621183529836?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron": {
+      "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "published_at": "2026-11-15T23:27:57.016460+00:00",
+      "post_id": "388686138976121",
+      "post_link": "https://app.binance.com/uni-qr/cpos/388686138976121?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-15T19:03:38.768145+00:00",
+  "last_run_at": "2026-11-15T23:27:57.021019+00:00",
   "last_run_published_count": 1
 }
