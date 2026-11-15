@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T04:50:28.986612+00:00",
+  "updated_at": "2026-11-15T12:29:16.078226+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -7011,6 +7011,20 @@
       "score": 10,
       "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
       "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information": {
+      "processed_at": "2026-11-15T12:29:16.078129+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Coinone warns of phishing, identity theft after customer data breach",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff": {
+      "processed_at": "2026-11-15T12:29:16.078221+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+      "source": "Cointelegraph"
     }
   }
 }
