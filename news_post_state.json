@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T23:37:25.557607+00:00",
+  "updated_at": "2026-11-15T04:50:28.986612+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -7004,6 +7004,13 @@
       "score": 7,
       "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
       "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto": {
+      "processed_at": "2026-11-15T04:50:28.986602+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+      "source": "CoinDesk"
     }
   }
 }
