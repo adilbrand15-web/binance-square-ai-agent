@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
-      "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nBitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto\n\n#Bitcoin #FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-29T09:20:56.652650+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
       "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
       "source": "CoinDesk",
@@ -1691,6 +1682,15 @@
       "post_text": "📰 Crypto News Update\n\nKava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 7/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-14T23:37:39.640220+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nXRP crashes to its lowest since November 2024 as money leaves crypto\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto\n\n#XRP #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-15T04:50:45.167376+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2773,10 +2773,19 @@
       "post_id": "388334635234359",
       "post_link": "https://app.binance.com/uni-qr/cpos/388334635234359?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto": {
+      "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-11-15T04:50:46.134535+00:00",
+      "post_id": "388411580556752",
+      "post_link": "https://app.binance.com/uni-qr/cpos/388411580556752?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-14T23:37:40.678100+00:00",
+  "last_run_at": "2026-11-15T04:50:46.139177+00:00",
   "last_run_published_count": 1
 }
