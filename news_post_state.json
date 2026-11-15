@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T19:03:24.211636+00:00",
+  "updated_at": "2026-11-15T23:27:42.492081+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -7039,6 +7039,27 @@
       "score": 1,
       "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
       "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest": {
+      "processed_at": "2026-11-15T23:27:42.491901+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "US sellers drive Bitcoin crash, Jensen plots comeback: Hodler’s Digest",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto": {
+      "processed_at": "2026-11-15T23:27:42.492003+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807": {
+      "processed_at": "2026-11-15T23:27:42.492078+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+      "source": "The Block"
     }
   }
 }
