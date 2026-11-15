@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T12:29:16.078226+00:00",
+  "updated_at": "2026-11-15T19:03:24.211636+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -7025,6 +7025,20 @@
       "score": 8,
       "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
       "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead": {
+      "processed_at": "2026-11-15T19:03:24.211548+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Enterprise blockchain is going to come back from the dead",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session": {
+      "processed_at": "2026-11-15T19:03:24.211629+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+      "source": "CoinDesk"
     }
   }
 }
