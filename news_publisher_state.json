@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s",
-      "title": "NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
-      "source": "CoinDesk",
-      "importance_score": 6,
-      "post_text": "📰 Crypto News Update\n\nNYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s\n\n#CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-29T16:19:40.067188+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
       "title": "Potential multi-billion Binance hack hitting crypto markets",
       "source": "CoinDesk",
@@ -1691,6 +1682,51 @@
       "post_text": "📰 Crypto News Update\n\nJPMorgan and DBS let clients move dollars across borders on weekends\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 8/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends\n\n#CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-16T10:50:04.099249+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
+      "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-16T20:48:36.765558+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
+      "title": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nPeraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425\n\n#Ethereum #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-16T20:48:36.765575+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/defi/2026-11-16-solflare-ceo-ai-security-reviews-bunker-mode-moneygram-441396",
+      "title": "Solflare CEO says AI security reviews are essential, touts ‘bunker mode’ and MoneyGram deal",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nSolflare CEO says AI security reviews are essential, touts ‘bunker mode’ and MoneyGram deal\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/defi/2026-11-16-solflare-ceo-ai-security-reviews-bunker-mode-moneygram-441396\n\n#CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-16T20:48:36.765579+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376",
+      "title": "Supreme Court rejects Custodia Bank’s bid for Fed master account",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nSupreme Court rejects Custodia Bank’s bid for Fed master account\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376\n\n#FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-16T20:48:36.765582+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
+      "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations\n\nWhy it matters: This market development may be relevant to volatility, liquidity, and trader sentiment.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-16T20:48:36.765584+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2827,10 +2863,19 @@
       "post_id": "388853780996384",
       "post_link": "https://app.binance.com/uni-qr/cpos/388853780996384?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s": {
+      "title": "NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
+      "source": "CoinDesk",
+      "importance_score": 6,
+      "published_at": "2026-11-16T20:48:37.778322+00:00",
+      "post_id": "389000878790979",
+      "post_link": "https://app.binance.com/uni-qr/cpos/389000878790979?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-16T10:50:05.269918+00:00",
+  "last_run_at": "2026-11-16T20:48:37.786574+00:00",
   "last_run_published_count": 1
 }
