@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T02:57:26.423159+00:00",
+  "updated_at": "2026-11-16T10:49:42.882904+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -7067,6 +7067,118 @@
       "score": 3,
       "title": "Luxor CEO warns of AI ‘dark forest’ after Bitcoin miner hijack",
       "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/btc-price-18-week-low-nvidia-three-things-know-bitcoin-this-week": {
+      "processed_at": "2026-11-16T10:49:42.882194+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "BTC price tags 18-week low into Nvidia earnings: Three things to know in Bitcoin this week",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/ecosystems/2026-11-16-vitalik-buterin-backs-higher-gas-costs-for-creating-accounts-and-deploying-smart-contracts-to-help-ethereum-scale-440870": {
+      "processed_at": "2026-11-16T10:49:42.882256+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Vitalik Buterin backs higher gas costs for creating accounts and deploying smart contracts to help Ethereum scale",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide": {
+      "processed_at": "2026-11-16T10:49:42.882297+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Live news: Bitcoin posts sixth weekly loss as tech stocks and metals slide",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854": {
+      "processed_at": "2026-11-16T10:49:42.882337+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead": {
+      "processed_at": "2026-11-16T10:49:42.882380+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840": {
+      "processed_at": "2026-11-16T10:49:42.882412+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "CoW Swap goes live on Solana with intent-based trading",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/business/2026-11-16-toss-non-custodial-crypto-wallet-440847": {
+      "processed_at": "2026-11-16T10:49:42.882472+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "South Korean fintech giant Toss to launch in-app non-custodial crypto wallet: report",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers": {
+      "processed_at": "2026-11-16T10:49:42.882512+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "DBS, JPMorgan’s Kinexys launch 24/7 transfers of tokenized deposits",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum": {
+      "processed_at": "2026-11-16T10:49:42.882622+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker": {
+      "processed_at": "2026-11-16T10:49:42.882657+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper": {
+      "processed_at": "2026-11-16T10:49:42.882694+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Cardano holders vote down $5 million bid to buy warehouse copper",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions": {
+      "processed_at": "2026-11-16T10:49:42.882729+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000": {
+      "processed_at": "2026-11-16T10:49:42.882801+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3": {
+      "processed_at": "2026-11-16T10:49:42.882872+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes": {
+      "processed_at": "2026-11-16T10:49:42.882889+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends": {
+      "processed_at": "2026-11-16T10:49:42.882903+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "JPMorgan and DBS let clients move dollars across borders on weekends",
+      "source": "CoinDesk"
     }
   }
 }
