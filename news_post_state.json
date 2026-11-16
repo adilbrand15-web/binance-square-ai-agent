@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T23:27:42.492081+00:00",
+  "updated_at": "2026-11-16T02:57:26.423159+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -7060,6 +7060,13 @@
       "score": 10,
       "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
       "source": "The Block"
+    },
+    "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack": {
+      "processed_at": "2026-11-16T02:57:26.423146+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Luxor CEO warns of AI ‘dark forest’ after Bitcoin miner hijack",
+      "source": "Cointelegraph"
     }
   }
 }
