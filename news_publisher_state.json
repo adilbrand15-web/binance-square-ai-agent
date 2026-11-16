@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
-      "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
-      "source": "CoinDesk",
-      "importance_score": 6,
-      "post_text": "📰 Crypto News Update\n\nBitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump\n\n#Bitcoin #FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-29T16:19:40.067182+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s",
       "title": "NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
       "source": "CoinDesk",
@@ -1673,6 +1664,33 @@
       "post_text": "📰 Crypto News Update\n\nCZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807\n\n#Bitcoin #Binance #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-15T23:27:55.925079+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3",
+      "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nHarvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-16T10:50:04.099227+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes",
+      "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nAster CEO suspects foul play after token plunges 32% in minutes\n\nWhy it matters: This market development may be relevant to volatility, liquidity, and trader sentiment.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-16T10:50:04.099245+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
+      "title": "JPMorgan and DBS let clients move dollars across borders on weekends",
+      "source": "CoinDesk",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nJPMorgan and DBS let clients move dollars across borders on weekends\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 8/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-16T10:50:04.099249+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2800,10 +2818,19 @@
       "post_id": "388737701101445",
       "post_link": "https://app.binance.com/uni-qr/cpos/388737701101445?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump": {
+      "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
+      "source": "CoinDesk",
+      "importance_score": 6,
+      "published_at": "2026-11-16T10:50:05.260576+00:00",
+      "post_id": "388853780996384",
+      "post_link": "https://app.binance.com/uni-qr/cpos/388853780996384?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-16T02:57:45.446511+00:00",
+  "last_run_at": "2026-11-16T10:50:05.269918+00:00",
   "last_run_published_count": 1
 }
