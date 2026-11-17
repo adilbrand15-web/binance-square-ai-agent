@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
-      "title": "Polymarket resumes trading after $2.65 million exploit, says third-party provider was compromised",
-      "source": "The Block",
-      "importance_score": 7,
-      "post_text": "📰 Crypto News Update\n\nPolymarket resumes trading after $2.65 million exploit, says third-party provider was compromised\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 7/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-29T21:18:30.332130+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
       "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
       "source": "CoinDesk",
@@ -1763,6 +1754,51 @@
       "post_text": "📰 Crypto News Update\n\nLighter recovers $5M after $10M exploit linked to compromised API keys\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-17T03:24:08.005616+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear",
+      "title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-17T12:17:09.983452+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
+      "title": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nHackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-17T12:17:09.983471+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws",
+      "title": "Google says hackers use AI agents to find and exploit software flaws",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nGoogle says hackers use AI agents to find and exploit software flaws\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-17T12:17:09.983478+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
+      "title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance hacker moves $63 million in stolen ether after 2 weeks of silence\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence\n\n#Ethereum #Binance #CryptoSecurity #CryptoNews #Cryptocurrency",
+      "added_at": "2026-11-17T12:17:09.983480+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083",
+      "title": "Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nGrayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-17T12:17:09.983483+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2917,10 +2953,19 @@
       "post_id": "389098081941656",
       "post_link": "https://app.binance.com/uni-qr/cpos/389098081941656?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158": {
+      "title": "Polymarket resumes trading after $2.65 million exploit, says third-party provider was compromised",
+      "source": "The Block",
+      "importance_score": 7,
+      "published_at": "2026-11-17T12:17:11.032851+00:00",
+      "post_id": "389229080141304",
+      "post_link": "https://app.binance.com/uni-qr/cpos/389229080141304?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-17T03:24:09.053405+00:00",
+  "last_run_at": "2026-11-17T12:17:11.044049+00:00",
   "last_run_published_count": 1
 }
