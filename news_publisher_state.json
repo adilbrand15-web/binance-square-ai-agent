@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
-      "title": "Potential multi-billion Binance hack hitting crypto markets",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nPotential multi-billion Binance hack hitting crypto markets\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-29T21:18:30.332116+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
       "title": "Polymarket resumes trading after $2.65 million exploit, says third-party provider was compromised",
       "source": "The Block",
@@ -1727,6 +1718,51 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations\n\nWhy it matters: This market development may be relevant to volatility, liquidity, and trader sentiment.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-16T20:48:36.765584+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites",
+      "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nHackers inject credit card, crypto-stealing malware into 178 major websites\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-17T03:24:08.005590+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx",
+      "title": "Binance hack may push institutions to outside custody, FalconX exec says",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance hack may push institutions to outside custody, FalconX exec says\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-17T03:24:08.005604+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
+      "title": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
+      "source": "The Block",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nCFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-17T03:24:08.005609+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access",
+      "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nCustodia Bank loses Supreme Court bid for direct Fed payment access\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access\n\n#FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-17T03:24:08.005614+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit",
+      "title": "Lighter recovers $5M after $10M exploit linked to compromised API keys",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nLighter recovers $5M after $10M exploit linked to compromised API keys\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-17T03:24:08.005616+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2872,10 +2908,19 @@
       "post_id": "389000878790979",
       "post_link": "https://app.binance.com/uni-qr/cpos/389000878790979?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets": {
+      "title": "Potential multi-billion Binance hack hitting crypto markets",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-11-17T03:24:09.049419+00:00",
+      "post_id": "389098081941656",
+      "post_link": "https://app.binance.com/uni-qr/cpos/389098081941656?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-16T20:48:37.786574+00:00",
+  "last_run_at": "2026-11-17T03:24:09.053405+00:00",
   "last_run_published_count": 1
 }
