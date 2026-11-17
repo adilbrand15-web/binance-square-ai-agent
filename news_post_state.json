@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T12:16:51.526085+00:00",
+  "updated_at": "2026-11-17T21:11:49.877441+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -7528,6 +7528,160 @@
       "status": "draft_created",
       "score": 10,
       "title": "Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis": {
+      "processed_at": "2026-11-17T21:11:49.875918+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade": {
+      "processed_at": "2026-11-17T21:11:49.875986+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850": {
+      "processed_at": "2026-11-17T21:11:49.876053+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Jito’s Lucas Bruder says crypto builders need to ‘slow down’ and fix security weaknesses",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts": {
+      "processed_at": "2026-11-17T21:11:49.876106+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842": {
+      "processed_at": "2026-11-17T21:11:49.876153+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Coinbase expands onchain crypto loans to New York via Morpho",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls": {
+      "processed_at": "2026-11-17T21:11:49.876202+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Lighter incident exposes risks beyond withdrawal controls",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/newsletters/data-and-insights/2026-11-17-everyone-is-trading-tokenized-nvidia-derivatives-442818": {
+      "processed_at": "2026-11-17T21:11:49.876327+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Everyone is Trading Tokenized Nvidia Derivatives",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings": {
+      "processed_at": "2026-11-17T21:11:49.876415+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-17-alpaca-says-tokenization-network-tops-10-billion-minting-redemption-volume-442667": {
+      "processed_at": "2026-11-17T21:11:49.876463+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Alpaca says tokenization network tops $10 billion in minting and redemption volume",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed": {
+      "processed_at": "2026-11-17T21:11:49.876576+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake": {
+      "processed_at": "2026-11-17T21:11:49.876624+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-11-17-bernstein-sees-upside-for-bitcoin-miners-riot-and-terawulf-citing-discounts-to-implied-ai-data-center-values-442125": {
+      "processed_at": "2026-11-17T21:11:49.876772+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bernstein sees upside for bitcoin miners Riot and TeraWulf, citing discounts to implied AI data center values",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi": {
+      "processed_at": "2026-11-17T21:11:49.876824+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/deals/2026-11-17-avenia-funding-stablecoin-crypto-infrastructure-442119": {
+      "processed_at": "2026-11-17T21:11:49.876920+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Stablecoin infrastructure firm Avenia raises $25 million in Series A extension",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps": {
+      "processed_at": "2026-11-17T21:11:49.877017+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/ecosystems/2026-11-17-grvt-launches-rwa-perpetuals-with-funding-tied-to-traditional-markets-442089": {
+      "processed_at": "2026-11-17T21:11:49.877122+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Grvt launches RWA perpetuals with funding tied to traditional markets",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets": {
+      "processed_at": "2026-11-17T21:11:49.877190+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Revolut plans four blockchain-based funds for private markets, chair says",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance": {
+      "processed_at": "2026-11-17T21:11:49.877358+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales": {
+      "processed_at": "2026-11-17T21:11:49.877387+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-17-anchorage-digital-kalshi-prime-hodl-margining-bitcoin-collateral-442568": {
+      "processed_at": "2026-11-17T21:11:49.877409+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Anchorage, Kalshi Prime let institutions use custodied bitcoin as margin",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization": {
+      "processed_at": "2026-11-17T21:11:49.877424+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062": {
+      "processed_at": "2026-11-17T21:11:49.877439+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Bitwise launches ZDAY, its first non-crypto ETF, to bet on AI cyber defense",
       "source": "The Block"
     }
   }
