@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T20:48:13.123983+00:00",
+  "updated_at": "2026-11-17T03:23:51.108585+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -7354,6 +7354,69 @@
       "score": 10,
       "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
       "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases": {
+      "processed_at": "2026-11-17T03:23:51.108147+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "German lawmakers back crypto freezes outside criminal cases",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid": {
+      "processed_at": "2026-11-17T03:23:51.108285+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524": {
+      "processed_at": "2026-11-17T03:23:51.108337+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Trezor hit by another shipping partner data leak, affecting 27,000 Skladon orders",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump": {
+      "processed_at": "2026-11-17T03:23:51.108386+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites": {
+      "processed_at": "2026-11-17T03:23:51.108517+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx": {
+      "processed_at": "2026-11-17T03:23:51.108538+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance hack may push institutions to outside custody, FalconX exec says",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591": {
+      "processed_at": "2026-11-17T03:23:51.108556+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access": {
+      "processed_at": "2026-11-17T03:23:51.108571+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit": {
+      "processed_at": "2026-11-17T03:23:51.108583+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Lighter recovers $5M after $10M exploit linked to compromised API keys",
+      "source": "Cointelegraph"
     }
   }
 }
