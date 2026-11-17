@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
-      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
-      "source": "CoinDesk",
-      "importance_score": 7,
-      "post_text": "📰 Crypto News Update\n\nFrom rivals to partners: Polygon and Solana team to bring stablecoin payments to banks\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 7/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks\n\n#Stablecoin #Solana #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-29T21:18:30.332135+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report",
       "title": "Public companies double share of blockchain revenue since 2022: Report",
       "source": "Cointelegraph",
@@ -1799,6 +1790,51 @@
       "post_text": "📰 Crypto News Update\n\nGrayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-17T12:17:09.983483+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance",
+      "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nFed’s Waller cites Binance hack in warning over tokenized finance\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance\n\n#Binance #CryptoSecurity #FederalReserve #CryptoNews #Cryptocurrency",
+      "added_at": "2026-11-17T21:12:09.482248+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales",
+      "title": "ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-17T21:12:09.482268+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/business/2026-11-17-anchorage-digital-kalshi-prime-hodl-margining-bitcoin-collateral-442568",
+      "title": "Anchorage, Kalshi Prime let institutions use custodied bitcoin as margin",
+      "source": "The Block",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nAnchorage, Kalshi Prime let institutions use custodied bitcoin as margin\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-11-17-anchorage-digital-kalshi-prime-hodl-margining-bitcoin-collateral-442568\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-17T21:12:09.482272+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
+      "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
+      "source": "CoinDesk",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nU.S. Fed Governor Waller pitches keeping central bank at the center of tokenization\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 8/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization\n\n#FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-17T21:12:09.482275+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062",
+      "title": "Bitwise launches ZDAY, its first non-crypto ETF, to bet on AI cyber defense",
+      "source": "The Block",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nBitwise launches ZDAY, its first non-crypto ETF, to bet on AI cyber defense\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 8/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062\n\n#CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-17T21:12:09.482277+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -2962,10 +2998,19 @@
       "post_id": "389229080141304",
       "post_link": "https://app.binance.com/uni-qr/cpos/389229080141304?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks": {
+      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+      "source": "CoinDesk",
+      "importance_score": 7,
+      "published_at": "2026-11-17T21:12:10.591293+00:00",
+      "post_id": "389360560060802",
+      "post_link": "https://app.binance.com/uni-qr/cpos/389360560060802?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-17T12:17:11.044049+00:00",
+  "last_run_at": "2026-11-17T21:12:10.595463+00:00",
   "last_run_published_count": 1
 }
