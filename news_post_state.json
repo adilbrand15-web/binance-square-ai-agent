@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T12:03:24.869771+00:00",
+  "updated_at": "2026-11-18T20:47:40.425584+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -7829,6 +7829,181 @@
       "status": "draft_created",
       "score": 6,
       "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto": {
+      "processed_at": "2026-11-18T20:47:40.423589+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482": {
+      "processed_at": "2026-11-18T20:47:40.423803+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Ondo to launch tokenized Anthropic stock on IPO day",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales": {
+      "processed_at": "2026-11-18T20:47:40.423892+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook": {
+      "processed_at": "2026-11-18T20:47:40.423965+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471": {
+      "processed_at": "2026-11-18T20:47:40.424040+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "CryptoQuant says bitcoin is back in a bearish phase but has reached a ‘value zone’",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/business/2026-11-18-bullishs-q3-adjusted-profit-rises-35-digital-asset-sales-fall-23-443456": {
+      "processed_at": "2026-11-18T20:47:40.424163+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Bullish’s Q3 adjusted profit rises 35%, digital asset sales fall 23%",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/polymarket-us-takes-rapid-fire-crypto-trading-format-oil-natural-gas": {
+      "processed_at": "2026-11-18T20:47:40.424212+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Polymarket US takes rapid-fire crypto trading format to oil, natural gas",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457": {
+      "processed_at": "2026-11-18T20:47:40.424313+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Visa Direct to extend stablecoin prefunding for cross-border payouts to Asia-Pacific",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault": {
+      "processed_at": "2026-11-18T20:47:40.424386+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445": {
+      "processed_at": "2026-11-18T20:47:40.424439+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Variational raises $110 million at $1.5 billion valuation to expand onchain derivatives trading",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears": {
+      "processed_at": "2026-11-18T20:47:40.424535+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys": {
+      "processed_at": "2026-11-18T20:47:40.424665+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017": {
+      "processed_at": "2026-11-18T20:47:40.424736+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "‘Gift from the market’: Bitcoin shows signs of a local bottom after six weeks of losses, analyst says",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks": {
+      "processed_at": "2026-11-18T20:47:40.424797+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/sanctions-fears-russia-crypto-launch": {
+      "processed_at": "2026-11-18T20:47:40.424889+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Sanctions fears loom over Russia’s regulated crypto trading launch",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/magazine/how-to-preserve-wealth-and-access-it-during-a-national-emergency": {
+      "processed_at": "2026-11-18T20:47:40.424955+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "How to preserve wealth and access funds during a national emergency",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans": {
+      "processed_at": "2026-11-18T20:47:40.425056+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/tokenized-nvidia-cap-rises-158-stock-loses-750b": {
+      "processed_at": "2026-11-18T20:47:40.425127+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Tokenized Nvidia market cap surges 159% amid Jensen Huang’s exit",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes": {
+      "processed_at": "2026-11-18T20:47:40.425208+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say": {
+      "processed_at": "2026-11-18T20:47:40.425341+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack": {
+      "processed_at": "2026-11-18T20:47:40.425466+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491": {
+      "processed_at": "2026-11-18T20:47:40.425496+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits": {
+      "processed_at": "2026-11-18T20:47:40.425525+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia": {
+      "processed_at": "2026-11-18T20:47:40.425547+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike": {
+      "processed_at": "2026-11-18T20:47:40.425581+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike",
       "source": "Cointelegraph"
     }
   }
