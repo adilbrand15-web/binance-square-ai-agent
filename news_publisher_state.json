@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
-      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nBinance hack drained wallets backing customer assets, reserve data shows\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-30T01:14:30.889225+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide",
       "title": "Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides",
       "source": "Cointelegraph",
@@ -1862,6 +1853,51 @@
       "post_text": "📰 Crypto News Update\n\nWorld Bank partners with Circle, Citi to explore stablecoins for payments\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-18T12:03:43.474348+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack",
+      "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance says it obtained $6.5B worldwide freezing order after hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-18T20:48:01.590476+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491",
+      "title": "Binance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491\n\n#Binance #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-18T20:48:01.590502+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits",
+      "title": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\n$25M Ethereum MEV acquittal tests criminal enforcement limits\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits\n\n#Ethereum #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-18T20:48:01.590512+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
+      "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nCircle turns to DBS as banks build rival digital payment systems across Asia\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-18T20:48:01.590515+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike",
+      "title": "Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nBitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike\n\n#Bitcoin #FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-18T20:48:01.590518+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3052,10 +3088,19 @@
       "post_id": "389579670620586",
       "post_link": "https://app.binance.com/uni-qr/cpos/389579670620586?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows": {
+      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-11-18T20:48:02.854033+00:00",
+      "post_id": "389708524406678",
+      "post_link": "https://app.binance.com/uni-qr/cpos/389708524406678?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-18T12:03:44.387227+00:00",
+  "last_run_at": "2026-11-18T20:48:02.862030+00:00",
   "last_run_published_count": 1
 }
