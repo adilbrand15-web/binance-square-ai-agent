@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T03:02:02.110912+00:00",
+  "updated_at": "2026-11-18T12:03:24.869771+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -7724,6 +7724,111 @@
       "status": "ignored_low_importance",
       "score": 0,
       "title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher": {
+      "processed_at": "2026-11-18T12:03:24.868938+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/ecosystems/2026-11-18-td-cowen-maintains-buy-rating-sharplink-442987": {
+      "processed_at": "2026-11-18T12:03:24.869001+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "TD Cowen tempers ether outlook, maintains Buy rating on Sharplink",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat": {
+      "processed_at": "2026-11-18T12:03:24.869153+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/18/strategy-stock-could-crash-76-to-usd23-chart-analyst-warns": {
+      "processed_at": "2026-11-18T12:03:24.869198+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Strategy stock could plunge 76% to $23, chart analyst warns",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-18-hong-kong-agentic-ai-crypto-crime-442959": {
+      "processed_at": "2026-11-18T12:03:24.869309+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Hong Kong central bank explores agentic AI to detect crypto-related financial crime",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up": {
+      "processed_at": "2026-11-18T12:03:24.869442+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902": {
+      "processed_at": "2026-11-18T12:03:24.869537+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Ark Invest buys crypto stocks as it sells $85 million in Nvidia, Coinbase brings onchain loans to New York, and more",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record": {
+      "processed_at": "2026-11-18T12:03:24.869574+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges": {
+      "processed_at": "2026-11-18T12:03:24.869614+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924": {
+      "processed_at": "2026-11-18T12:03:24.869648+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase": {
+      "processed_at": "2026-11-18T12:03:24.869721+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files": {
+      "processed_at": "2026-11-18T12:03:24.869735+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Google finds self-running AI hacking tool with Russian comments in its files",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike": {
+      "processed_at": "2026-11-18T12:03:24.869749+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing": {
+      "processed_at": "2026-11-18T12:03:24.869760+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments": {
+      "processed_at": "2026-11-18T12:03:24.869770+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
       "source": "Cointelegraph"
     }
   }
