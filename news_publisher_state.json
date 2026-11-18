@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026",
-      "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
-      "source": "Cointelegraph",
-      "importance_score": 6,
-      "post_text": "📰 Crypto News Update\n\nNasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026\n\n#CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-29T21:18:30.332143+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
       "title": "Binance hack drained wallets backing customer assets, reserve data shows",
       "source": "CoinDesk",
@@ -1826,6 +1817,51 @@
       "post_text": "📰 Crypto News Update\n\nBitwise launches ZDAY, its first non-crypto ETF, to bet on AI cyber defense\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 8/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062\n\n#CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-17T21:12:09.482277+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase",
+      "title": "Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs lose $240M as CryptoQuant flags bearish market phase\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-18T12:03:43.474312+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
+      "title": "Google finds self-running AI hacking tool with Russian comments in its files",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nGoogle finds self-running AI hacking tool with Russian comments in its files\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-18T12:03:43.474335+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
+      "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
+      "source": "CoinDesk",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nBitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 8/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike\n\n#Bitcoin #FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-18T12:03:43.474340+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing",
+      "title": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nBitwise seeks Texas Stock Exchange listing for Zcash ETF\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing\n\n#CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-18T12:03:43.474343+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments",
+      "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nWorld Bank partners with Circle, Citi to explore stablecoins for payments\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-18T12:03:43.474348+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3007,10 +3043,19 @@
       "post_id": "389446616412968",
       "post_link": "https://app.binance.com/uni-qr/cpos/389446616412968?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026": {
+      "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "published_at": "2026-11-18T12:03:44.382225+00:00",
+      "post_id": "389579670620586",
+      "post_link": "https://app.binance.com/uni-qr/cpos/389579670620586?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-18T03:02:20.456517+00:00",
+  "last_run_at": "2026-11-18T12:03:44.387227+00:00",
   "last_run_published_count": 1
 }
