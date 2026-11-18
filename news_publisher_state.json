@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report",
-      "title": "Public companies double share of blockchain revenue since 2022: Report",
-      "source": "Cointelegraph",
-      "importance_score": 6,
-      "post_text": "📰 Crypto News Update\n\nPublic companies double share of blockchain revenue since 2022: Report\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report\n\n#CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-29T21:18:30.332138+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026",
       "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
       "source": "Cointelegraph",
@@ -3007,10 +2998,19 @@
       "post_id": "389360560060802",
       "post_link": "https://app.binance.com/uni-qr/cpos/389360560060802?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report": {
+      "title": "Public companies double share of blockchain revenue since 2022: Report",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "published_at": "2026-11-18T03:02:20.451590+00:00",
+      "post_id": "389446616412968",
+      "post_link": "https://app.binance.com/uni-qr/cpos/389446616412968?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-17T21:12:10.595463+00:00",
+  "last_run_at": "2026-11-18T03:02:20.456517+00:00",
   "last_run_published_count": 1
 }
