@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T02:16:03.417835+00:00",
+  "updated_at": "2026-11-19T10:36:34.252857+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -8054,6 +8054,83 @@
       "score": 6,
       "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
       "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network": {
+      "processed_at": "2026-11-19T10:36:34.252093+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562": {
+      "processed_at": "2026-11-19T10:36:34.252190+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Singapore’s MAS issues $77 million in tokenized bills settled via CBDC",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/btcpay-server-emergency-update-nginx-security-flaws": {
+      "processed_at": "2026-11-19T10:36:34.252235+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "BTCPay Server issues emergency update for 5 security flaws",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal": {
+      "processed_at": "2026-11-19T10:36:34.252600+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day": {
+      "processed_at": "2026-11-19T10:36:34.252682+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/web3/2026-11-18-standard-chartered-straitsx-ocbc-tokenized-deposit-poc-442964": {
+      "processed_at": "2026-11-19T10:36:34.252722+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Standard Chartered, StraitsX, OCBC complete trial of tokenized deposit interoperability",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows": {
+      "processed_at": "2026-11-19T10:36:34.252798+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks": {
+      "processed_at": "2026-11-19T10:36:34.252814+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance hackers stole 192 tokens across 11 networks, court docs show",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/web3/2026-11-18-ledger-new-hardware-incidents-germany-uae-443530": {
+      "processed_at": "2026-11-19T10:36:34.252826+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Ledger expands hardware hack investigation to Germany, UAE as new cases emerge",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million": {
+      "processed_at": "2026-11-19T10:36:34.252843+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion": {
+      "processed_at": "2026-11-19T10:36:34.252855+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
+      "source": "Cointelegraph"
     }
   }
 }
