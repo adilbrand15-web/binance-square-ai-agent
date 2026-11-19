@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns",
-      "title": "Live updates: Binance says $3B in crypto frozen in connection to hack",
-      "source": "Cointelegraph",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nLive updates: Binance says $3B in crypto frozen in connection to hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-30T01:14:30.889253+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo",
       "title": "Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO",
       "source": "Cointelegraph",
@@ -1943,6 +1934,51 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-19T10:36:49.737676+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
+      "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance wins $6.5 billion feezing order against hackers behind crypto's largest theft\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-19T19:21:07.527436+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
+      "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-19T19:21:07.527450+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large",
+      "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin holds above $63,750 but Fed rate-hike threats loom large\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large\n\n#Bitcoin #FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-19T19:21:07.527454+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
+      "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nNorth Korean hackers used Sky's stablecoin system, putting billions at freeze risk\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk\n\n#Stablecoin #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-19T19:21:07.527457+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship",
+      "title": "Ethereum’s new DeFi security tool raises questions over censorship",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nEthereum’s new DeFi security tool raises questions over censorship\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship\n\n#Ethereum #CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-19T19:21:07.527459+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3160,10 +3196,19 @@
       "post_id": "389912219708279",
       "post_link": "https://app.binance.com/uni-qr/cpos/389912219708279?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns": {
+      "title": "Live updates: Binance says $3B in crypto frozen in connection to hack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "published_at": "2026-11-19T19:21:08.435409+00:00",
+      "post_id": "390041060622075",
+      "post_link": "https://app.binance.com/uni-qr/cpos/390041060622075?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-19T10:36:53.139838+00:00",
+  "last_run_at": "2026-11-19T19:21:08.439862+00:00",
   "last_run_published_count": 1
 }
