@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T10:36:34.252857+00:00",
+  "updated_at": "2026-11-19T19:20:48.247313+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -8130,6 +8130,160 @@
       "status": "draft_created",
       "score": 9,
       "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105": {
+      "processed_at": "2026-11-19T19:20:48.245616+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Ripple’s Alderoty doubts Elizabeth Warren will ‘set crypto policy in this country,’ backs durable agency rules",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms": {
+      "processed_at": "2026-11-19T19:20:48.245809+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Why higher rates could slow Bitcoin buying at treasury firms",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100": {
+      "processed_at": "2026-11-19T19:20:48.245857+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106": {
+      "processed_at": "2026-11-19T19:20:48.245903+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829": {
+      "processed_at": "2026-11-19T19:20:48.245986+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Tokenized Stocks Shrug Off the Crypto Selloff",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure": {
+      "processed_at": "2026-11-19T19:20:48.246035+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price": {
+      "processed_at": "2026-11-19T19:20:48.246080+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Anthropic shares open at $111.50, 34.3% above $83 IPO price",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-19-hill-moreno-blame-delays-missed-clarity-act-window-split-regulators-fill-gap-443615": {
+      "processed_at": "2026-11-19T19:20:48.246124+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Hill, Moreno blame delays for missed Clarity Act window but differ on reach of agency rulemaking",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test": {
+      "processed_at": "2026-11-19T19:20:48.246306+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list": {
+      "processed_at": "2026-11-19T19:20:48.246354+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin": {
+      "processed_at": "2026-11-19T19:20:48.246402+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia": {
+      "processed_at": "2026-11-19T19:20:48.246446+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-19-us-launches-cybercrime-center-with-trm-labs-to-help-trace-crypto-tied-to-scams-443599": {
+      "processed_at": "2026-11-19T19:20:48.246564+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "US launches cybercrime center with TRM Labs to help trace crypto tied to scams",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul": {
+      "processed_at": "2026-11-19T19:20:48.246757+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Anthropic’s $107 billion sale set to top SpaceX’s IPO as tokenized stocks gain traction",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574": {
+      "processed_at": "2026-11-19T19:20:48.246822+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "1inch integrates Hyperliquid’s perpetual futures contracts into its dApp and wallet platform",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech": {
+      "processed_at": "2026-11-19T19:20:48.246938+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Live updates: Bitcoin falls as strong Anthropic opening fails to lift animal spirits",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-11-19-ant-international-protocol-tokenized-assets-443586": {
+      "processed_at": "2026-11-19T19:20:48.247076+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Ant International launches protocol for real-time settlement between tokenized deposits and money market funds",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft": {
+      "processed_at": "2026-11-19T19:20:48.247203+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut": {
+      "processed_at": "2026-11-19T19:20:48.247234+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large": {
+      "processed_at": "2026-11-19T19:20:48.247262+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk": {
+      "processed_at": "2026-11-19T19:20:48.247282+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship": {
+      "processed_at": "2026-11-19T19:20:48.247309+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Ethereum’s new DeFi security tool raises questions over censorship",
       "source": "Cointelegraph"
     }
   }
