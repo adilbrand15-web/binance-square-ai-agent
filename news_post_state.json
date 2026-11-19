@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T20:47:40.425584+00:00",
+  "updated_at": "2026-11-19T02:16:03.417835+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -8005,6 +8005,55 @@
       "score": 8,
       "title": "Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike",
       "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments": {
+      "processed_at": "2026-11-19T02:16:03.417359+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Trump administration unveils new center to choke off scam payments",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show": {
+      "processed_at": "2026-11-19T02:16:03.417455+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe": {
+      "processed_at": "2026-11-19T02:16:03.417564+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks": {
+      "processed_at": "2026-11-19T02:16:03.417666+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation": {
+      "processed_at": "2026-11-19T02:16:03.417713+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501": {
+      "processed_at": "2026-11-19T02:16:03.417808+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Senators: Treasury must ensure ‘equal footing’ for stablecoin issuers in GENIUS Act implementation",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds": {
+      "processed_at": "2026-11-19T02:16:03.417832+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+      "source": "CoinDesk"
     }
   }
 }
