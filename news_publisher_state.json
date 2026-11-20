@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo",
-      "title": "Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO",
-      "source": "Cointelegraph",
-      "importance_score": 9,
-      "post_text": "📰 Crypto News Update\n\nBinance hack may involve private key ‘misuse,’ not theft: Blockaid CEO\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-30T01:14:30.889255+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators",
       "title": "North Korea’s TraderTraitor linked to $6.3B Binance hack",
       "source": "Cointelegraph",
@@ -1979,6 +1970,24 @@
       "post_text": "📰 Crypto News Update\n\nEthereum’s new DeFi security tool raises questions over censorship\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship\n\n#Ethereum #CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-19T19:21:07.527459+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express",
+      "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express\n\n#Binance #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-20T01:23:23.060629+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services",
+      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+      "source": "Cointelegraph",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nMoonPay seeks US bank charter for stablecoin, custody services\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-20T01:23:23.060646+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3205,10 +3214,19 @@
       "post_id": "390041060622075",
       "post_link": "https://app.binance.com/uni-qr/cpos/390041060622075?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo": {
+      "title": "Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "published_at": "2026-11-20T01:23:24.102068+00:00",
+      "post_id": "390130089941151",
+      "post_link": "https://app.binance.com/uni-qr/cpos/390130089941151?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-19T19:21:08.439862+00:00",
+  "last_run_at": "2026-11-20T01:23:24.128940+00:00",
   "last_run_published_count": 1
 }
