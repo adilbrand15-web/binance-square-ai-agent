@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T08:52:46.724771+00:00",
+  "updated_at": "2026-11-20T17:32:06.834024+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -8418,6 +8418,118 @@
       "score": 6,
       "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
       "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff": {
+      "processed_at": "2026-11-20T17:32:06.833230+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off": {
+      "processed_at": "2026-11-20T17:32:06.833363+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client": {
+      "processed_at": "2026-11-20T17:32:06.833405+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "DBS bets it can lose the deposit and keep the client",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720": {
+      "processed_at": "2026-11-20T17:32:06.833437+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Rep. Horsford sees opening for House vote on crypto tax bill before Congress ends",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721": {
+      "processed_at": "2026-11-20T17:32:06.833498+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Wintermute policy chief calls for crypto lobby to ‘clean house’ in D.C.",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys": {
+      "processed_at": "2026-11-20T17:32:06.833563+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules": {
+      "processed_at": "2026-11-20T17:32:06.833600+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market": {
+      "processed_at": "2026-11-20T17:32:06.833634+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging": {
+      "processed_at": "2026-11-20T17:32:06.833686+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k": {
+      "processed_at": "2026-11-20T17:32:06.833871+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading": {
+      "processed_at": "2026-11-20T17:32:06.833903+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747": {
+      "processed_at": "2026-11-20T17:32:06.833975+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217": {
+      "processed_at": "2026-11-20T17:32:06.833992+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "US spot bitcoin ETFs see $582 million in daily net outflows as November total nears $3.5 billion",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226": {
+      "processed_at": "2026-11-20T17:32:06.834004+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide": {
+      "processed_at": "2026-11-20T17:32:06.834016+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin drops for third straight day as Asian tech shares slide",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip": {
+      "processed_at": "2026-11-20T17:32:06.834023+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
+      "source": "Cointelegraph"
     }
   }
 }
