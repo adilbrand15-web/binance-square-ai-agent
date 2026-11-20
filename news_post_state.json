@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T19:20:48.247313+00:00",
+  "updated_at": "2026-11-20T01:23:06.827000+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -8284,6 +8284,55 @@
       "status": "draft_created",
       "score": 9,
       "title": "Ethereum’s new DeFi security tool raises questions over censorship",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company": {
+      "processed_at": "2026-11-20T01:23:06.826583+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price": {
+      "processed_at": "2026-11-20T01:23:06.826764+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133": {
+      "processed_at": "2026-11-20T01:23:06.826813+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Kalshi’s Quintenz says insider trading is ‘just easier to see’ in prediction markets than stocks",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks": {
+      "processed_at": "2026-11-20T01:23:06.826855+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report": {
+      "processed_at": "2026-11-20T01:23:06.826895+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express": {
+      "processed_at": "2026-11-20T01:23:06.826978+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services": {
+      "processed_at": "2026-11-20T01:23:06.826998+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
       "source": "Cointelegraph"
     }
   }
