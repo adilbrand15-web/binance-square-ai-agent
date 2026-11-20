@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
-      "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nBinance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze\n\n#Bitcoin #Binance #CryptoSecurity #CryptoNews #Cryptocurrency",
-      "added_at": "2026-10-30T07:31:55.887994+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
       "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
       "source": "CoinDesk",
@@ -2051,6 +2042,51 @@
       "post_text": "📰 Crypto News Update\n\nBinance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip\n\n#Ethereum #Binance #CryptoSecurity #CryptoNews #Cryptocurrency",
       "added_at": "2026-11-20T17:32:26.186050+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit",
+      "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nWrapped Monero token crashes 99.8% amid suspected $13.5M exploit\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-20T23:41:05.101379+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
+      "title": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBinance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758\n\n#Bitcoin #Binance #CryptoSecurity #CryptoNews #Cryptocurrency",
+      "added_at": "2026-11-20T23:41:05.101398+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784",
+      "title": "DCG’s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
+      "source": "The Block",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nDCG’s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high\n\nWhy it matters: This market development may be relevant to volatility, liquidity, and trader sentiment.\n\nImportance score: 9/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-20T23:41:05.101402+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+      "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+      "source": "CoinDesk",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nFairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 8/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment\n\n#Ethereum #CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-20T23:41:05.101404+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+      "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
+      "source": "CoinDesk",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nBitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play\n\nWhy it matters: This market development may be relevant to volatility, liquidity, and trader sentiment.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-20T23:41:05.101405+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3304,10 +3340,19 @@
       "post_id": "390368243913593",
       "post_link": "https://app.binance.com/uni-qr/cpos/390368243913593?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze": {
+      "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-11-20T23:41:06.150137+00:00",
+      "post_id": "390458843375287",
+      "post_link": "https://app.binance.com/uni-qr/cpos/390458843375287?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-20T17:32:27.172078+00:00",
+  "last_run_at": "2026-11-20T23:41:06.154451+00:00",
   "last_run_published_count": 1
 }
