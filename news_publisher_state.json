@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators",
-      "title": "North Korea’s TraderTraitor linked to $6.3B Binance hack",
-      "source": "Cointelegraph",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nNorth Korea’s TraderTraitor linked to $6.3B Binance hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-30T07:31:55.887978+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
       "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
       "source": "CoinDesk",
@@ -1988,6 +1979,42 @@
       "post_text": "📰 Crypto News Update\n\nMoonPay seeks US bank charter for stablecoin, custody services\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 7/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services\n\n#Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-20T01:23:23.060646+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
+      "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nVanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs\n\n#Bitcoin #Ethereum #CryptoETF #CryptoNews #Cryptocurrency",
+      "added_at": "2026-11-20T08:53:08.351298+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow",
+      "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nBlackRock’s IBIT loses record $541M amid Anthropic market debut\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-20T08:53:08.351314+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak",
+      "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nInstitutions pile back into US Bitcoin ETFs in Q3 after selling streak\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-20T08:53:08.351319+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
+      "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
+      "source": "CoinDesk",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nEthereum’s next big upgrade is pushed into 2027 by apps it would break\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break\n\n#Ethereum #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-20T08:53:08.351322+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3223,10 +3250,19 @@
       "post_id": "390130089941151",
       "post_link": "https://app.binance.com/uni-qr/cpos/390130089941151?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators": {
+      "title": "North Korea’s TraderTraitor linked to $6.3B Binance hack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "published_at": "2026-11-20T08:53:09.325688+00:00",
+      "post_id": "390240621438955",
+      "post_link": "https://app.binance.com/uni-qr/cpos/390240621438955?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-20T01:23:24.128940+00:00",
+  "last_run_at": "2026-11-20T08:53:09.331160+00:00",
   "last_run_published_count": 1
 }
