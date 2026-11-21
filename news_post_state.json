@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T05:39:27.813879+00:00",
+  "updated_at": "2026-11-21T14:13:25.685863+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -8607,6 +8607,41 @@
       "score": 8,
       "title": "JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more",
       "source": "The Block"
+    },
+    "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia": {
+      "processed_at": "2026-11-21T14:13:25.685632+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug": {
+      "processed_at": "2026-11-21T14:13:25.685686+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill": {
+      "processed_at": "2026-11-21T14:13:25.685775+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion": {
+      "processed_at": "2026-11-21T14:13:25.685845+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated": {
+      "processed_at": "2026-11-21T14:13:25.685861+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+      "source": "CoinDesk"
     }
   }
 }
