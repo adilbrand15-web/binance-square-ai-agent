@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T14:13:25.685863+00:00",
+  "updated_at": "2026-11-21T20:37:18.324934+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -8641,6 +8641,27 @@
       "status": "draft_created",
       "score": 9,
       "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804": {
+      "processed_at": "2026-11-21T20:37:18.324812+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Chainflip’s FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810": {
+      "processed_at": "2026-11-21T20:37:18.324906+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open": {
+      "processed_at": "2026-11-21T20:37:18.324931+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
       "source": "CoinDesk"
     }
   }
