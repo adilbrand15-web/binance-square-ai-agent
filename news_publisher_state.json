@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
-      "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\n$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead\n\n#Bitcoin #Ethereum #Binance #CryptoSecurity #CryptoNews",
-      "added_at": "2026-10-30T07:31:55.887999+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
       "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
       "source": "CoinDesk",
@@ -2087,6 +2078,15 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play\n\nWhy it matters: This market development may be relevant to volatility, liquidity, and trader sentiment.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-20T23:41:05.101405+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
+      "title": "JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more",
+      "source": "The Block",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nJPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 8/10\nSource: The Block\nRead the original report: https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-21T05:39:42.590514+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3349,10 +3349,19 @@
       "post_id": "390458843375287",
       "post_link": "https://app.binance.com/uni-qr/cpos/390458843375287?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead": {
+      "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-11-21T05:39:43.617769+00:00",
+      "post_id": "390546978856478",
+      "post_link": "https://app.binance.com/uni-qr/cpos/390546978856478?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-20T23:41:06.154451+00:00",
+  "last_run_at": "2026-11-21T05:39:43.621709+00:00",
   "last_run_published_count": 1
 }
