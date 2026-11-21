@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
-      "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nInstitutional crypto investors rush to pull funds from exchanges after Binance hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-30T07:31:55.888001+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack",
       "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
       "source": "CoinDesk",
@@ -2087,6 +2078,24 @@
       "post_text": "📰 Crypto News Update\n\nJPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 8/10\nSource: The Block\nRead the original report: https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-21T05:39:42.590514+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nXRP falls 10% as long bets unwind and ETF assets slip below $1 billion\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion\n\n#CryptoETF #XRP #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-21T14:13:42.731298+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+      "source": "CoinDesk",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nEther treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated\n\n#Bitcoin #Ethereum #CryptoRegulation #CryptoNews #Cryptocurrency",
+      "added_at": "2026-11-21T14:13:42.731318+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3358,10 +3367,19 @@
       "post_id": "390546978856478",
       "post_link": "https://app.binance.com/uni-qr/cpos/390546978856478?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack": {
+      "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-11-21T14:13:43.684218+00:00",
+      "post_id": "390673299743895",
+      "post_link": "https://app.binance.com/uni-qr/cpos/390673299743895?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-21T05:39:43.621709+00:00",
+  "last_run_at": "2026-11-21T14:13:43.695076+00:00",
   "last_run_published_count": 1
 }
