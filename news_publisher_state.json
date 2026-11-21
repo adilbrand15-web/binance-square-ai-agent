@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack",
-      "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nWall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-30T14:50:06.621840+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor",
       "title": "Live updates: Binance says $6.34B set aside to cover hack losses",
       "source": "Cointelegraph",
@@ -2096,6 +2087,24 @@
       "post_text": "📰 Crypto News Update\n\nEther treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated\n\n#Bitcoin #Ethereum #CryptoRegulation #CryptoNews #Cryptocurrency",
       "added_at": "2026-11-21T14:13:42.731318+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+      "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nCyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-21T20:37:33.287336+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+      "source": "CoinDesk",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nBitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave\n\nWhy it matters: This market development may be relevant to volatility, liquidity, and trader sentiment.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-21T20:37:33.287351+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3376,10 +3385,19 @@
       "post_id": "390673299743895",
       "post_link": "https://app.binance.com/uni-qr/cpos/390673299743895?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack": {
+      "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-11-21T20:37:34.429993+00:00",
+      "post_id": "390767633644995",
+      "post_link": "https://app.binance.com/uni-qr/cpos/390767633644995?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-21T14:13:43.695076+00:00",
+  "last_run_at": "2026-11-21T20:37:34.435457+00:00",
   "last_run_published_count": 1
 }
