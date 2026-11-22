@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack",
-      "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
-      "source": "Cointelegraph",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nBitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack\n\n#Bitcoin #Binance #CryptoSecurity #CryptoNews #Cryptocurrency",
-      "added_at": "2026-10-30T14:50:06.621863+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble",
       "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
       "source": "Cointelegraph",
@@ -2105,6 +2096,15 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin briefly drops to $17K on Kraken, exchange upholds trades\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-22T15:55:52.641918+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
+      "title": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nChainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829\n\n#Bitcoin #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-22T21:33:37.971177+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3421,10 +3421,19 @@
       "post_id": "391052302468661",
       "post_link": "https://app.binance.com/uni-qr/cpos/391052302468661?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack": {
+      "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "published_at": "2026-11-22T21:33:38.919267+00:00",
+      "post_id": "391135309093981",
+      "post_link": "https://app.binance.com/uni-qr/cpos/391135309093981?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-22T15:55:53.671507+00:00",
+  "last_run_at": "2026-11-22T21:33:38.927475+00:00",
   "last_run_published_count": 1
 }
