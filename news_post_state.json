@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T00:56:44.383771+00:00",
+  "updated_at": "2026-11-22T07:51:09.190837+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -8670,6 +8670,20 @@
       "score": 0,
       "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
       "source": "The Block"
+    },
+    "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit": {
+      "processed_at": "2026-11-22T07:51:09.190811+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty": {
+      "processed_at": "2026-11-22T07:51:09.190834+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+      "source": "Cointelegraph"
     }
   }
 }
