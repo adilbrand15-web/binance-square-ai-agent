@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
-      "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nBinance arranges $6.34 billion to cover losses from record crypto hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-30T14:50:06.621857+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
       "title": "Here's how big bitcoin traders responded after the Binance hack hit",
       "source": "CoinDesk",
@@ -2096,6 +2087,24 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave\n\nWhy it matters: This market development may be relevant to volatility, liquidity, and trader sentiment.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-21T20:37:33.287351+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit",
+      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nSouth Korean exchanges halt CYBER transfers amid suspected bridge exploit\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-22T07:51:30.746404+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty",
+      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nChainflip confirms $12M hack, offers attacker 10% bounty\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-22T07:51:30.746423+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3394,10 +3403,19 @@
       "post_id": "390831389258771",
       "post_link": "https://app.binance.com/uni-qr/cpos/390831389258771?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack": {
+      "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-11-22T07:51:32.034174+00:00",
+      "post_id": "390933266065957",
+      "post_link": "https://app.binance.com/uni-qr/cpos/390933266065957?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-22T00:56:59.787399+00:00",
+  "last_run_at": "2026-11-22T07:51:32.043852+00:00",
   "last_run_published_count": 1
 }
