@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T07:51:09.190837+00:00",
+  "updated_at": "2026-11-22T15:55:37.610919+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -8683,6 +8683,20 @@
       "status": "draft_created",
       "score": 10,
       "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins": {
+      "processed_at": "2026-11-22T15:55:37.610760+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand": {
+      "processed_at": "2026-11-22T15:55:37.610915+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
       "source": "Cointelegraph"
     }
   }
