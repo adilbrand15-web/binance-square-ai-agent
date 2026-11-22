@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T20:37:18.324934+00:00",
+  "updated_at": "2026-11-22T00:56:44.383771+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -8663,6 +8663,13 @@
       "score": 6,
       "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
       "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813": {
+      "processed_at": "2026-11-22T00:56:44.383757+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+      "source": "The Block"
     }
   }
 }
