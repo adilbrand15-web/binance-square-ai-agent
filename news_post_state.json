@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T02:14:34.673310+00:00",
+  "updated_at": "2026-11-23T11:00:30.389275+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -8732,6 +8732,97 @@
       "status": "draft_created",
       "score": 7,
       "title": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/policy/2026/11/23/south-korea-to-expand-cryptocurrency-account-freezes-and-curb-illicit-transfers-abroad": {
+      "processed_at": "2026-11-23T11:00:30.388401+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "South Korea to expand cryptocurrency account freezes and curb illicit transfers abroad",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/23/bitcoin-breaks-a-record-streak-of-lower-highs-here-s-what-it-means": {
+      "processed_at": "2026-11-23T11:00:30.388484+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin breaks a record streak of 'lower highs.' Here's what it means",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/business/2026-11-23-ocbc-straitsx-pilot-stablecoin-payments-444880": {
+      "processed_at": "2026-11-23T11:00:30.388602+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Singapore’s OCBC, StraitsX launch pilot for cross-border business stablecoin payments",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/23/u-s-inflation-thanksgiving-trading-crypto-week-ahead": {
+      "processed_at": "2026-11-23T11:00:30.388649+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "U.S. inflation, Thanksgiving trading: Crypto Week Ahead",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap": {
+      "processed_at": "2026-11-23T11:00:30.388702+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows": {
+      "processed_at": "2026-11-23T11:00:30.388798+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Crypto thieves are using online ads to infect iPhones with a single tap, research finds",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand": {
+      "processed_at": "2026-11-23T11:00:30.388973+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo": {
+      "processed_at": "2026-11-23T11:00:30.389052+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Trump renews call for Nvidia to rehire Jensen Huang as CEO",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866": {
+      "processed_at": "2026-11-23T11:00:30.389191+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857": {
+      "processed_at": "2026-11-23T11:00:30.389217+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion": {
+      "processed_at": "2026-11-23T11:00:30.389235+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession": {
+      "processed_at": "2026-11-23T11:00:30.389256+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-23-south-korea-to-publish-draft-digital-asset-basic-act-444881": {
+      "processed_at": "2026-11-23T11:00:30.389273+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "South Korea to publish draft of comprehensive crypto legal framework this week",
       "source": "The Block"
     }
   }
