@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz",
-      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
-      "source": "Cointelegraph",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nCrypto Biz: Bitcoin’s quantum threat is becoming an economic problem\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-30T19:51:03.798926+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
       "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
       "source": "CoinDesk",
@@ -2105,6 +2096,51 @@
       "post_text": "📰 Crypto News Update\n\nA $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 7/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-23T02:14:55.027235+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866",
+      "title": "Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nArk buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866\n\n#Ethereum #CryptoETF #Solana #CryptoNews #Cryptocurrency",
+      "added_at": "2026-11-23T11:00:47.991469+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857",
+      "title": "Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nSpot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-23T11:00:47.991485+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion",
+      "title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs shed $1.8B in third-largest weekly outflow\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-23T11:00:47.991489+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession",
+      "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nBillionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession\n\n#FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-23T11:00:47.991492+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/regulation/2026-11-23-south-korea-to-publish-draft-digital-asset-basic-act-444881",
+      "title": "South Korea to publish draft of comprehensive crypto legal framework this week",
+      "source": "The Block",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nSouth Korea to publish draft of comprehensive crypto legal framework this week\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-11-23-south-korea-to-publish-draft-digital-asset-basic-act-444881\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-23T11:00:47.991494+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3439,10 +3475,19 @@
       "post_id": "391204437406276",
       "post_link": "https://app.binance.com/uni-qr/cpos/391204437406276?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz": {
+      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "published_at": "2026-11-23T11:00:49.058538+00:00",
+      "post_id": "391333678868071",
+      "post_link": "https://app.binance.com/uni-qr/cpos/391333678868071?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-23T02:14:55.973670+00:00",
+  "last_run_at": "2026-11-23T11:00:49.063146+00:00",
   "last_run_published_count": 1
 }
