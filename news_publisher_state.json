@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
-      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nBinance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-30T19:51:03.798929+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded",
       "title": "Recap: How Binance’s record $6.3B hack unfolded",
       "source": "Cointelegraph",
@@ -2141,6 +2132,51 @@
       "post_text": "📰 Crypto News Update\n\nSouth Korea to publish draft of comprehensive crypto legal framework this week\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-11-23-south-korea-to-publish-draft-digital-asset-basic-act-444881\n\n#CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-23T11:00:47.991494+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack",
+      "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nUS seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-23T22:49:56.798345+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations",
+      "title": "Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations\n\nWhy it matters: This market development may be relevant to volatility, liquidity, and trader sentiment.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-23T22:49:56.798359+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/business/2026-11-23-okxice-launches-tokenized-securities-venue-444898",
+      "title": "OKXICE launches tokenized securities venue with 113 assets confirmed for 24/7 trading",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nOKXICE launches tokenized securities venue with 113 assets confirmed for 24/7 trading\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-11-23-okxice-launches-tokenized-securities-venue-444898\n\n#CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-23T22:49:56.798363+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/deals/2026-11-23-lendingusa-cross-river-bitcoin-backed-loans-444842",
+      "title": "Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nCross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/deals/2026-11-23-lendingusa-cross-river-bitcoin-backed-loans-444842\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-23T22:49:56.798365+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/btc-price-stock-futures-rebound-three-things-know-bitcoin-this-week",
+      "title": "BTC price gains 12% from $55K: Three things to know in Bitcoin this week",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBTC price gains 12% from $55K: Three things to know in Bitcoin this week\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/btc-price-stock-futures-rebound-three-things-know-bitcoin-this-week\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-23T22:49:56.798367+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3484,10 +3520,19 @@
       "post_id": "391333678868071",
       "post_link": "https://app.binance.com/uni-qr/cpos/391333678868071?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart": {
+      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-11-23T22:49:57.901350+00:00",
+      "post_id": "391507958968525",
+      "post_link": "https://app.binance.com/uni-qr/cpos/391507958968525?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-23T11:00:49.063146+00:00",
+  "last_run_at": "2026-11-23T22:49:57.905842+00:00",
   "last_run_published_count": 1
 }
