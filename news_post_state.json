@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T21:33:18.401021+00:00",
+  "updated_at": "2026-11-23T02:14:34.673310+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -8711,6 +8711,27 @@
       "status": "draft_created",
       "score": 10,
       "title": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges": {
+      "processed_at": "2026-11-23T02:14:34.673128+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest": {
+      "processed_at": "2026-11-23T02:14:34.673238+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838": {
+      "processed_at": "2026-11-23T02:14:34.673307+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge",
       "source": "The Block"
     }
   }
