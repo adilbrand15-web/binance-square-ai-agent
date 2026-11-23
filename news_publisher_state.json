@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble",
-      "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
-      "source": "Cointelegraph",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nCoinbase leads crypto stock selloff following $6.3B Binance hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-30T19:51:03.798910+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz",
       "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
       "source": "Cointelegraph",
@@ -2105,6 +2096,15 @@
       "post_text": "📰 Crypto News Update\n\nChainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829\n\n#Bitcoin #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-22T21:33:37.971177+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
+      "title": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge",
+      "source": "The Block",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nA $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 7/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-23T02:14:55.027235+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3430,10 +3430,19 @@
       "post_id": "391135309093981",
       "post_link": "https://app.binance.com/uni-qr/cpos/391135309093981?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble": {
+      "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "published_at": "2026-11-23T02:14:55.969082+00:00",
+      "post_id": "391204437406276",
+      "post_link": "https://app.binance.com/uni-qr/cpos/391204437406276?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-22T21:33:38.927475+00:00",
+  "last_run_at": "2026-11-23T02:14:55.973670+00:00",
   "last_run_published_count": 1
 }
