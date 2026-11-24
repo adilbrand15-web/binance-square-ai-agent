@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded",
-      "title": "Recap: How Binance’s record $6.3B hack unfolded",
-      "source": "Cointelegraph",
-      "importance_score": 9,
-      "post_text": "📰 Crypto News Update\n\nRecap: How Binance’s record $6.3B hack unfolded\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-30T19:51:03.798931+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b",
       "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
       "source": "Cointelegraph",
@@ -2177,6 +2168,42 @@
       "post_text": "📰 Crypto News Update\n\nBTC price gains 12% from $55K: Three things to know in Bitcoin this week\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/btc-price-stock-futures-rebound-three-things-know-bitcoin-this-week\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-23T22:49:56.798367+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-24-doj-binance-hack-strategy-bitcoin-more-crypto-news-445430",
+      "title": "DOJ moves to recover $1.17 billion from Binance hack, Strategy buys another 457 BTC, and more",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nDOJ moves to recover $1.17 billion from Binance hack, Strategy buys another 457 BTC, and more\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/newsletters/the-daily/2026-11-24-doj-binance-hack-strategy-bitcoin-more-crypto-news-445430\n\n#Bitcoin #Binance #CryptoSecurity #CryptoNews #Cryptocurrency",
+      "added_at": "2026-11-24T06:45:03.181491+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/markets/2026-11-23-california-court-terminates-lawsuit-coinbase-terrausd-445448",
+      "title": "California court terminates lawsuit against Coinbase over TerraUSD purchases",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nCalifornia court terminates lawsuit against Coinbase over TerraUSD purchases\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-11-23-california-court-terminates-lawsuit-coinbase-terrausd-445448\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-24T06:45:03.181507+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul",
+      "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nEthereum Foundation doubles protocol security team ahead of overhaul\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul\n\n#Ethereum #CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-24T06:45:03.181512+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves",
+      "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nCFTC staff say exchanges can count Bitcoin toward operating reserves\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-24T06:45:03.181515+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3529,10 +3556,19 @@
       "post_id": "391507958968525",
       "post_link": "https://app.binance.com/uni-qr/cpos/391507958968525?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded": {
+      "title": "Recap: How Binance’s record $6.3B hack unfolded",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "published_at": "2026-11-24T06:45:04.159946+00:00",
+      "post_id": "391624720515040",
+      "post_link": "https://app.binance.com/uni-qr/cpos/391624720515040?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-23T22:49:57.905842+00:00",
+  "last_run_at": "2026-11-24T06:45:04.170348+00:00",
   "last_run_published_count": 1
 }
