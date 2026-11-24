@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T22:49:22.364092+00:00",
+  "updated_at": "2026-11-24T06:44:47.430004+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -9047,6 +9047,69 @@
       "status": "draft_created",
       "score": 10,
       "title": "BTC price gains 12% from $55K: Three things to know in Bitcoin this week",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472": {
+      "processed_at": "2026-11-24T06:44:47.429525+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin slips back toward $60,000 as Jensen Huang’s Nvidia return rally fizzles",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip": {
+      "processed_at": "2026-11-24T06:44:47.429635+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Why 42 Macro says it’s waiting to buy the Bitcoin dip",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-23-kalshi-pauses-operations-utah-dodging-ban-new-york-445456": {
+      "processed_at": "2026-11-24T06:44:47.429677+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Kalshi halts operations in Utah while dodging immediate ban in New York",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435": {
+      "processed_at": "2026-11-24T06:44:47.429803+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "CFTC staff say bitcoin, ether can count toward derivatives firms’ operating expenses",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes": {
+      "processed_at": "2026-11-24T06:44:47.429847+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/newsletters/the-daily/2026-11-24-doj-binance-hack-strategy-bitcoin-more-crypto-news-445430": {
+      "processed_at": "2026-11-24T06:44:47.429957+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "DOJ moves to recover $1.17 billion from Binance hack, Strategy buys another 457 BTC, and more",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/markets/2026-11-23-california-court-terminates-lawsuit-coinbase-terrausd-445448": {
+      "processed_at": "2026-11-24T06:44:47.429975+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "California court terminates lawsuit against Coinbase over TerraUSD purchases",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul": {
+      "processed_at": "2026-11-24T06:44:47.429988+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves": {
+      "processed_at": "2026-11-24T06:44:47.430003+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
       "source": "Cointelegraph"
     }
   }
