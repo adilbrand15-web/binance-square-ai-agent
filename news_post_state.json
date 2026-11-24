@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T06:44:47.430004+00:00",
+  "updated_at": "2026-11-24T18:38:15.067997+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -9111,6 +9111,188 @@
       "score": 6,
       "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
       "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498": {
+      "processed_at": "2026-11-24T18:38:15.066546+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Kraken’s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-24-rep-raskin-probes-trump-jr-s-firms-investments-polymarket-juul-suspiciously-well-timed-government-favors-446052": {
+      "processed_at": "2026-11-24T18:38:15.066652+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Rep. Raskin probes Trump Jr.’s firm’s investments into Polymarket and Juul over ‘suspiciously well-timed government favors’",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/newsletters/data-and-insights/2026-11-24-weve-entered-peak-fear-sky-falls-445476": {
+      "processed_at": "2026-11-24T18:38:15.066704+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "We’ve Entered Peak FEAR; SKY Falls",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price": {
+      "processed_at": "2026-11-24T18:38:15.066738+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030": {
+      "processed_at": "2026-11-24T18:38:15.066773+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Robinhood co-leads $5 million seed round for onchain trading platform Rialto",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705": {
+      "processed_at": "2026-11-24T18:38:15.066807+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Ansem denies involvement in $2.57 million wallet drain; Black Bull creator coin plummets 55%",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness": {
+      "processed_at": "2026-11-24T18:38:15.066884+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary": {
+      "processed_at": "2026-11-24T18:38:15.066953+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Anchorage Digital to unveil new asset-management subsidiary",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment": {
+      "processed_at": "2026-11-24T18:38:15.066986+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/learn/campus/crypto-market-structure-basics-442986": {
+      "processed_at": "2026-11-24T18:38:15.067025+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Crypto Market Structure Basics",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch": {
+      "processed_at": "2026-11-24T18:38:15.067095+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395": {
+      "processed_at": "2026-11-24T18:38:15.067126+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/business/2026-11-24-ledn-launches-us-custody-account-bitcoin-gold-stablecoins-lending-445411": {
+      "processed_at": "2026-11-24T18:38:15.067161+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Ledn brings US business onshore with account to hold, swap and borrow against bitcoin",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/markets/2026-11-24-neuberger-berman-tokenized-hinc-fund-aave-horizon-collateral-445391": {
+      "processed_at": "2026-11-24T18:38:15.067199+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Neuberger Berman’s HINC fund brings high-yield credit to Aave’s institutional lending platform",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale": {
+      "processed_at": "2026-11-24T18:38:15.067319+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto": {
+      "processed_at": "2026-11-24T18:38:15.067420+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels": {
+      "processed_at": "2026-11-24T18:38:15.067570+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-24-south-korea-new-crypto-bill-445494": {
+      "processed_at": "2026-11-24T18:38:15.067641+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "South Korea’s draft crypto bill sets path for domestic ICOs while capping exchange shareholder stakes at 20%",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute": {
+      "processed_at": "2026-11-24T18:38:15.067760+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "South Korea regulator backs bank-controlled stablecoins after months of dispute",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades": {
+      "processed_at": "2026-11-24T18:38:15.067795+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s": {
+      "processed_at": "2026-11-24T18:38:15.067826+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562": {
+      "processed_at": "2026-11-24T18:38:15.067944+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says ‘we do not take this lightly’",
+      "source": "The Block"
+    },
+    "https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548": {
+      "processed_at": "2026-11-24T18:38:15.067963+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin ETFs see another $570 million in net outflows as November total nears $5 billion and BTC dips below $60K",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement": {
+      "processed_at": "2026-11-24T18:38:15.067974+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered": {
+      "processed_at": "2026-11-24T18:38:15.067984+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple": {
+      "processed_at": "2026-11-24T18:38:15.067995+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
+      "source": "CoinDesk"
     }
   }
 }
