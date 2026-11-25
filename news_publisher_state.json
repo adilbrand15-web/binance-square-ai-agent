@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236",
-      "title": "President Trump says they’re looking into Binance hack as calls grow for crypto rules",
-      "source": "The Block",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nPresident Trump says they’re looking into Binance hack as calls grow for crypto rules\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-30T23:27:44.255820+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
       "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
       "source": "CoinDesk",
@@ -2285,6 +2276,51 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: The Block\nRead the original report: https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074\n\n#Bitcoin #Ethereum #CryptoRegulation #CryptoNews #Cryptocurrency",
       "added_at": "2026-11-25T12:12:18.682791+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites",
+      "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBraiins warns of Bitcoin mining attacks affecting over 1,000 sites\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-25T21:54:48.022007+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
+      "title": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nFidelity files for spot Chainlink ETF with planned Nasdaq listing\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735\n\n#CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-25T21:54:48.022022+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook",
+      "title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nUS inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook\n\n#FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-25T21:54:48.022027+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686",
+      "title": "Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF",
+      "source": "The Block",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nHyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686\n\n#Bitcoin #Ethereum #CryptoETF #CryptoNews #Cryptocurrency",
+      "added_at": "2026-11-25T21:54:48.022029+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+      "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
+      "source": "The Block",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nBitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 9/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723\n\n#Bitcoin #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-25T21:54:48.022032+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3673,10 +3709,19 @@
       "post_id": "392059042406048",
       "post_link": "https://app.binance.com/uni-qr/cpos/392059042406048?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236": {
+      "title": "President Trump says they’re looking into Binance hack as calls grow for crypto rules",
+      "source": "The Block",
+      "importance_score": 10,
+      "published_at": "2026-11-25T21:54:48.972905+00:00",
+      "post_id": "392202194342666",
+      "post_link": "https://app.binance.com/uni-qr/cpos/392202194342666?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-25T12:12:19.797688+00:00",
+  "last_run_at": "2026-11-25T21:54:48.978748+00:00",
   "last_run_published_count": 1
 }
