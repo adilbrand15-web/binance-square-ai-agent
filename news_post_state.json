@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T18:38:15.067997+00:00",
+  "updated_at": "2026-11-25T02:55:51.112195+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -9293,6 +9293,62 @@
       "score": 10,
       "title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
       "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books": {
+      "processed_at": "2026-11-25T02:55:51.111872+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061": {
+      "processed_at": "2026-11-25T02:55:51.111953+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown": {
+      "processed_at": "2026-11-25T02:55:51.111987+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067": {
+      "processed_at": "2026-11-25T02:55:51.112018+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "SEC staff gives Molecule no-action relief for scientific research tokens",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt": {
+      "processed_at": "2026-11-25T02:55:51.112057+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years": {
+      "processed_at": "2026-11-25T02:55:51.112122+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack": {
+      "processed_at": "2026-11-25T02:55:51.112178+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Hackers breach CIA intelligence network in latest US cyberattack",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares": {
+      "processed_at": "2026-11-25T02:55:51.112193+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
+      "source": "Cointelegraph"
     }
   }
 }
