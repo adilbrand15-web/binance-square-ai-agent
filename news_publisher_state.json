@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225",
-      "title": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
-      "source": "The Block",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nInside the largest crypto hack on record: How attackers breached Binance for $6.3 billion\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-30T23:27:44.255815+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236",
       "title": "President Trump says they’re looking into Binance hack as calls grow for crypto rules",
       "source": "The Block",
@@ -2249,6 +2240,51 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin sell-off driven by weak demand, forced liquidations: 21Shares\n\nWhy it matters: This market development may be relevant to volatility, liquidity, and trader sentiment.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-25T02:56:08.732343+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows",
+      "title": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nBitcoin ETFs near $5B in record monthly outflows amid AI stock rout\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-25T12:12:18.682760+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k",
+      "title": "French Senate rejects 100K euro crypto wallet disclosure requirement",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nFrench Senate rejects 100K euro crypto wallet disclosure requirement\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-25T12:12:18.682783+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109",
+      "title": "Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000",
+      "source": "The Block",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nArk sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-25T12:12:18.682787+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch",
+      "title": "Solana DEX Velocity halts trading over bug just months after relaunch",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nSolana DEX Velocity halts trading over bug just months after relaunch\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch\n\n#Solana #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-25T12:12:18.682789+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
+      "title": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
+      "source": "The Block",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nBitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: The Block\nRead the original report: https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074\n\n#Bitcoin #Ethereum #CryptoRegulation #CryptoNews #Cryptocurrency",
+      "added_at": "2026-11-25T12:12:18.682791+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3628,10 +3664,19 @@
       "post_id": "391922358816400",
       "post_link": "https://app.binance.com/uni-qr/cpos/391922358816400?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225": {
+      "title": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
+      "source": "The Block",
+      "importance_score": 10,
+      "published_at": "2026-11-25T12:12:19.792610+00:00",
+      "post_id": "392059042406048",
+      "post_link": "https://app.binance.com/uni-qr/cpos/392059042406048?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-25T02:56:09.774188+00:00",
+  "last_run_at": "2026-11-25T12:12:19.797688+00:00",
   "last_run_published_count": 1
 }
