@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T02:55:51.112195+00:00",
+  "updated_at": "2026-11-25T12:12:00.997960+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -9349,6 +9349,146 @@
       "score": 10,
       "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
       "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization": {
+      "processed_at": "2026-11-25T12:12:00.996786+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities": {
+      "processed_at": "2026-11-25T12:12:00.996842+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Hong Kong launches tokenized debt platform with 24-hour settlement",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same": {
+      "processed_at": "2026-11-25T12:12:00.996888+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats": {
+      "processed_at": "2026-11-25T12:12:00.996967+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin price may fall below $53K if bear-market history repeats",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push": {
+      "processed_at": "2026-11-25T12:12:00.997005+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/hyperliquid-hype-price-falls-abraxas-capital-wallets": {
+      "processed_at": "2026-11-25T12:12:00.997046+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "HYPE drops 8% as Trump bump gives way to 40% slide from peak",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131": {
+      "processed_at": "2026-11-25T12:12:00.997093+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/markets/stablecoin-cash-out-2022-bear-market": {
+      "processed_at": "2026-11-25T12:12:00.997214+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Stablecoin redemptions hit $12B in 30 days, echoing 2022 bear market",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower": {
+      "processed_at": "2026-11-25T12:12:00.997335+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Live updates: Bitcoin slips back under $60,000 as HYPE leads altcoins lower",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost": {
+      "processed_at": "2026-11-25T12:12:00.997450+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Solana developers move to stop validators finishing work on blocks that already lost",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter": {
+      "processed_at": "2026-11-25T12:12:00.997486+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive": {
+      "processed_at": "2026-11-25T12:12:00.997599+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth": {
+      "processed_at": "2026-11-25T12:12:00.997642+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "A year after buying bitcoin, Czech central bank won't say what it's worth",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary": {
+      "processed_at": "2026-11-25T12:12:00.997726+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Trump willing to pardon Jensen Huang, says it won’t be necessary",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one": {
+      "processed_at": "2026-11-25T12:12:00.997789+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows": {
+      "processed_at": "2026-11-25T12:12:00.997887+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k": {
+      "processed_at": "2026-11-25T12:12:00.997914+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "French Senate rejects 100K euro crypto wallet disclosure requirement",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109": {
+      "processed_at": "2026-11-25T12:12:00.997931+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch": {
+      "processed_at": "2026-11-25T12:12:00.997945+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Solana DEX Velocity halts trading over bug just months after relaunch",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074": {
+      "processed_at": "2026-11-25T12:12:00.997958+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
+      "source": "The Block"
     }
   }
 }
