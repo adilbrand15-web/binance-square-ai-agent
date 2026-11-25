@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen",
-      "title": "Binance hackers raced to move billions before it could be frozen",
-      "source": "Cointelegraph",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nBinance hackers raced to move billions before it could be frozen\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-30T23:27:44.255800+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225",
       "title": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
       "source": "The Block",
@@ -2240,6 +2231,24 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin hands back Monday's Nvidia-driven gains, liquidations triple\n\nWhy it matters: This market development may be relevant to volatility, liquidity, and trader sentiment.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-24T18:38:38.267510+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack",
+      "title": "Hackers breach CIA intelligence network in latest US cyberattack",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nHackers breach CIA intelligence network in latest US cyberattack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-25T02:56:08.732329+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares",
+      "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin sell-off driven by weak demand, forced liquidations: 21Shares\n\nWhy it matters: This market development may be relevant to volatility, liquidity, and trader sentiment.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-25T02:56:08.732343+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3610,10 +3619,19 @@
       "post_id": "391800091371064",
       "post_link": "https://app.binance.com/uni-qr/cpos/391800091371064?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen": {
+      "title": "Binance hackers raced to move billions before it could be frozen",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "published_at": "2026-11-25T02:56:09.768552+00:00",
+      "post_id": "391922358816400",
+      "post_link": "https://app.binance.com/uni-qr/cpos/391922358816400?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-24T18:38:39.291923+00:00",
+  "last_run_at": "2026-11-25T02:56:09.774188+00:00",
   "last_run_published_count": 1
 }
