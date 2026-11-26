@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
-      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nBitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve\n\n#Bitcoin #Binance #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-31T09:17:18.664881+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up",
       "title": "Bitcoin turns 18: Has the original rebel grown up?",
       "source": "Cointelegraph",
@@ -2321,6 +2312,51 @@
       "post_text": "📰 Crypto News Update\n\nSens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 7/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756\n\n#CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-26T03:57:02.549508+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november",
+      "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nBitcoin ETF November outflows top $5B, Morgan Stanley bucks trend\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-26T13:38:36.395885+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf",
+      "title": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nSwitzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-26T13:38:36.395906+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack",
+      "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nUK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-26T13:38:36.395911+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook",
+      "title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nUS inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook\n\n#FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-26T13:38:36.395914+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814",
+      "title": "Spot bitcoin ETFs on track for worst month on record as bear market drags on",
+      "source": "The Block",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nSpot bitcoin ETFs on track for worst month on record as bear market drags on\n\nWhy it matters: Institutional activity and fund flows can provide useful context about crypto-market participation.\n\nImportance score: 9/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814\n\n#Bitcoin #CryptoETF #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-26T13:38:36.395916+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3727,10 +3763,19 @@
       "post_id": "392291218721843",
       "post_link": "https://app.binance.com/uni-qr/cpos/392291218721843?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve": {
+      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-11-26T13:38:37.435228+00:00",
+      "post_id": "392434144609854",
+      "post_link": "https://app.binance.com/uni-qr/cpos/392434144609854?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-26T03:57:03.437503+00:00",
+  "last_run_at": "2026-11-26T13:38:37.440692+00:00",
   "last_run_published_count": 1
 }
