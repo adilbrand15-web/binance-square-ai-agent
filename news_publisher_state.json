@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
-      "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nExperts divided over Binance hack asset freezes, warn recovery is another matter\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-30T23:27:44.255823+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
       "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
       "source": "CoinDesk",
@@ -2321,6 +2312,15 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 9/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723\n\n#Bitcoin #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-25T21:54:48.022032+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756",
+      "title": "Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption",
+      "source": "The Block",
+      "importance_score": 7,
+      "post_text": "📰 Crypto News Update\n\nSens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 7/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756\n\n#CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-26T03:57:02.549508+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3718,10 +3718,19 @@
       "post_id": "392202194342666",
       "post_link": "https://app.binance.com/uni-qr/cpos/392202194342666?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter": {
+      "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-11-26T03:57:03.431869+00:00",
+      "post_id": "392291218721843",
+      "post_link": "https://app.binance.com/uni-qr/cpos/392291218721843?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-25T21:54:48.978748+00:00",
+  "last_run_at": "2026-11-26T03:57:03.437503+00:00",
   "last_run_published_count": 1
 }
