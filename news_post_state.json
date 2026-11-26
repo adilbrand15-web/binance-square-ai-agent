@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T03:56:42.706568+00:00",
+  "updated_at": "2026-11-26T13:38:17.512940+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -9663,6 +9663,139 @@
       "status": "draft_created",
       "score": 7,
       "title": "Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/magazine/7-bizarre-things-crypto-whales-spent-a-fortune-on": {
+      "processed_at": "2026-11-26T13:38:17.511929+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "7 bizarre things crypto whales spent a fortune on",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/ecosystems/2026-11-26-the-time-to-prepare-for-a-cryptographic-breakthrough-is-before-it-happens-zcash-team-urges-faster-deprecation-of-legacy-shielded-pool-447000": {
+      "processed_at": "2026-11-26T13:38:17.511992+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "‘The time to prepare for a cryptographic breakthrough is before it happens’: Zcash team urges faster deprecation of legacy shielded pool",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information": {
+      "processed_at": "2026-11-26T13:38:17.512032+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/vitalik-buterin-verifiable-chips-hardware-wallet-threats-evolve": {
+      "processed_at": "2026-11-26T13:38:17.512094+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Vitalik Buterin calls for verifiable chips as hardware wallet threats evolve",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity": {
+      "processed_at": "2026-11-26T13:38:17.512158+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving": {
+      "processed_at": "2026-11-26T13:38:17.512191+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech": {
+      "processed_at": "2026-11-26T13:38:17.512227+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/zcash-users-migrate-zec-supply-sapling-pool-retirement": {
+      "processed_at": "2026-11-26T13:38:17.512259+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Zcash devs urge users to migrate 2% of ZEC supply to accelerate Sapling pool retirement",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-26-switzerland-approves-57-jurisdictions-for-crypto-data-exchange-from-2028-446821": {
+      "processed_at": "2026-11-26T13:38:17.512319+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Switzerland approves 57 jurisdictions for crypto data exchange from 2028",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october": {
+      "processed_at": "2026-11-26T13:38:17.512425+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes": {
+      "processed_at": "2026-11-26T13:38:17.512488+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show": {
+      "processed_at": "2026-11-26T13:38:17.512582+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786": {
+      "processed_at": "2026-11-26T13:38:17.512616+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Galaxy walks back bitcoin’s June-bottom call, warns of deeper losses below $58,525",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house": {
+      "processed_at": "2026-11-26T13:38:17.512711+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november": {
+      "processed_at": "2026-11-26T13:38:17.512871+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf": {
+      "processed_at": "2026-11-26T13:38:17.512894+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack": {
+      "processed_at": "2026-11-26T13:38:17.512906+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook": {
+      "processed_at": "2026-11-26T13:38:17.512924+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814": {
+      "processed_at": "2026-11-26T13:38:17.512938+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Spot bitcoin ETFs on track for worst month on record as bear market drags on",
       "source": "The Block"
     }
   }
