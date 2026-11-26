@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T13:38:17.512940+00:00",
+  "updated_at": "2026-11-26T22:48:14.451348+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -9797,6 +9797,118 @@
       "score": 9,
       "title": "Spot bitcoin ETFs on track for worst month on record as bear market drags on",
       "source": "The Block"
+    },
+    "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express": {
+      "processed_at": "2026-11-26T22:48:14.450301+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai": {
+      "processed_at": "2026-11-26T22:48:14.450369+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "BNB Chain details new layer-1 for trading, private finance and AI",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets": {
+      "processed_at": "2026-11-26T22:48:14.450531+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts": {
+      "processed_at": "2026-11-26T22:48:14.450586+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-26-tokenized-anthropic-holders-doubled-in-3-days-446013": {
+      "processed_at": "2026-11-26T22:48:14.450730+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Tokenized Anthropic Holders Doubled in 3 Days",
+      "source": "The Block"
+    },
+    "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds": {
+      "processed_at": "2026-11-26T22:48:14.450786+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases": {
+      "processed_at": "2026-11-26T22:48:14.450835+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president": {
+      "processed_at": "2026-11-26T22:48:14.450880+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
+      "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007": {
+      "processed_at": "2026-11-26T22:48:14.450931+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/how-eu-brokers-could-lose-access-to-kyrgyz-crypto-exchanges": {
+      "processed_at": "2026-11-26T22:48:14.451004+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "How EU brokers could lose access to Kyrgyz crypto exchanges",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange": {
+      "processed_at": "2026-11-26T22:48:14.451060+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge": {
+      "processed_at": "2026-11-26T22:48:14.451112+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/nasdaq-exec-eu-wide-legal-framework-tokenized-securities": {
+      "processed_at": "2026-11-26T22:48:14.451176+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack": {
+      "processed_at": "2026-11-26T22:48:14.451274+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase": {
+      "processed_at": "2026-11-26T22:48:14.451312+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown": {
+      "processed_at": "2026-11-26T22:48:14.451345+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
+      "source": "Cointelegraph"
     }
   }
 }
