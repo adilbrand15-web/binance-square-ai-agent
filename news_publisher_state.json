@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion",
-      "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nThe $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-31T15:27:37.391766+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter",
       "title": "Binance $6.3B record hack sparks pre-election political clashes",
       "source": "Cointelegraph",
@@ -2438,6 +2429,15 @@
       "post_text": "📰 Crypto News Update\n\nAI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 6/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549\n\n#Bitcoin #CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-27T14:42:24.858655+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound",
+      "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+      "source": "Cointelegraph",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nBitcoin price drops below $59K as Anthropic joins tech stock rebound\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-27T23:13:29.700352+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3880,10 +3880,19 @@
       "post_id": "392803721624664",
       "post_link": "https://app.binance.com/uni-qr/cpos/392803721624664?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion": {
+      "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-11-27T23:13:30.807410+00:00",
+      "post_id": "392929323695674",
+      "post_link": "https://app.binance.com/uni-qr/cpos/392929323695674?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-27T14:42:26.238484+00:00",
+  "last_run_at": "2026-11-27T23:13:30.812934+00:00",
   "last_run_published_count": 1
 }
