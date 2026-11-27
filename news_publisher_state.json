@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244",
-      "title": "Chainalysis says hacker using ‘offensive agentic techniques’ accessed its customers’ names and emails",
-      "source": "The Block",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nChainalysis says hacker using ‘offensive agentic techniques’ accessed its customers’ names and emails\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244\n\n#CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-31T15:27:37.391761+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
       "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
       "source": "CoinDesk",
@@ -2375,6 +2366,42 @@
       "post_text": "📰 Crypto News Update\n\nCrypto on notice as hawkish Fed risks December ‘meltdown’\n\nWhy it matters: Macroeconomic developments can influence risk appetite across crypto markets.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown\n\n#FederalReserve #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-26T22:48:39.782994+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+      "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+      "source": "CoinDesk",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nBinance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 9/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-27T04:47:17.728890+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025",
+      "title": "JPMorgan flags bitcoin ‘capitulation,’ Democrats push back on SEC’s crypto plans, and more",
+      "source": "The Block",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nJPMorgan flags bitcoin ‘capitulation,’ Democrats push back on SEC’s crypto plans, and more\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: The Block\nRead the original report: https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025\n\n#Bitcoin #CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-27T04:47:17.728904+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them",
+      "title": "AI is driving a flood of crypto bug reports. Now it’s helping sort them",
+      "source": "Cointelegraph",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nAI is driving a flood of crypto bug reports. Now it’s helping sort them\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 8/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them\n\n#CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-27T04:47:17.728909+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+      "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+      "source": "CoinDesk",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nEthereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know\n\n#Ethereum #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-27T04:47:17.728912+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3799,10 +3826,19 @@
       "post_id": "392569326190183",
       "post_link": "https://app.binance.com/uni-qr/cpos/392569326190183?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244": {
+      "title": "Chainalysis says hacker using ‘offensive agentic techniques’ accessed its customers’ names and emails",
+      "source": "The Block",
+      "importance_score": 10,
+      "published_at": "2026-11-27T04:47:18.998535+00:00",
+      "post_id": "392657464794427",
+      "post_link": "https://app.binance.com/uni-qr/cpos/392657464794427?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-26T22:48:40.907526+00:00",
+  "last_run_at": "2026-11-27T04:47:19.004654+00:00",
   "last_run_published_count": 1
 }
