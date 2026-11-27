@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
-      "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
-      "source": "CoinDesk",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nA Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears\n\n#Bitcoin #Binance #CryptoSecurity #CryptoNews #Cryptocurrency",
-      "added_at": "2026-10-31T15:27:37.391764+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion",
       "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
       "source": "CoinDesk",
@@ -2402,6 +2393,51 @@
       "post_text": "📰 Crypto News Update\n\nEthereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know\n\n#Ethereum #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-27T04:47:17.728912+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response",
+      "title": "Japan’s crypto security group taps SEAL to speed up hack response",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "post_text": "📰 Crypto News Update\n\nJapan’s crypto security group taps SEAL to speed up hack response\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response\n\n#CryptoRegulation #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-27T14:42:24.858618+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://cointelegraph.com/news/binance-ipo-program-regulatory-approval-yi-he",
+      "title": "Binance to launch tokenized IPO program after regulatory approval: Yi He",
+      "source": "Cointelegraph",
+      "importance_score": 9,
+      "post_text": "📰 Crypto News Update\n\nBinance to launch tokenized IPO program after regulatory approval: Yi He\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 9/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-ipo-program-regulatory-approval-yi-he\n\n#Binance #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-27T14:42:24.858642+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+      "source": "CoinDesk",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nNext ECB chief favors tokenized bank deposits over stablecoins and bitcoin\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 8/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin\n\n#Bitcoin #Stablecoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-27T14:42:24.858649+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years",
+      "title": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
+      "source": "CoinDesk",
+      "importance_score": 8,
+      "post_text": "📰 Crypto News Update\n\nTether can freeze stolen crypto in minutes. Getting it back can take years.\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 8/10\nSource: CoinDesk\nRead the original report: https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years\n\n#Ethereum #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-27T14:42:24.858652+00:00",
+      "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549",
+      "title": "AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33",
+      "source": "The Block",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nAI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33\n\nWhy it matters: This legal or regulatory development may influence market access, compliance, and investor sentiment.\n\nImportance score: 6/10\nSource: The Block\nRead the original report: https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549\n\n#Bitcoin #CryptoRegulation #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-27T14:42:24.858655+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3835,10 +3871,19 @@
       "post_id": "392657464794427",
       "post_link": "https://app.binance.com/uni-qr/cpos/392657464794427?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears": {
+      "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
+      "source": "CoinDesk",
+      "importance_score": 10,
+      "published_at": "2026-11-27T14:42:26.232617+00:00",
+      "post_id": "392803721624664",
+      "post_link": "https://app.binance.com/uni-qr/cpos/392803721624664?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-27T04:47:19.004654+00:00",
+  "last_run_at": "2026-11-27T14:42:26.238484+00:00",
   "last_run_published_count": 1
 }
