@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T04:47:00.499949+00:00",
+  "updated_at": "2026-11-27T14:42:02.047986+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -9951,6 +9951,146 @@
       "score": 6,
       "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
       "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports": {
+      "processed_at": "2026-11-27T14:42:02.047031+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027": {
+      "processed_at": "2026-11-27T14:42:02.047090+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/austria-supervised-crypto-firms-report-204b-h1-volume": {
+      "processed_at": "2026-11-27T14:42:02.047139+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Austria-supervised crypto firms report 20.4B euros in H1 trading volume",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13": {
+      "processed_at": "2026-11-27T14:42:02.047168+00:00",
+      "status": "ignored_low_importance",
+      "score": 2,
+      "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound": {
+      "processed_at": "2026-11-27T14:42:02.047206+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains": {
+      "processed_at": "2026-11-27T14:42:02.047243+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Live updates: Bitcoin rebounds above $61,000 as AI stocks lead gains",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal": {
+      "processed_at": "2026-11-27T14:42:02.047324+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading": {
+      "processed_at": "2026-11-27T14:42:02.047367+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Injective asks SEC to allow order books for tokenized stock trading",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin": {
+      "processed_at": "2026-11-27T14:42:02.047402+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-27-bank-of-japan-official-says-stablecoins-need-reserve-rules-to-preserve-singleness-of-money-447059": {
+      "processed_at": "2026-11-27T14:42:02.047448+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Bank of Japan official says stablecoins need reserve rules to preserve ‘singleness of money’",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/bluefin-shut-down-perps-refocus-spot-trading-tokenized-rwas": {
+      "processed_at": "2026-11-27T14:42:02.047482+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Bluefin to shut down perps, refocus on spot trading and tokenized RWAs",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound": {
+      "processed_at": "2026-11-27T14:42:02.047558+00:00",
+      "status": "ignored_low_importance",
+      "score": 3,
+      "title": "Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027": {
+      "processed_at": "2026-11-27T14:42:02.047607+00:00",
+      "status": "ignored_low_importance",
+      "score": 1,
+      "title": "ESMA to overhaul EU’s MiCA crypto register in 2027",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why": {
+      "processed_at": "2026-11-27T14:42:02.047684+00:00",
+      "status": "ignored_low_importance",
+      "score": 5,
+      "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins": {
+      "processed_at": "2026-11-27T14:42:02.047815+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response": {
+      "processed_at": "2026-11-27T14:42:02.047928+00:00",
+      "status": "draft_created",
+      "score": 10,
+      "title": "Japan’s crypto security group taps SEAL to speed up hack response",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/binance-ipo-program-regulatory-approval-yi-he": {
+      "processed_at": "2026-11-27T14:42:02.047944+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Binance to launch tokenized IPO program after regulatory approval: Yi He",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin": {
+      "processed_at": "2026-11-27T14:42:02.047962+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+      "source": "CoinDesk"
+    },
+    "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years": {
+      "processed_at": "2026-11-27T14:42:02.047974+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549": {
+      "processed_at": "2026-11-27T14:42:02.047985+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33",
+      "source": "The Block"
     }
   }
 }
