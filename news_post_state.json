@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T22:48:14.451348+00:00",
+  "updated_at": "2026-11-27T04:47:00.499949+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -9909,6 +9909,48 @@
       "score": 6,
       "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
       "source": "Cointelegraph"
+    },
+    "https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029": {
+      "processed_at": "2026-11-27T04:47:00.499653+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash": {
+      "processed_at": "2026-11-27T04:47:00.499816+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack": {
+      "processed_at": "2026-11-27T04:47:00.499889+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+      "source": "CoinDesk"
+    },
+    "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025": {
+      "processed_at": "2026-11-27T04:47:00.499911+00:00",
+      "status": "draft_created",
+      "score": 9,
+      "title": "JPMorgan flags bitcoin ‘capitulation,’ Democrats push back on SEC’s crypto plans, and more",
+      "source": "The Block"
+    },
+    "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them": {
+      "processed_at": "2026-11-27T04:47:00.499931+00:00",
+      "status": "draft_created",
+      "score": 8,
+      "title": "AI is driving a flood of crypto bug reports. Now it’s helping sort them",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know": {
+      "processed_at": "2026-11-27T04:47:00.499947+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+      "source": "CoinDesk"
     }
   }
 }
