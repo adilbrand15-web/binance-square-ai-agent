@@ -1,15 +1,6 @@
 {
   "queue": [
     {
-      "link": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter",
-      "title": "Binance $6.3B record hack sparks pre-election political clashes",
-      "source": "Cointelegraph",
-      "importance_score": 10,
-      "post_text": "📰 Crypto News Update\n\nBinance $6.3B record hack sparks pre-election political clashes\n\nWhy it matters: This security incident may affect users, platforms, fund safety, and market confidence.\n\nImportance score: 10/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter\n\n#Binance #CryptoSecurity #CryptoNews #Cryptocurrency #Blockchain",
-      "added_at": "2026-10-31T15:27:37.391767+00:00",
-      "attempts": 0
-    },
-    {
       "link": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo",
       "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
       "source": "Cointelegraph",
@@ -2438,6 +2429,15 @@
       "post_text": "📰 Crypto News Update\n\nBitcoin price drops below $59K as Anthropic joins tech stock rebound\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: Cointelegraph\nRead the original report: https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
       "added_at": "2026-11-27T23:13:29.700352+00:00",
       "attempts": 0
+    },
+    {
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-27-bitcoin-recovery-usdt-supply-ai-threat-bitcoin-more-crypto-news-447571",
+      "title": "Bitcoin recovery needs USDT supply growth: CryptoQuant, K33 weighs AI threat to Bitcoin, and more",
+      "source": "The Block",
+      "importance_score": 6,
+      "post_text": "📰 Crypto News Update\n\nBitcoin recovery needs USDT supply growth: CryptoQuant, K33 weighs AI threat to Bitcoin, and more\n\nWhy it matters: This development may be relevant to crypto-market participants.\n\nImportance score: 6/10\nSource: The Block\nRead the original report: https://www.theblock.co/newsletters/the-daily/2026-11-27-bitcoin-recovery-usdt-supply-ai-threat-bitcoin-more-crypto-news-447571\n\n#Bitcoin #CryptoNews #Cryptocurrency #Blockchain",
+      "added_at": "2026-11-28T04:51:57.886435+00:00",
+      "attempts": 0
     }
   ],
   "published": {
@@ -3889,10 +3889,19 @@
       "post_id": "392929323695674",
       "post_link": "https://app.binance.com/uni-qr/cpos/392929323695674?r=NMTJ4ZM4&l=en",
       "attempts": 1
+    },
+    "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter": {
+      "title": "Binance $6.3B record hack sparks pre-election political clashes",
+      "source": "Cointelegraph",
+      "importance_score": 10,
+      "published_at": "2026-11-28T04:51:58.892397+00:00",
+      "post_id": "393012505697438",
+      "post_link": "https://app.binance.com/uni-qr/cpos/393012505697438?r=NMTJ4ZM4&l=en",
+      "attempts": 1
     }
   },
   "failed": {},
   "uncertain": {},
-  "last_run_at": "2026-11-27T23:13:30.812934+00:00",
+  "last_run_at": "2026-11-28T04:51:58.897560+00:00",
   "last_run_published_count": 1
 }
