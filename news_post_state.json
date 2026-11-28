@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T04:51:31.334136+00:00",
+  "updated_at": "2026-11-28T13:52:44.030363+00:00",
   "processed_urls": {
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": {
       "processed_at": "2026-10-16T10:45:46.956086+00:00",
@@ -10147,6 +10147,41 @@
       "score": 6,
       "title": "Bitcoin recovery needs USDT supply growth: CryptoQuant, K33 weighs AI threat to Bitcoin, and more",
       "source": "The Block"
+    },
+    "https://cointelegraph.com/news/justin-sun-calls-for-trump-family-linked-wlfi-token-to-be-delisted": {
+      "processed_at": "2026-11-28T13:52:44.029933+00:00",
+      "status": "ignored_low_importance",
+      "score": 0,
+      "title": "Justin Sun calls for Trump family-linked WLFI token to be delisted",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/28/bitcoin-not-delivering-the-bear-market-has-digital-asset-veteran-questioning-btc-s-value": {
+      "processed_at": "2026-11-28T13:52:44.030025+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "Bitcoin not delivering: The bear market has digital asset veteran questioning BTC's value",
+      "source": "CoinDesk"
+    },
+    "https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation": {
+      "processed_at": "2026-11-28T13:52:44.030078+00:00",
+      "status": "ignored_low_importance",
+      "score": 4,
+      "title": "ASEAN+3 agrees on initiative to explore crypto payments cooperation",
+      "source": "Cointelegraph"
+    },
+    "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan": {
+      "processed_at": "2026-11-28T13:52:44.030335+00:00",
+      "status": "draft_created",
+      "score": 7,
+      "title": "Binance plans Asia hub in Bhutan, receives preliminary approval",
+      "source": "Cointelegraph"
+    },
+    "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50": {
+      "processed_at": "2026-11-28T13:52:44.030360+00:00",
+      "status": "draft_created",
+      "score": 6,
+      "title": "Trump-linked crypto token WLFI plunges 50% to record lows",
+      "source": "CoinDesk"
     }
   }
 }
